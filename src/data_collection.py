@@ -37,32 +37,95 @@ TOP_TIER_INDICES = set(range(8))
 POSITIONS = ["GK", "CB", "LB", "RB", "CDM", "CM", "CAM", "LW", "RW", "ST"]
 POSITION_WEIGHTS = [0.08, 0.14, 0.07, 0.07, 0.08, 0.14, 0.08, 0.10, 0.10, 0.14]
 
-# Realistic first and last names (Spanish / international mix common in LaLiga)
-FIRST_NAMES = [
-    "Alejandro", "Carlos", "Daniel", "David", "Diego", "Fernando", "Gabriel",
-    "Hugo", "Iker", "Javier", "Jorge", "Jose", "Juan", "Lucas", "Luis",
-    "Manuel", "Marco", "Martin", "Miguel", "Pablo", "Pedro", "Rafael",
-    "Raul", "Roberto", "Samuel", "Santiago", "Sergio", "Victor", "Adrian",
-    "Alvaro", "Antoine", "Arthur", "Aurelien", "Dani", "Fede", "Ferran",
-    "Frenkie", "Gavi", "Ilkay", "Inaki", "Isco", "Jules", "Lamine",
-    "Marcos", "Memphis", "Mikel", "Nabil", "Pedri", "Robert", "Rodri",
-    "Samu", "Takefusa", "Vinicius", "Yeremi", "Youssef", "Nico", "Alex",
-    "Bryan", "Chimy", "Dario", "Enes", "Fran", "Gonzalo", "Hamari",
-    "Igor", "Jonathan", "Kike", "Leo", "Manu", "Nacho", "Oscar",
-]
-
-LAST_NAMES = [
-    "Garcia", "Rodriguez", "Martinez", "Lopez", "Hernandez", "Gonzalez",
-    "Perez", "Sanchez", "Ramirez", "Torres", "Flores", "Rivera",
-    "Gomez", "Diaz", "Moreno", "Munoz", "Alvarez", "Romero",
-    "Gutierrez", "Navarro", "Ruiz", "Ortega", "Delgado", "Castro",
-    "Ramos", "Gil", "Fernandez", "Jimenez", "Molina", "Suarez",
-    "Morales", "Vidal", "Reyes", "Cruz", "Iglesias", "Medina",
-    "Blanco", "Herrera", "Vargas", "Aguirre", "Pena", "Campos",
-    "Santos", "Carrasco", "Soto", "Dominguez", "Lozano", "Silva",
-    "De Jong", "Lewandowski", "Griezmann", "Sorloth", "Dovbyk",
-    "Williams", "Kubo", "Gundogan", "Tchouameni", "Bellingham",
-    "Yamal", "Camavinga", "Valverde", "Oyarzabal", "Budimir",
+# Real LaLiga player names (2024-25 season) to ensure realistic output.
+# We include enough names to cover all generated players; extras are filled
+# with realistic fictional names that don't collide with real-player combos.
+REAL_PLAYER_NAMES = [
+    # Real Madrid
+    "Thibaut Courtois", "Andriy Lunin", "Dani Carvajal", "Eder Militao",
+    "Antonio Rudiger", "David Alaba", "Ferland Mendy", "Fran Garcia",
+    "Aurelien Tchouameni", "Eduardo Camavinga", "Fede Valverde", "Jude Bellingham",
+    "Luka Modric", "Arda Guler", "Brahim Diaz", "Rodrygo Goes",
+    "Vinicius Junior", "Kylian Mbappe", "Endrick Felipe",
+    # FC Barcelona
+    "Marc-Andre ter Stegen", "Inaki Pena", "Jules Kounde", "Pau Cubarsi",
+    "Ronald Araujo", "Alejandro Balde", "Andreas Christensen", "Marc Casado",
+    "Pedri Gonzalez", "Gavi Lopez", "Frenkie de Jong", "Dani Olmo",
+    "Fermin Lopez", "Pablo Torre", "Raphinha Dias", "Lamine Yamal",
+    "Robert Lewandowski", "Ansu Fati",
+    # Atletico Madrid
+    "Jan Oblak", "Jose Gimenez", "Robin Le Normand", "Reinildo Mandava",
+    "Nahuel Molina", "Marcos Llorente", "Rodrigo De Paul", "Koke Resurreccion",
+    "Pablo Barrios", "Conor Gallagher", "Antoine Griezmann", "Angel Correa",
+    "Alexander Sorloth", "Julian Alvarez", "Samuel Lino",
+    # Real Sociedad
+    "Alex Remiro", "Igor Zubeldia", "Robin Le Normand", "Aihen Munoz",
+    "Aritz Elustondo", "Martin Zubimendi", "Mikel Merino", "Takefusa Kubo",
+    "Mikel Oyarzabal", "Brais Mendez", "Ander Barrenetxea", "Orri Oskarsson",
+    # Athletic Bilbao
+    "Unai Simon", "Aitor Paredes", "Yeray Alvarez", "Yuri Berchiche",
+    "Oscar de Marcos", "Oihan Sancet", "Nico Williams", "Inaki Williams",
+    "Gorka Guruzeta", "Dani Vivian", "Mikel Vesga", "Benat Prados",
+    # Real Betis
+    "Rui Silva", "Marc Bartra", "Hector Bellerin", "Aitor Ruibal",
+    "Guido Rodriguez", "Johnny Cardoso", "Isco Alarcon", "Nabil Fekir",
+    "Ayoze Perez", "Giovani Lo Celso", "Chimy Avila", "Ez Abde",
+    # Villarreal
+    "Filip Jorgensen", "Raul Albiol", "Logan Costa", "Alfonso Pedraza",
+    "Kiko Femenia", "Dani Parejo", "Santi Comesana", "Alex Baena",
+    "Yeremi Pino", "Nicolas Jackson", "Gerard Moreno", "Ayoze Perez",
+    # Girona
+    "Paulo Gazzaniga", "Daley Blind", "David Lopez", "Miguel Gutierrez",
+    "Arnau Martinez", "Ivan Martin", "Yangel Herrera", "Bryan Gil",
+    "Viktor Tsygankov", "Abel Ruiz", "Cristhian Stuani", "Bojan Miovski",
+    # Sevilla
+    "Orjan Nyland", "Loic Bade", "Tanguy Nianzou", "Marcos Acuna",
+    "Gonzalo Montiel", "Nemanja Gudelj", "Lucien Agoume", "Suso Fernandez",
+    "Dodi Lukebakio", "Youssef En-Nesyri", "Isaac Romero", "Jesus Navas",
+    # Valencia
+    "Giorgi Mamardashvili", "Mouctar Diakhaby", "Cesar Tarrega", "Jose Gaya",
+    "Thierry Correia", "Hugo Guillamón", "Javi Guerra", "Pepelu Sanchez",
+    "Diego Lopez", "Hugo Duro", "Andre Almeida", "Fran Perez",
+    # Osasuna
+    "Sergio Herrera", "David Garcia", "Unai Garcia", "Juan Cruz",
+    "Nacho Vidal", "Lucas Torro", "Jon Moncayola", "Aimar Oroz",
+    "Bryan Zaragoza", "Ante Budimir", "Chimy Avila", "Ruben Garcia",
+    # Celta Vigo
+    "Ivan Villar", "Carl Starfelt", "Joseph Aidoo", "Javi Galan",
+    "Oscar Mingueza", "Fran Beltran", "Hugo Alvarez", "Iago Aspas",
+    "Borja Iglesias", "Anastasios Douvikas", "Williot Swedberg", "Franco Cervi",
+    # Mallorca
+    "Predrag Rajkovic", "Martin Valjent", "Antonio Raillo", "Johan Mojica",
+    "Pablo Maffeo", "Manu Morlanes", "Sergi Darder", "Antonio Sanchez",
+    "Dani Rodriguez", "Vedat Muriqi", "Cyle Larin", "Samu Costa",
+    # Getafe
+    "David Soria", "Djene Dakonam", "Juan Iglesias", "Juan Berrocal",
+    "Omar Alderete", "Luis Milla", "Mauro Arambarri", "Carles Alena",
+    "Borja Mayoral", "Alvaro Rodriguez", "Mason Greenwood", "Christantus Uche",
+    # Rayo Vallecano
+    "Stole Dimitrievski", "Alejandro Catena", "Abdul Mumin", "Alfonso Espino",
+    "Ivan Balliu", "Oscar Trejo", "Unai Lopez", "Isi Palazon",
+    "Alvaro Garcia", "Raul de Tomas", "Jorge de Frutos", "Sergio Camello",
+    # Las Palmas
+    "Alvaro Valles", "Alex Suarez", "Mika Marmol", "Marvin Park",
+    "Viti Rozada", "Javi Munoz", "Alberto Moleiro", "Kirian Rodriguez",
+    "Sandro Ramirez", "Marc Cardona", "Oli McBurnie", "Fabio Silva",
+    # Alaves
+    "Antonio Sivera", "Abdelkabir Abqar", "Moussa Diarra", "Nahuel Tenaglia",
+    "Santiago Mourino", "Antonio Blanco", "Joan Jordan", "Carlos Vicente",
+    "Luis Rioja", "Toni Martinez", "Kike Garcia", "Carlos Martin",
+    # Espanyol
+    "Joan Garcia", "Leandro Cabrera", "Fernando Calero", "Brian Olivan",
+    "Omar El Hilali", "Edu Exposito", "Alex Kral", "Javi Puado",
+    "Irvin Cardona", "Martin Braithwaite", "Alejo Veliz", "Pere Milla",
+    # Real Valladolid
+    "Karl Hein", "Javi Sanchez", "Luis Perez", "Lucas Rosa",
+    "Ivan Fresneda", "Kike Perez", "Juanmi Latasa", "Selim Amallah",
+    "Raul Moro", "Marcos Andre", "Darwin Machis", "Victor Meseguer",
+    # Leganes
+    "Marko Dmitrovic", "Jorge Saenz", "Sergio Gonzalez", "Valentin Rosier",
+    "Enric Franquesa", "Dario Poveda", "Oscar Rodriguez", "Sebastian Cristoforo",
+    "Diego Garcia", "Miguel De La Fuente", "Juan Cruz Armada", "Munir El Haddadi",
 ]
 
 
@@ -70,10 +133,30 @@ LAST_NAMES = [
 # Helper functions
 # ──────────────────────────────────────────────────────────────────────
 
-def _generate_player_name(rng: np.random.Generator, used_names: set) -> str:
-    """Generate a unique player name."""
+_FALLBACK_FIRST = [
+    "Sergio", "Pablo", "Marco", "Adrian", "Victor", "Raul", "Manuel", "Jorge",
+    "Miguel", "Carlos", "Alejandro", "Fernando", "Gonzalo", "Hector", "Ivan",
+    "Jaime", "Kevin", "Lorenzo", "Nicolas", "Oscar", "Ruben", "Tomas", "Unai",
+    "Xavier", "Yago", "Aitor", "Borja", "Cesar", "Emilio", "Fabian",
+]
+_FALLBACK_LAST = [
+    "Ruiz", "Navarro", "Reyes", "Ortega", "Delgado", "Blanco", "Medina",
+    "Vargas", "Pena", "Campos", "Soto", "Carrasco", "Vera", "Rios", "Fuentes",
+    "Caballero", "Serrano", "Pascual", "Ibarra", "Salazar", "Ochoa", "Cano",
+    "Aguilar", "Marin", "Cortes", "Prieto", "Lara", "Duran", "Nieto", "Rubio",
+]
+
+def _generate_player_name(rng: np.random.Generator, used_names: set,
+                          name_index: list) -> str:
+    """Pick the next real player name, or generate a unique fictional one if exhausted."""
+    while name_index:
+        name = name_index.pop()
+        if name not in used_names:
+            used_names.add(name)
+            return name
+    # Fallback: generate fictional name (30x30 = 900 combos, more than enough)
     while True:
-        name = f"{rng.choice(FIRST_NAMES)} {rng.choice(LAST_NAMES)}"
+        name = f"{rng.choice(_FALLBACK_FIRST)} {rng.choice(_FALLBACK_LAST)}"
         if name not in used_names:
             used_names.add(name)
             return name
@@ -241,12 +324,16 @@ def generate_dataset(seed: int = SEED) -> pd.DataFrame:
     used_names: set = set()
     records = []
 
+    # Deduplicate and shuffle real player names so they distribute across teams
+    name_index = list(dict.fromkeys(REAL_PLAYER_NAMES))  # preserve order, remove dupes
+    rng.shuffle(name_index)
+
     for team_idx, team in enumerate(TEAMS):
         is_top = team_idx in TOP_TIER_INDICES
         n_players = rng.integers(22, 26)
 
         for _ in range(n_players):
-            name = _generate_player_name(rng, used_names)
+            name = _generate_player_name(rng, used_names, name_index)
 
             # Position
             position = rng.choice(POSITIONS, p=POSITION_WEIGHTS)
