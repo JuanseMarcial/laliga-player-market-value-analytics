@@ -128,20 +128,26 @@ def add_age_bucket(df: pd.DataFrame) -> pd.DataFrame:
 
 def add_position_group(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Map granular positions to broader groups:
-        GK -> Goalkeeper
-        CB, LB, RB -> Defender
-        CDM, CM, CAM -> Midfielder
-        LW, RW, ST -> Forward
+    Map positions to broader groups. Supports both granular positions
+    (GK, CB, ST, etc.) and Transfermarkt-style categories
+    (Goalkeeper, Defender, Midfield, Attack).
     """
     df = df.copy()
     mapping = {
+        # Granular positions
         "GK": "Goalkeeper",
         "CB": "Defender", "LB": "Defender", "RB": "Defender",
         "CDM": "Midfielder", "CM": "Midfielder", "CAM": "Midfielder",
         "LW": "Forward", "RW": "Forward", "ST": "Forward",
+        # Transfermarkt categories
+        "Goalkeeper": "Goalkeeper",
+        "Defender": "Defender",
+        "Midfield": "Midfielder",
+        "midfield": "Midfielder",
+        "Attack": "Forward",
+        "attack": "Forward",
     }
-    df["position_group"] = df["position"].map(mapping)
+    df["position_group"] = df["position"].map(mapping).fillna("Unknown")
     return df
 
 

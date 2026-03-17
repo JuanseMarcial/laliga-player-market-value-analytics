@@ -1,6 +1,6 @@
 # LaLiga Player Performance & Market Value Analytics
 
-A comprehensive data analytics project exploring the relationship between player performance metrics and market valuations across LaLiga (2024-25 season). This project applies exploratory data analysis, feature engineering, and machine learning to uncover what truly drives a footballer's market value in Spain's top division.
+A data analytics project exploring the relationship between player performance metrics and market valuations across LaLiga (2024-25 season) using **real Transfermarkt data**. This project applies exploratory data analysis, feature engineering, and machine learning to uncover what truly drives a footballer's market value in Spain's top division.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
@@ -25,8 +25,9 @@ A comprehensive data analytics project exploring the relationship between player
 | Category | Tools |
 |---|---|
 | **Language** | Python 3.10+ |
+| **Data Source** | [Transfermarkt](https://www.transfermarkt.com/) via [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) |
 | **Data Manipulation** | pandas, NumPy |
-| **Machine Learning** | scikit-learn (Random Forest, Linear Regression, cross-validation) |
+| **Machine Learning** | scikit-learn (Random Forest, Ridge Regression) |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook |
 
@@ -45,7 +46,7 @@ football-analytics-project/
 │   ├── 01_data_exploration.ipynb       # EDA: distributions, correlations, visual analysis
 │   └── 02_predictive_model.ipynb       # ML: feature engineering, model training, evaluation
 └── src/
-    ├── data_collection.py              # Synthetic data generation (realistic LaLiga stats)
+    ├── data_collection.py              # Data loading & cleaning (Transfermarkt source)
     ├── feature_engineering.py          # Per-90 metrics, age buckets, composite indices
     └── visualization.py               # Reusable plotting functions for football analytics
 ```
@@ -67,13 +68,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Generate the dataset
-```bash
-python src/data_collection.py
-```
-This creates `data/laliga_players_2024_25.csv` with synthetic but realistic player statistics.
-
-### 4. Run the notebooks
+### 3. Run the notebooks
+The dataset (`data/laliga_players_2024_25.csv`) is included in the repo — real Transfermarkt data for the 2024-25 season.
 ```bash
 jupyter notebook notebooks/
 ```

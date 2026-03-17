@@ -1,0 +1,255 @@
+player_name,team,position,sub_position,age,games_played,minutes_played,goals,assists,yellow_cards,red_cards,market_value_eur,height_cm,nationality,preferred_foot
+Jude Bellingham,Real Madrid Club de Fútbol,Midfield,Attacking Midfield,21,31,2493,9,9,5,1,160000000.0,186.0,England,right
+Federico Valverde,Real Madrid Club de Fútbol,Midfield,Central Midfield,26,36,3034,6,4,4,0,120000000.0,182.0,Uruguay,right
+Julián Alvarez,Club Atlético de Madrid S.A.D.,Attack,Centre-Forward,24,37,2519,17,4,5,0,100000000.0,170.0,Argentina,right
+Pablo Barrios,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,21,31,2337,1,4,4,1,60000000.0,181.0,Spain,right
+Nico Williams,Athletic Club Bilbao,Attack,Left Winger,22,29,1998,5,5,1,0,60000000.0,181.0,Spain,right
+Alejandro Balde,Futbol Club Barcelona,Defender,Left-Back,21,32,2293,0,4,2,0,60000000.0,177.0,Spain,left
+Eduardo Camavinga,Real Madrid Club de Fútbol,Midfield,Central Midfield,22,19,1098,1,2,2,0,50000000.0,182.0,France,left
+Yan Diomande,CD Leganés,Attack,Left Winger,18,10,542,2,1,1,0,45000000.0,180.0,Cote d'Ivoire,right
+Giuliano Simeone,Club Atlético de Madrid S.A.D.,Attack,Right Winger,22,33,1941,2,6,4,0,40000000.0,173.0,Argentina,right
+Oihan Sancet,Athletic Club Bilbao,Midfield,Attacking Midfield,24,29,1626,15,1,2,0,40000000.0,188.0,Spain,right
+Gavi,Futbol Club Barcelona,Midfield,Central Midfield,20,26,1083,1,1,4,0,40000000.0,173.0,Spain,right
+Vitor Roque,Real Betis Balompié S.A.D.,Attack,Centre-Forward,19,22,1237,4,2,4,0,35000000.0,174.0,Brazil,right
+Conor Gallagher,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,24,32,1633,3,3,2,0,35000000.0,182.0,England,right
+Cristhian Mosquera,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,20,37,3320,1,0,6,0,35000000.0,191.0,Spain,right
+Joan García,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Goalkeeper,Goalkeeper,23,38,3420,0,0,2,0,30000000.0,194.0,Spain,right
+Jesús Rodríguez,Real Betis Balompié S.A.D.,Attack,Left Winger,19,21,1120,2,1,0,0,30000000.0,185.0,Spain,right
+Antony,Real Betis Balompié S.A.D.,Attack,Right Winger,24,17,1365,5,2,2,1,30000000.0,172.0,Brazil,left
+Alberto Moleiro,UD Las Palmas,Attack,Left Winger,21,35,2728,6,1,5,0,30000000.0,171.0,Spain,right
+Takefusa Kubo,Real Sociedad de Fútbol S.A.D.,Attack,Right Winger,23,36,2381,5,0,5,0,30000000.0,173.0,Japan,left
+Loïc Badé,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,24,32,2687,1,1,7,1,28000000.0,191.0,France,right
+Giorgi Mamardashvili,Valencia Club de Fútbol S. A. D.,Goalkeeper,Goalkeeper,24,34,3060,0,0,2,0,28000000.0,197.0,Georgia,left
+Mikel Oyarzabal,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,27,35,2263,9,3,4,1,25000000.0,181.0,Spain,left
+Ladislav Krejci,Girona Fútbol Club S. A. D.,Defender,Centre-Back,25,28,2439,2,1,9,0,22000000.0,191.0,Czech Republic,left
+Nayef Aguerd,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,28,21,1763,0,0,4,0,22000000.0,190.0,Morocco,left
+Marcos Llorente,Club Atlético de Madrid S.A.D.,Defender,Right-Back,29,33,2513,2,4,0,1,22000000.0,184.0,Spain,right
+Abde Ezzalzouli,Real Betis Balompié S.A.D.,Attack,Left Winger,23,32,1995,2,3,2,0,20000000.0,177.0,Morocco,right
+Alexander Sørloth,Club Atlético de Madrid S.A.D.,Attack,Centre-Forward,29,35,1561,20,2,4,0,20000000.0,195.0,Norway,left
+Dodi Lukébakio,Sevilla Fútbol Club S.A.D.,Attack,Right Winger,27,38,3103,11,2,3,1,20000000.0,187.0,Belgium,left
+Enzo Boyomo,Real Valladolid CF,Defender,Centre-Back,23,37,3258,2,0,5,0,20000000.0,184.0,Cameroon,right
+Samuel Lino,Club Atlético de Madrid S.A.D.,Attack,Left Winger,25,31,1560,3,4,3,0,20000000.0,177.0,Brazil,right
+Logan Costa,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,23,32,2586,2,1,3,0,18000000.0,190.0,Cape Verde,right
+Cucho Hernández,Real Betis Balompié S.A.D.,Attack,Centre-Forward,25,15,1150,5,1,0,0,18000000.0,176.0,Colombia,right
+Jan Oblak,Club Atlético de Madrid S.A.D.,Goalkeeper,Goalkeeper,31,36,3240,0,0,0,0,17000000.0,188.0,Slovenia,right
+Yarek Gasiorowski,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,19,15,946,0,0,1,0,16000000.0,191.0,Spain,left
+Christantus Uche,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,21,32,2415,4,6,7,1,15000000.0,190.0,Nigeria,both
+Fran García,Real Madrid Club de Fútbol,Defender,Left-Back,25,31,2174,0,2,0,0,15000000.0,169.0,Spain,left
+Juanlu Sánchez,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,21,32,1724,4,4,6,0,15000000.0,186.0,Spain,right
+Omar El Hilali,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Defender,Right-Back,21,36,3159,0,2,11,0,15000000.0,183.0,Morocco,right
+Sergio Gómez,Real Sociedad de Fútbol S.A.D.,Defender,Left-Back,24,37,2745,2,5,4,0,15000000.0,171.0,Spain,left
+Nahuel Molina,Club Atlético de Madrid S.A.D.,Defender,Right-Back,26,30,1581,0,3,1,0,15000000.0,175.0,Argentina,right
+César Tárrega,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,22,34,3027,2,1,7,0,15000000.0,194.0,Spain,right
+Samú Costa,Real Club Deportivo Mallorca S.A.D.,Midfield,Defensive Midfield,24,32,2655,0,2,10,0,15000000.0,185.0,Portugal,left
+Viktor Tsygankov,Girona Fútbol Club S. A. D.,Attack,Right Winger,27,27,1921,2,5,1,0,15000000.0,178.0,Ukraine,left
+Rodrigo De Paul,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,30,34,2112,3,5,7,0,15000000.0,180.0,Argentina,right
+Juan Foyth,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,26,19,1517,1,0,4,0,15000000.0,187.0,Argentina,right
+Chema Andrés,Real Madrid Club de Fútbol,Midfield,Defensive Midfield,19,2,10,0,0,0,0,15000000.0,190.0,Spain,right
+Álex Remiro,Real Sociedad de Fútbol S.A.D.,Goalkeeper,Goalkeeper,29,36,3240,0,0,0,0,14000000.0,191.0,Spain,right
+José Ángel Carmona,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,22,35,2954,0,0,11,0,12000000.0,184.0,Spain,right
+Yáser Asprilla,Girona Fútbol Club S. A. D.,Attack,Right Winger,21,27,1402,3,1,2,0,12000000.0,176.0,Colombia,left
+Orri Óskarsson,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,20,23,937,3,0,1,0,12000000.0,186.0,Iceland,right
+Bryan Gil,Girona Fútbol Club S. A. D.,Attack,Left Winger,23,25,1734,3,3,4,0,12000000.0,175.0,Spain,left
+Omar Alderete,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,28,33,2888,1,0,8,0,12000000.0,188.0,Paraguay,left
+Antoine Griezmann,Club Atlético de Madrid S.A.D.,Attack,Second Striker,33,38,2482,8,7,2,0,11000000.0,176.0,France,left
+Pablo García,Real Betis Balompié S.A.D.,Attack,Right Winger,18,3,36,0,0,0,0,10000000.0,175.0,Spain,left
+Jon Martín,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,18,13,900,0,1,2,0,10000000.0,187.0,Spain,right
+Santiago Mouriño,Club Atlético de Madrid S.A.D.,Defender,Right-Back,22,24,1812,0,1,7,0,10000000.0,186.0,Uruguay,right
+Sergi Cardona,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,25,35,2955,1,7,11,0,10000000.0,186.0,Spain,both
+Mauro Arambarri,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,29,34,2575,9,0,9,0,10000000.0,175.0,Uruguay,right
+Bryan Zaragoza,Club Atlético Osasuna,Attack,Left Winger,23,27,1852,1,6,4,0,10000000.0,164.0,Spain,right
+Jesús Areso,Club Atlético Osasuna,Defender,Right-Back,25,36,3089,0,3,9,0,10000000.0,182.0,Spain,right
+Hugo Sotelo,Real Club Celta de Vigo S. A. D.,Midfield,Central Midfield,21,24,1256,0,0,5,0,9000000.0,180.0,Spain,right
+Ángel Correa,Club Atlético de Madrid S.A.D.,Midfield,Attacking Midfield,29,31,784,4,1,3,1,9000000.0,171.0,Argentina,right
+Yangel Herrera,Girona Fútbol Club S. A. D.,Midfield,Central Midfield,26,29,2265,4,3,10,1,9000000.0,184.0,Venezuela,right
+Aimar Oroz,Club Atlético Osasuna,Midfield,Attacking Midfield,23,37,2983,5,4,7,0,9000000.0,177.0,Spain,right
+Dominik Greif,Real Club Deportivo Mallorca S.A.D.,Goalkeeper,Goalkeeper,27,31,2790,0,0,1,0,8000000.0,197.0,Slovakia,right
+Beñat Turrientes,Real Sociedad de Fútbol S.A.D.,Midfield,Central Midfield,22,21,940,0,0,4,0,8000000.0,181.0,Spain,right
+Rodrigo Riquelme,Club Atlético de Madrid S.A.D.,Attack,Left Winger,24,16,507,0,1,0,0,8000000.0,174.0,Spain,right
+Borja Mayoral,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,27,23,1089,5,1,0,0,7500000.0,182.0,Spain,right
+Stefan Bajcetic,UD Las Palmas,Midfield,Defensive Midfield,20,14,975,1,0,4,0,7000000.0,185.0,Spain,right
+Adam Aznou,Real Valladolid CF,Defender,Left-Back,18,13,874,0,0,3,0,7000000.0,178.0,Morocco,left
+Koke,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,32,32,1926,1,1,4,0,7000000.0,176.0,Spain,right
+Jon Moncayola,Club Atlético Osasuna,Midfield,Central Midfield,26,32,2113,0,0,8,0,7000000.0,182.0,Spain,right
+Ayoze Pérez,Villarreal Club de Fútbol S.A.D.,Attack,Centre-Forward,31,30,1976,19,2,4,0,6000000.0,178.0,Spain,right
+Antonio Sivera,Deportivo Alavés S. A. D.,Goalkeeper,Goalkeeper,28,31,2722,0,0,5,1,6000000.0,185.0,Spain,right
+Kike Salas,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,22,31,2237,3,2,6,0,6000000.0,188.0,Spain,left
+Iván Martín,Girona Fútbol Club S. A. D.,Midfield,Attacking Midfield,25,32,2043,1,1,1,0,6000000.0,178.0,Spain,left
+Robert Navarro,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,22,23,1286,1,0,3,0,6000000.0,178.0,Spain,right
+Jon Pacheco,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,23,14,851,0,0,3,0,5000000.0,184.0,Spain,left
+Pau Navarro,Villarreal Club de Fútbol S.A.D.,Defender,Right-Back,19,17,917,0,0,1,0,5000000.0,185.0,Spain,right
+Pablo Maffeo,Real Club Deportivo Mallorca S.A.D.,Defender,Right-Back,27,30,2375,0,2,7,0,5000000.0,172.0,Argentina,right
+Germán Valera,Club Atlético de Madrid S.A.D.,Attack,Left Winger,22,8,142,0,0,0,0,5000000.0,170.0,Spain,left
+Reinildo Mandava,Club Atlético de Madrid S.A.D.,Defender,Left-Back,30,19,935,0,0,4,0,5000000.0,180.0,Mozambique,left
+José Gayà,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,29,23,1810,0,1,7,0,5000000.0,172.0,Spain,left
+Leo Román,Real Club Deportivo Mallorca S.A.D.,Goalkeeper,Goalkeeper,24,7,630,0,0,0,0,5000000.0,189.0,Spain,right
+Javi López,Real Sociedad de Fútbol S.A.D.,Defender,Left-Back,22,29,1935,0,0,4,0,5000000.0,183.0,Spain,left
+Stanis Idumbo,Sevilla Fútbol Club S.A.D.,Midfield,Attacking Midfield,19,14,278,1,1,0,0,5000000.0,171.0,Belgium,right
+Urko González de Zárate,Real Sociedad de Fútbol S.A.D.,Midfield,Defensive Midfield,23,18,1427,0,2,2,0,5000000.0,189.0,Spain,right
+Juan Iglesias,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,26,36,2870,0,1,4,0,5000000.0,187.0,Spain,right
+Álvaro Djaló,Athletic Club Bilbao,Attack,Left Winger,25,17,658,1,0,2,0,4500000.0,175.0,Guinea-Bissau,right
+Abel Bretones,Club Atlético Osasuna,Defender,Left-Back,24,35,2068,2,0,3,0,4500000.0,188.0,Spain,left
+Gonzalo Montiel,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,28,6,111,0,0,1,0,4500000.0,175.0,Argentina,right
+Vedat Muriqi,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,30,29,2067,7,2,1,2,4500000.0,194.0,Kosovo,left
+Martin Valjent,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,29,31,2765,3,0,4,0,4500000.0,187.0,Slovakia,right
+Willy Kambwala,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,20,19,1114,0,0,1,1,4000000.0,192.0,France,right
+Adrià Pedrosa,Sevilla Fútbol Club S.A.D.,Defender,Left-Back,26,31,2304,1,1,7,0,4000000.0,172.0,Spain,left
+Edu Expósito,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Midfield,Central Midfield,28,19,1045,0,2,3,0,4000000.0,178.0,Spain,right
+José Copete,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,25,25,1523,0,0,6,0,4000000.0,190.0,Spain,left
+Max Aarons,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,24,4,118,0,0,2,0,4000000.0,177.0,England,right
+Umar Sadiq,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,27,23,1049,5,0,5,0,4000000.0,191.0,Nigeria,right
+Lucas Rosa,Real Valladolid CF,Defender,Right-Back,24,21,1890,0,1,6,0,4000000.0,177.0,Brazil,right
+Álvaro Rodríguez,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,20,21,846,2,0,5,0,4000000.0,193.0,Uruguay,left
+Aitor Ruibal,Real Betis Balompié S.A.D.,Attack,Right Winger,28,29,1303,1,3,5,0,3500000.0,176.0,Spain,right
+Luis Milla,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,30,32,2788,0,4,6,0,3500000.0,175.0,Spain,right
+Peque Fernández,Sevilla Fútbol Club S.A.D.,Attack,Second Striker,22,26,1134,1,1,1,0,3500000.0,172.0,Spain,right
+Sergi Darder,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,31,38,2763,2,6,4,0,3500000.0,180.0,Spain,right
+Cyle Larin,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,29,32,1772,7,2,4,0,3500000.0,188.0,Canada,right
+Javi Galán,Club Atlético de Madrid S.A.D.,Defender,Left-Back,30,25,1781,0,3,8,0,3500000.0,172.0,Spain,left
+Jorge Herrando,Club Atlético Osasuna,Defender,Centre-Back,23,18,1364,1,0,3,0,3500000.0,192.0,Spain,left
+Ante Budimir,Club Atlético Osasuna,Attack,Centre-Forward,33,38,2967,21,4,4,0,3000000.0,190.0,Croatia,left
+Isi Palazón,Rayo Vallecano de Madrid S. A. D.,Attack,Second Striker,30,35,2166,4,4,5,0,3000000.0,169.0,Spain,left
+Rodri Sánchez,Real Betis Balompié S.A.D.,Attack,Right Winger,24,3,117,0,0,0,0,3000000.0,175.0,Spain,left
+Sergio Herrera,Club Atlético Osasuna,Goalkeeper,Goalkeeper,31,37,3330,0,0,5,0,3000000.0,192.0,Spain,right
+Siebe Van der Heyden,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,26,2,96,0,0,0,0,3000000.0,185.0,Belgium,left
+Abel Ruiz,Girona Fútbol Club S. A. D.,Attack,Centre-Forward,24,23,1358,4,0,3,0,3000000.0,182.0,Spain,right
+Raúl García,Club Atlético Osasuna,Attack,Centre-Forward,24,32,731,4,0,1,0,3000000.0,192.0,Spain,right
+Pablo Ibáñez,Club Atlético Osasuna,Midfield,Central Midfield,26,28,1289,1,1,4,0,3000000.0,179.0,Spain,right
+Thierry Correia,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,25,11,771,0,0,1,0,3000000.0,176.0,Portugal,right
+David Soria,Getafe Club de Fútbol S. A. D. Team Dubai,Goalkeeper,Goalkeeper,31,37,3330,0,0,2,0,3000000.0,192.0,Spain,right
+Karl Hein,Real Valladolid CF,Goalkeeper,Goalkeeper,22,31,2790,0,0,0,0,3000000.0,193.0,Estonia,right
+Valentin Rosier,CD Leganés,Defender,Right-Back,28,32,2592,1,2,8,0,3000000.0,175.0,France,right
+Juan Cruz,CD Leganés,Attack,Left Winger,24,34,2265,5,4,2,0,3000000.0,180.0,Spain,left
+Jesús Vázquez,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,21,19,917,0,0,3,0,3000000.0,182.0,Spain,left
+Nahuel Tenaglia,Deportivo Alavés S. A. D.,Defender,Right-Back,28,33,2833,2,1,11,0,3000000.0,181.0,Argentina,right
+Mouctar Diakhaby,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,28,13,651,2,0,0,0,2800000.0,192.0,Guinea,right
+Alejandro Catena,Club Atlético Osasuna,Defender,Centre-Back,30,35,3076,1,3,11,0,2800000.0,194.0,Spain,right
+Lucas Torró,Club Atlético Osasuna,Midfield,Defensive Midfield,30,35,2963,3,0,10,0,2800000.0,190.0,Spain,right
+Alfonso Pedraza,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,28,12,455,0,2,0,0,2500000.0,184.0,Spain,left
+Bojan Miovski,Aberdeen Football Club,Attack,Centre-Forward,25,17,876,2,2,0,0,2500000.0,189.0,North Macedonia,left
+Duk,Aberdeen Football Club,Attack,Left Winger,24,10,171,0,0,1,0,2500000.0,182.0,Cape Verde,right
+Pau López,Girona Fútbol Club S. A. D.,Goalkeeper,Goalkeeper,30,1,45,0,0,0,0,2500000.0,189.0,Spain,left
+Saúl Ñíguez,Sevilla Fútbol Club S.A.D.,Midfield,Central Midfield,30,24,1555,1,6,8,1,2500000.0,184.0,Spain,left
+Carlos Martín,Club Atlético de Madrid S.A.D.,Attack,Left Winger,22,25,1290,2,2,3,0,2500000.0,184.0,Spain,right
+Coba da Costa,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Left Winger,22,19,1008,1,1,4,0,2500000.0,182.0,Guinea-Bissau,right
+Jesús Navas,Sevilla Fútbol Club S.A.D.,Midfield,Right Midfield,39,15,416,1,0,0,0,2500000.0,170.0,Spain,right
+Antonio Sánchez,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,27,33,1387,0,0,3,0,2400000.0,179.0,Spain,right
+Manu Morlanes,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,25,23,1340,0,0,6,0,2400000.0,178.0,Spain,right
+Dani Raba,CD Leganés,Attack,Second Striker,29,29,1890,8,5,6,0,2400000.0,185.0,Spain,left
+Bertuğ Yıldırım,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,22,21,1013,1,0,7,0,2200000.0,191.0,Türkiye,right
+Min-su Kim,Girona Fútbol Club S. A. D.,Attack,Left Winger,18,3,20,0,0,0,0,2000000.0,177.0,"Korea, South",right
+Thomas Lemar,Club Atlético de Madrid S.A.D.,Midfield,Attacking Midfield,29,5,80,0,0,0,0,2000000.0,171.0,France,left
+Chiquinho,Real Club Deportivo Mallorca S.A.D.,Attack,Left Winger,24,8,141,0,0,2,0,2000000.0,179.0,Portugal,right
+Florian Grillitsch,Real Valladolid CF,Midfield,Defensive Midfield,29,13,622,0,0,1,0,2000000.0,187.0,Austria,right
+Cenk Özkacar,Real Valladolid CF,Defender,Centre-Back,24,11,756,0,0,1,0,2000000.0,190.0,Türkiye,left
+Juanmi Latasa,Real Valladolid CF,Attack,Centre-Forward,23,28,1391,3,0,6,1,2000000.0,192.0,Spain,left
+Iker Muñoz,Club Atlético Osasuna,Midfield,Defensive Midfield,22,23,598,0,1,2,0,2000000.0,180.0,Spain,right
+Álex Sola,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,25,18,967,0,1,3,0,2000000.0,178.0,Spain,right
+Eray Cömert,Real Valladolid CF,Defender,Centre-Back,26,25,1783,0,0,6,0,2000000.0,183.0,Switzerland,right
+Miguel de la Fuente,CD Leganés,Attack,Centre-Forward,25,34,1719,1,3,3,0,2000000.0,182.0,Spain,right
+Javi Hernández,CD Leganés,Defender,Left-Back,26,31,2391,2,1,6,0,2000000.0,180.0,Spain,left
+Sébastien Haller,CD Leganés,Attack,Centre-Forward,30,8,405,0,0,0,0,2000000.0,190.0,Cote d'Ivoire,right
+Takuma Asano,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,30,21,1059,2,1,0,0,1800000.0,173.0,Japan,right
+Iago Aspas,Real Club Celta de Vigo S. A. D.,Attack,Centre-Forward,37,30,1744,10,5,6,0,1800000.0,176.0,Spain,left
+Carles Pérez,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,26,26,1340,3,0,2,0,1800000.0,173.0,Spain,left
+Aritz Elustondo,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,30,22,1456,0,0,3,1,1800000.0,180.0,Spain,right
+Johan Mojica,Real Club Deportivo Mallorca S.A.D.,Defender,Left-Back,32,36,2753,1,2,5,0,1800000.0,185.0,Colombia,left
+Óscar Rodríguez,CD Leganés,Midfield,Attacking Midfield,26,29,1323,1,4,6,1,1800000.0,174.0,Spain,right
+Rubén García,Club Atlético Osasuna,Attack,Right Winger,31,36,2433,5,5,2,0,1800000.0,172.0,Spain,left
+Moi Gómez,Club Atlético Osasuna,Midfield,Attacking Midfield,30,26,778,0,0,1,0,1800000.0,176.0,Spain,right
+Dakonam Djené,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,33,30,2463,0,0,11,1,1600000.0,178.0,Togo,right
+Nacho Vidal,Club Atlético Osasuna,Defender,Right-Back,29,5,120,0,0,0,0,1600000.0,180.0,Spain,right
+Chimy Ávila,Real Betis Balompié S.A.D.,Attack,Centre-Forward,30,19,670,2,0,5,1,1500000.0,172.0,Argentina,right
+Óscar de Marcos,Athletic Club Bilbao,Defender,Right-Back,35,26,1561,0,4,0,0,1500000.0,182.0,Spain,right
+Portu,Girona Fútbol Club S. A. D.,Attack,Right Winger,32,27,767,1,2,4,0,1500000.0,167.0,Spain,right
+Mateu Morey,Real Club Deportivo Mallorca S.A.D.,Defender,Right-Back,24,16,740,0,0,0,0,1500000.0,173.0,Spain,right
+José Gragera,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Midfield,Central Midfield,24,10,569,0,0,0,0,1500000.0,186.0,Spain,right
+Juan Berrocal,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,25,18,971,0,0,8,0,1500000.0,187.0,Spain,both
+Iker Benito,Club Atlético Osasuna,Attack,Right Winger,22,2,35,0,0,0,0,1500000.0,176.0,Spain,right
+Abde Rebbach,Deportivo Alavés S. A. D.,Attack,Left Winger,26,8,385,0,0,1,0,1500000.0,176.0,Algeria,right
+Manu Bueno,Sevilla Fútbol Club S.A.D.,Midfield,Central Midfield,20,9,134,1,0,0,0,1500000.0,178.0,Spain,left
+Eric Bailly,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,30,12,618,0,0,2,1,1500000.0,187.0,Cote d'Ivoire,right
+Javi Muñoz,UD Las Palmas,Midfield,Central Midfield,29,35,2589,1,3,5,0,1500000.0,177.0,Spain,right
+Peter Federico,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,22,17,465,0,0,1,0,1500000.0,180.0,Dominican Republic,left
+Iker Almena,Girona Fútbol Club S. A. D.,Attack,Right Winger,20,2,46,0,1,0,0,1500000.0,177.0,Spain,left
+Juan Bernat,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,31,24,907,0,2,0,0,1500000.0,170.0,Spain,left
+Antonio Raíllo,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,33,36,3209,2,0,7,1,1500000.0,187.0,Spain,right
+Kike Barja,Club Atlético Osasuna,Attack,Right Winger,27,15,307,0,1,3,0,1500000.0,179.0,Spain,right
+Cédric Bakambu,Real Betis Balompié S.A.D.,Attack,Centre-Forward,33,25,696,2,2,3,0,1400000.0,182.0,DR Congo,right
+Enzo Loiodice,UD Las Palmas,Midfield,Central Midfield,24,17,677,0,0,3,0,1200000.0,177.0,France,left
+Randy Nteka,Rayo Vallecano de Madrid S. A. D.,Midfield,Attacking Midfield,27,24,1137,3,0,6,0,1200000.0,189.0,Angola,left
+Juanmi,Real Betis Balompié S.A.D.,Attack,Left Winger,31,24,935,0,0,4,0,1200000.0,172.0,Spain,right
+Juan Cruz,Club Atlético Osasuna,Defender,Left-Back,32,25,1497,0,0,4,0,1200000.0,182.0,Spain,left
+Marvin Park,UD Las Palmas,Defender,Right-Back,24,23,1029,0,0,4,0,1200000.0,177.0,Spain,right
+Diego Rico,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,31,32,2730,0,3,9,1,1200000.0,183.0,Spain,left
+Luis Pérez,Real Valladolid CF,Defender,Right-Back,29,30,2558,0,0,2,0,1200000.0,173.0,Spain,right
+César Azpilicueta,Club Atlético de Madrid S.A.D.,Defender,Centre-Back,35,14,877,1,0,0,0,1200000.0,178.0,Spain,right
+Pere Milla,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Attack,Left Winger,32,20,443,3,0,3,0,1200000.0,180.0,Spain,left
+Adnan Januzaj,UD Las Palmas,Attack,Right Winger,29,18,592,2,1,5,0,1200000.0,186.0,Belgium,left
+Dimitri Foulquier,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,31,32,2297,0,1,6,0,1200000.0,183.0,Guadeloupe,right
+Ramón Martínez,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,22,5,258,1,0,0,0,1000000.0,185.0,Spain,right
+Marc Domènech,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,18,10,298,0,0,0,0,1000000.0,182.0,Spain,left
+Kirian Rodríguez,UD Las Palmas,Midfield,Attacking Midfield,28,21,1770,0,3,2,0,1000000.0,178.0,Spain,right
+Roberto López,CD Leganés,Midfield,Attacking Midfield,24,13,389,0,1,0,0,1000000.0,179.0,Spain,left
+Juan Soriano,CD Leganés,Goalkeeper,Goalkeeper,27,6,540,0,0,1,0,1000000.0,185.0,Spain,right
+Álex Muñoz,UD Las Palmas,Defender,Left-Back,30,21,1420,3,0,3,0,1000000.0,187.0,Spain,left
+Adrián Pica,Deportivo Alavés S. A. D.,Defender,Centre-Back,22,9,496,0,0,1,0,1000000.0,190.0,Spain,right
+Adrián Embarba,Rayo Vallecano de Madrid S. A. D.,Attack,Right Winger,32,35,1607,1,1,4,0,1000000.0,173.0,Spain,right
+Valery Fernández,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,25,18,295,2,0,1,0,1000000.0,182.0,Spain,right
+Carlos Protesoni,Deportivo Alavés S. A. D.,Midfield,Defensive Midfield,26,17,424,1,1,1,0,1000000.0,185.0,Uruguay,right
+Alfonso Espino,Rayo Vallecano de Madrid S. A. D.,Defender,Left-Back,32,16,833,0,1,4,0,1000000.0,172.0,Uruguay,left
+Ørjan Nyland,Sevilla Fútbol Club S.A.D.,Goalkeeper,Goalkeeper,34,30,2674,0,0,2,0,900000.0,192.0,Norway,right
+Abdón Prats,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,32,24,438,2,0,4,0,900000.0,181.0,Spain,left
+José Manuel Arnáiz,Club Atlético Osasuna,Midfield,Attacking Midfield,29,15,121,0,0,0,0,900000.0,173.0,Spain,right
+Jon Magunazelaia,Real Sociedad de Fútbol S.A.D.,Midfield,Attacking Midfield,23,2,6,0,0,0,0,900000.0,180.0,Spain,right
+Gabriel Misehouy,Girona Fútbol Club S. A. D.,Midfield,Attacking Midfield,19,9,250,1,0,0,0,900000.0,173.0,Netherlands,right
+Maximiliano Caufriez,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,27,1,90,0,0,0,0,900000.0,189.0,Belgium,right
+Yellu Santiago,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,20,19,364,0,0,4,0,900000.0,192.0,Spain,right
+Omar Mascarell,Real Club Deportivo Mallorca S.A.D.,Midfield,Defensive Midfield,31,32,1990,1,0,5,1,800000.0,181.0,Equatorial Guinea,right
+Javi Martínez,Club Atlético Osasuna,Midfield,Attacking Midfield,25,1,5,0,0,0,0,800000.0,181.0,Spain,right
+Raúl Albiol,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,39,15,1189,0,0,4,0,800000.0,190.0,Spain,right
+John Patrick,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,21,4,45,0,0,1,0,800000.0,192.0,Ireland,right
+Javi Llabrés,Real Club Deportivo Mallorca S.A.D.,Attack,Left Winger,22,1,58,0,0,0,0,800000.0,174.0,Spain,both
+Domingos Duarte,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,29,22,1861,1,0,5,1,800000.0,192.0,Portugal,right
+Arkaitz Mariezkurrena,Real Sociedad de Fútbol S.A.D.,Attack,Left Winger,19,9,236,2,0,1,0,800000.0,181.0,Spain,left
+José Campaña,UD Las Palmas,Midfield,Central Midfield,31,25,1192,0,3,4,0,750000.0,179.0,Spain,right
+Sergio González,CD Leganés,Defender,Centre-Back,32,36,2961,2,0,2,1,700000.0,189.0,Spain,right
+Aitor Fernández,Club Atlético Osasuna,Goalkeeper,Goalkeeper,33,1,90,0,0,0,0,600000.0,182.0,Spain,right
+Aritz Arambarri,CD Leganés,Defender,Centre-Back,26,2,178,0,0,0,0,600000.0,186.0,Spain,right
+Nabil Aberdin,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,22,6,263,0,0,1,0,600000.0,192.0,Morocco,right
+André Ferreira,Real Valladolid CF,Goalkeeper,Goalkeeper,28,6,540,0,0,0,0,600000.0,193.0,Portugal,right
+Unai García,Club Atlético Osasuna,Defender,Centre-Back,32,3,65,0,0,0,0,600000.0,186.0,Spain,right
+Rubén Peña,Club Atlético Osasuna,Defender,Right-Back,33,25,764,0,0,1,0,600000.0,170.0,Spain,right
+Daniel Luna,Real Club Deportivo Mallorca S.A.D.,Midfield,Attacking Midfield,21,2,18,0,0,0,0,600000.0,178.0,Colombia,left
+Unai Marrero,Real Sociedad de Fútbol S.A.D.,Goalkeeper,Goalkeeper,23,2,180,0,0,0,0,600000.0,189.0,Spain,right
+Borna Barisic,CD Leganés,Defender,Left-Back,32,1,10,0,0,0,0,600000.0,186.0,Croatia,left
+David López,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,21,2,170,0,0,0,0,600000.0,195.0,Spain,right
+Iker Córdoba,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,19,2,13,0,0,0,0,500000.0,190.0,Spain,left
+Arnau Solà,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,21,1,12,0,0,0,0,500000.0,179.0,Spain,left
+Jan Salas,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,19,4,39,0,0,0,0,500000.0,182.0,Spain,right
+Tamás Nikitscher,Real Valladolid CF,Midfield,Defensive Midfield,25,13,855,0,0,2,0,500000.0,193.0,Hungary,right
+Fabio González,UD Las Palmas,Midfield,Central Midfield,27,2,52,0,0,0,0,450000.0,176.0,Spain,right
+Dani Díaz,Real Sociedad de Fútbol S.A.D.,Attack,Right Winger,18,1,9,0,0,0,0,400000.0,167.0,Spain,left
+Vladyslav Krapyvtsov,Girona Fútbol Club S. A. D.,Goalkeeper,Goalkeeper,19,2,180,0,0,0,0,400000.0,188.0,Ukraine,right
+Vicente Guaita,Real Club Celta de Vigo S. A. D.,Goalkeeper,Goalkeeper,37,34,3060,0,0,0,0,400000.0,190.0,Spain,right
+Darío Benavides,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,21,1,4,0,0,1,0,400000.0,178.0,Spain,right
+Ismael Bekhoucha,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,20,5,65,0,0,2,0,300000.0,176.0,Morocco,right
+Diego Hormigo,Sevilla Fútbol Club S.A.D.,Defender,Left-Back,21,1,38,0,0,0,0,300000.0,182.0,Spain,left
+Etienne Eto'o,Rayo Vallecano de Madrid S. A. D.,Attack,Centre-Forward,22,2,38,0,0,0,0,300000.0,191.0,Cameroon,right
+Carlos Guirao,CD Leganés,Midfield,Defensive Midfield,21,2,112,0,0,0,0,300000.0,184.0,Spain,right
+Abdoulaye Keita,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Left Winger,22,3,94,0,0,0,0,200000.0,186.0,Spain,
+Alberto Risco,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Attacking Midfield,19,5,64,0,0,0,0,200000.0,,Spain,
+Aboubacar Bassinga,UD Las Palmas,Midfield,Central Midfield,19,1,3,0,0,0,0,200000.0,,Cote d'Ivoire,left
+Mario Maroto,Real Valladolid CF,Midfield,Central Midfield,21,2,63,0,1,0,0,200000.0,176.0,Spain,left
+Allan Nyom,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,36,20,884,1,2,3,0,200000.0,189.0,Cameroon,right
+Isra Domínguez,Sevilla Fútbol Club S.A.D.,Attack,Left Winger,21,1,17,0,0,0,0,200000.0,175.0,Spain,right
+Adrián Rodríguez,Deportivo Alavés S. A. D.,Goalkeeper,Goalkeeper,24,2,121,0,0,1,0,200000.0,195.0,Argentina,right
+Arnau Rafús,Real Valladolid CF,Goalkeeper,Goalkeeper,21,1,90,0,0,0,0,200000.0,190.0,Spain,
+Ro Abajas,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,21,1,66,0,0,1,0,200000.0,186.0,Spain,left
+David Argüelles,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,22,1,6,0,0,0,0,150000.0,175.0,Spain,left
+Gorka Rivera,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,20,1,19,0,0,0,0,100000.0,,Spain,left
+Dani Rodríguez,Real Club Deportivo Mallorca S.A.D.,Midfield,Attacking Midfield,36,37,2175,4,7,5,0,100000.0,178.0,Spain,right
+Papa Ba,Girona Fútbol Club S. A. D.,Attack,Right Winger,20,1,47,0,0,0,0,50000.0,180.0,Senegal,left
+Sergio Viera,UD Las Palmas,Midfield,Attacking Midfield,19,2,96,0,0,1,0,25000.0,,Spain,
+Arturo Rodríguez,UD Las Palmas,Attack,Right Winger,18,1,20,0,0,0,0,25000.0,,Spain,left
+Josito González,UD Las Palmas,Midfield,Attacking Midfield,18,1,10,0,0,0,0,25000.0,,Venezuela,

@@ -29,10 +29,10 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Data files (generated locally)
-data/*.csv
+# Data files (keep real dataset, ignore large temp files)
 data/*.xlsx
 !data/.gitkeep
+!data/laliga_players_2024_25.csv
 
 # Model artifacts
 models/
