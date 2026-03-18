@@ -340,26 +340,29 @@ def plot_residuals(y_true: np.ndarray, y_pred: np.ndarray):
 # ──────────────────────────────────────────────────────────────────────
 
 def plot_team_squad_value(df: pd.DataFrame, top_n: int = 20):
-    """Horizontal bar chart of total squad market value by team."""
+    """Horizontal bar chart of average player market value by team."""
     set_football_style()
     fig, ax = plt.subplots(figsize=(10, 8))
 
-    team_values = (
-        df.groupby("team")["market_value_eur"]
-        .sum()
-        .sort_values(ascending=True)
-        .tail(top_n)
-        / 1e6
-    )
+    team_stats = df.groupby("team")["market_value_eur"].agg(["mean", "count"])
+    team_stats = team_stats.sort_values("mean", ascending=True).tail(top_n)
+    team_avg = team_stats["mean"] / 1e6
+    team_count = team_stats["count"]
 
-    colors = [PALETTE["accent"] if v > team_values.median() else PALETTE["secondary"]
-              for v in team_values.values]
+    colors = [PALETTE["accent"] if v > team_avg.median() else PALETTE["secondary"]
+              for v in team_avg.values]
 
-    ax.barh(team_values.index, team_values.values, color=colors,
-            edgecolor="white", zorder=3)
-    ax.set_xlabel("Total Squad Value (EUR millions)")
-    ax.set_title("LaLiga Squad Market Values")
-    ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, _: f"{x:.0f}M"))
+    bars = ax.barh(team_avg.index, team_avg.values, color=colors,
+                   edgecolor="white", zorder=3)
+
+    # Annotate with player count
+    for bar, count in zip(bars, team_count.values):
+        ax.text(bar.get_width() + 0.3, bar.get_y() + bar.get_height() / 2,
+                f"n={count}", va="center", fontsize=8, color="#666")
+
+    ax.set_xlabel("Average Player Value (EUR millions)")
+    ax.set_title("LaLiga Average Player Market Value by Team")
+    ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, _: f"€{x:.0f}M"))
 
     plt.tight_layout()
     return fig, ax

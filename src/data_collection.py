@@ -21,6 +21,7 @@ import pandas as pd
 DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "laliga_players_2024_25.csv")
 
 # Shortened team names for readability
+# Includes variants with different whitespace from Transfermarkt source
 TEAM_NAME_MAP = {
     "Real Madrid Club de Fútbol": "Real Madrid",
     "Futbol Club Barcelona": "FC Barcelona",
@@ -30,19 +31,28 @@ TEAM_NAME_MAP = {
     "Real Betis Balompié S.A.D.": "Real Betis",
     "Villarreal Club de Fútbol S.A.D.": "Villarreal",
     "Girona Fútbol Club S.A.D.": "Girona",
+    "Girona Fútbol Club S. A. D.": "Girona",
     "Sevilla Fútbol Club S.A.D.": "Sevilla",
     "Valencia Club de Fútbol S.A.D.": "Valencia",
+    "Valencia Club de Fútbol S. A. D.": "Valencia",
     "Club Atlético Osasuna": "Osasuna",
     "Real Club Celta de Vigo S.A.D.": "Celta Vigo",
+    "Real Club Celta de Vigo S. A. D.": "Celta Vigo",
     "Real Club Deportivo Mallorca S.A.D.": "Mallorca",
     "Getafe Club de Fútbol S.A.D.": "Getafe",
+    "Getafe Club de Fútbol S. A. D. Team Dubai": "Getafe",
     "Rayo Vallecano de Madrid S.A.D.": "Rayo Vallecano",
+    "Rayo Vallecano de Madrid S. A. D.": "Rayo Vallecano",
     "Unión Deportiva Las Palmas S.A.D.": "Las Palmas",
+    "UD Las Palmas": "Las Palmas",
     "Deportivo Alavés S.A.D.": "Alaves",
+    "Deportivo Alavés S. A. D.": "Alaves",
     "Reial Club Deportiu Espanyol de Barcelona S.A.D.": "Espanyol",
     "Real Valladolid Club de Fútbol S.A.D.": "Real Valladolid",
+    "Real Valladolid CF": "Real Valladolid",
     "CD Leganés": "Leganes",
     "Real Club Deportivo de La Coruña": "Deportivo",
+    "Aberdeen Football Club": "Aberdeen (loan)",
 }
 
 
