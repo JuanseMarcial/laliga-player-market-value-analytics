@@ -68,8 +68,9 @@ def load_dataset(path: str = DATA_PATH) -> pd.DataFrame:
     df["team"] = df["team"].map(TEAM_NAME_MAP).fillna(df["team"])
 
     # Ensure numeric types
-    numeric_cols = ["age", "games_played", "minutes_played", "goals", "assists",
-                    "yellow_cards", "red_cards", "market_value_eur", "height_cm"]
+    numeric_cols = ["age", "squad_selections", "games_played", "minutes_played", "goals", "assists",
+                    "yellow_cards", "red_cards", "market_value_eur", "height_cm",
+                    "highest_market_value_in_eur"]
     for col in numeric_cols:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")

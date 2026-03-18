@@ -1,255 +1,623 @@
-player_name,team,position,sub_position,age,games_played,minutes_played,goals,assists,yellow_cards,red_cards,market_value_eur,height_cm,nationality,preferred_foot
-Jude Bellingham,Real Madrid Club de Fútbol,Midfield,Attacking Midfield,21,31,2493,9,9,5,1,160000000.0,186.0,England,right
-Federico Valverde,Real Madrid Club de Fútbol,Midfield,Central Midfield,26,36,3034,6,4,4,0,120000000.0,182.0,Uruguay,right
-Julián Alvarez,Club Atlético de Madrid S.A.D.,Attack,Centre-Forward,24,37,2519,17,4,5,0,100000000.0,170.0,Argentina,right
-Pablo Barrios,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,21,31,2337,1,4,4,1,60000000.0,181.0,Spain,right
-Nico Williams,Athletic Club Bilbao,Attack,Left Winger,22,29,1998,5,5,1,0,60000000.0,181.0,Spain,right
-Alejandro Balde,Futbol Club Barcelona,Defender,Left-Back,21,32,2293,0,4,2,0,60000000.0,177.0,Spain,left
-Eduardo Camavinga,Real Madrid Club de Fútbol,Midfield,Central Midfield,22,19,1098,1,2,2,0,50000000.0,182.0,France,left
-Yan Diomande,CD Leganés,Attack,Left Winger,18,10,542,2,1,1,0,45000000.0,180.0,Cote d'Ivoire,right
-Giuliano Simeone,Club Atlético de Madrid S.A.D.,Attack,Right Winger,22,33,1941,2,6,4,0,40000000.0,173.0,Argentina,right
-Oihan Sancet,Athletic Club Bilbao,Midfield,Attacking Midfield,24,29,1626,15,1,2,0,40000000.0,188.0,Spain,right
-Gavi,Futbol Club Barcelona,Midfield,Central Midfield,20,26,1083,1,1,4,0,40000000.0,173.0,Spain,right
-Vitor Roque,Real Betis Balompié S.A.D.,Attack,Centre-Forward,19,22,1237,4,2,4,0,35000000.0,174.0,Brazil,right
-Conor Gallagher,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,24,32,1633,3,3,2,0,35000000.0,182.0,England,right
-Cristhian Mosquera,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,20,37,3320,1,0,6,0,35000000.0,191.0,Spain,right
-Joan García,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Goalkeeper,Goalkeeper,23,38,3420,0,0,2,0,30000000.0,194.0,Spain,right
-Jesús Rodríguez,Real Betis Balompié S.A.D.,Attack,Left Winger,19,21,1120,2,1,0,0,30000000.0,185.0,Spain,right
-Antony,Real Betis Balompié S.A.D.,Attack,Right Winger,24,17,1365,5,2,2,1,30000000.0,172.0,Brazil,left
-Alberto Moleiro,UD Las Palmas,Attack,Left Winger,21,35,2728,6,1,5,0,30000000.0,171.0,Spain,right
-Takefusa Kubo,Real Sociedad de Fútbol S.A.D.,Attack,Right Winger,23,36,2381,5,0,5,0,30000000.0,173.0,Japan,left
-Loïc Badé,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,24,32,2687,1,1,7,1,28000000.0,191.0,France,right
-Giorgi Mamardashvili,Valencia Club de Fútbol S. A. D.,Goalkeeper,Goalkeeper,24,34,3060,0,0,2,0,28000000.0,197.0,Georgia,left
-Mikel Oyarzabal,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,27,35,2263,9,3,4,1,25000000.0,181.0,Spain,left
-Ladislav Krejci,Girona Fútbol Club S. A. D.,Defender,Centre-Back,25,28,2439,2,1,9,0,22000000.0,191.0,Czech Republic,left
-Nayef Aguerd,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,28,21,1763,0,0,4,0,22000000.0,190.0,Morocco,left
-Marcos Llorente,Club Atlético de Madrid S.A.D.,Defender,Right-Back,29,33,2513,2,4,0,1,22000000.0,184.0,Spain,right
-Abde Ezzalzouli,Real Betis Balompié S.A.D.,Attack,Left Winger,23,32,1995,2,3,2,0,20000000.0,177.0,Morocco,right
-Alexander Sørloth,Club Atlético de Madrid S.A.D.,Attack,Centre-Forward,29,35,1561,20,2,4,0,20000000.0,195.0,Norway,left
-Dodi Lukébakio,Sevilla Fútbol Club S.A.D.,Attack,Right Winger,27,38,3103,11,2,3,1,20000000.0,187.0,Belgium,left
-Enzo Boyomo,Real Valladolid CF,Defender,Centre-Back,23,37,3258,2,0,5,0,20000000.0,184.0,Cameroon,right
-Samuel Lino,Club Atlético de Madrid S.A.D.,Attack,Left Winger,25,31,1560,3,4,3,0,20000000.0,177.0,Brazil,right
-Logan Costa,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,23,32,2586,2,1,3,0,18000000.0,190.0,Cape Verde,right
-Cucho Hernández,Real Betis Balompié S.A.D.,Attack,Centre-Forward,25,15,1150,5,1,0,0,18000000.0,176.0,Colombia,right
-Jan Oblak,Club Atlético de Madrid S.A.D.,Goalkeeper,Goalkeeper,31,36,3240,0,0,0,0,17000000.0,188.0,Slovenia,right
-Yarek Gasiorowski,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,19,15,946,0,0,1,0,16000000.0,191.0,Spain,left
-Christantus Uche,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,21,32,2415,4,6,7,1,15000000.0,190.0,Nigeria,both
-Fran García,Real Madrid Club de Fútbol,Defender,Left-Back,25,31,2174,0,2,0,0,15000000.0,169.0,Spain,left
-Juanlu Sánchez,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,21,32,1724,4,4,6,0,15000000.0,186.0,Spain,right
-Omar El Hilali,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Defender,Right-Back,21,36,3159,0,2,11,0,15000000.0,183.0,Morocco,right
-Sergio Gómez,Real Sociedad de Fútbol S.A.D.,Defender,Left-Back,24,37,2745,2,5,4,0,15000000.0,171.0,Spain,left
-Nahuel Molina,Club Atlético de Madrid S.A.D.,Defender,Right-Back,26,30,1581,0,3,1,0,15000000.0,175.0,Argentina,right
-César Tárrega,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,22,34,3027,2,1,7,0,15000000.0,194.0,Spain,right
-Samú Costa,Real Club Deportivo Mallorca S.A.D.,Midfield,Defensive Midfield,24,32,2655,0,2,10,0,15000000.0,185.0,Portugal,left
-Viktor Tsygankov,Girona Fútbol Club S. A. D.,Attack,Right Winger,27,27,1921,2,5,1,0,15000000.0,178.0,Ukraine,left
-Rodrigo De Paul,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,30,34,2112,3,5,7,0,15000000.0,180.0,Argentina,right
-Juan Foyth,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,26,19,1517,1,0,4,0,15000000.0,187.0,Argentina,right
-Chema Andrés,Real Madrid Club de Fútbol,Midfield,Defensive Midfield,19,2,10,0,0,0,0,15000000.0,190.0,Spain,right
-Álex Remiro,Real Sociedad de Fútbol S.A.D.,Goalkeeper,Goalkeeper,29,36,3240,0,0,0,0,14000000.0,191.0,Spain,right
-José Ángel Carmona,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,22,35,2954,0,0,11,0,12000000.0,184.0,Spain,right
-Yáser Asprilla,Girona Fútbol Club S. A. D.,Attack,Right Winger,21,27,1402,3,1,2,0,12000000.0,176.0,Colombia,left
-Orri Óskarsson,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,20,23,937,3,0,1,0,12000000.0,186.0,Iceland,right
-Bryan Gil,Girona Fútbol Club S. A. D.,Attack,Left Winger,23,25,1734,3,3,4,0,12000000.0,175.0,Spain,left
-Omar Alderete,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,28,33,2888,1,0,8,0,12000000.0,188.0,Paraguay,left
-Antoine Griezmann,Club Atlético de Madrid S.A.D.,Attack,Second Striker,33,38,2482,8,7,2,0,11000000.0,176.0,France,left
-Pablo García,Real Betis Balompié S.A.D.,Attack,Right Winger,18,3,36,0,0,0,0,10000000.0,175.0,Spain,left
-Jon Martín,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,18,13,900,0,1,2,0,10000000.0,187.0,Spain,right
-Santiago Mouriño,Club Atlético de Madrid S.A.D.,Defender,Right-Back,22,24,1812,0,1,7,0,10000000.0,186.0,Uruguay,right
-Sergi Cardona,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,25,35,2955,1,7,11,0,10000000.0,186.0,Spain,both
-Mauro Arambarri,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,29,34,2575,9,0,9,0,10000000.0,175.0,Uruguay,right
-Bryan Zaragoza,Club Atlético Osasuna,Attack,Left Winger,23,27,1852,1,6,4,0,10000000.0,164.0,Spain,right
-Jesús Areso,Club Atlético Osasuna,Defender,Right-Back,25,36,3089,0,3,9,0,10000000.0,182.0,Spain,right
-Hugo Sotelo,Real Club Celta de Vigo S. A. D.,Midfield,Central Midfield,21,24,1256,0,0,5,0,9000000.0,180.0,Spain,right
-Ángel Correa,Club Atlético de Madrid S.A.D.,Midfield,Attacking Midfield,29,31,784,4,1,3,1,9000000.0,171.0,Argentina,right
-Yangel Herrera,Girona Fútbol Club S. A. D.,Midfield,Central Midfield,26,29,2265,4,3,10,1,9000000.0,184.0,Venezuela,right
-Aimar Oroz,Club Atlético Osasuna,Midfield,Attacking Midfield,23,37,2983,5,4,7,0,9000000.0,177.0,Spain,right
-Dominik Greif,Real Club Deportivo Mallorca S.A.D.,Goalkeeper,Goalkeeper,27,31,2790,0,0,1,0,8000000.0,197.0,Slovakia,right
-Beñat Turrientes,Real Sociedad de Fútbol S.A.D.,Midfield,Central Midfield,22,21,940,0,0,4,0,8000000.0,181.0,Spain,right
-Rodrigo Riquelme,Club Atlético de Madrid S.A.D.,Attack,Left Winger,24,16,507,0,1,0,0,8000000.0,174.0,Spain,right
-Borja Mayoral,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,27,23,1089,5,1,0,0,7500000.0,182.0,Spain,right
-Stefan Bajcetic,UD Las Palmas,Midfield,Defensive Midfield,20,14,975,1,0,4,0,7000000.0,185.0,Spain,right
-Adam Aznou,Real Valladolid CF,Defender,Left-Back,18,13,874,0,0,3,0,7000000.0,178.0,Morocco,left
-Koke,Club Atlético de Madrid S.A.D.,Midfield,Central Midfield,32,32,1926,1,1,4,0,7000000.0,176.0,Spain,right
-Jon Moncayola,Club Atlético Osasuna,Midfield,Central Midfield,26,32,2113,0,0,8,0,7000000.0,182.0,Spain,right
-Ayoze Pérez,Villarreal Club de Fútbol S.A.D.,Attack,Centre-Forward,31,30,1976,19,2,4,0,6000000.0,178.0,Spain,right
-Antonio Sivera,Deportivo Alavés S. A. D.,Goalkeeper,Goalkeeper,28,31,2722,0,0,5,1,6000000.0,185.0,Spain,right
-Kike Salas,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,22,31,2237,3,2,6,0,6000000.0,188.0,Spain,left
-Iván Martín,Girona Fútbol Club S. A. D.,Midfield,Attacking Midfield,25,32,2043,1,1,1,0,6000000.0,178.0,Spain,left
-Robert Navarro,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,22,23,1286,1,0,3,0,6000000.0,178.0,Spain,right
-Jon Pacheco,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,23,14,851,0,0,3,0,5000000.0,184.0,Spain,left
-Pau Navarro,Villarreal Club de Fútbol S.A.D.,Defender,Right-Back,19,17,917,0,0,1,0,5000000.0,185.0,Spain,right
-Pablo Maffeo,Real Club Deportivo Mallorca S.A.D.,Defender,Right-Back,27,30,2375,0,2,7,0,5000000.0,172.0,Argentina,right
-Germán Valera,Club Atlético de Madrid S.A.D.,Attack,Left Winger,22,8,142,0,0,0,0,5000000.0,170.0,Spain,left
-Reinildo Mandava,Club Atlético de Madrid S.A.D.,Defender,Left-Back,30,19,935,0,0,4,0,5000000.0,180.0,Mozambique,left
-José Gayà,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,29,23,1810,0,1,7,0,5000000.0,172.0,Spain,left
-Leo Román,Real Club Deportivo Mallorca S.A.D.,Goalkeeper,Goalkeeper,24,7,630,0,0,0,0,5000000.0,189.0,Spain,right
-Javi López,Real Sociedad de Fútbol S.A.D.,Defender,Left-Back,22,29,1935,0,0,4,0,5000000.0,183.0,Spain,left
-Stanis Idumbo,Sevilla Fútbol Club S.A.D.,Midfield,Attacking Midfield,19,14,278,1,1,0,0,5000000.0,171.0,Belgium,right
-Urko González de Zárate,Real Sociedad de Fútbol S.A.D.,Midfield,Defensive Midfield,23,18,1427,0,2,2,0,5000000.0,189.0,Spain,right
-Juan Iglesias,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,26,36,2870,0,1,4,0,5000000.0,187.0,Spain,right
-Álvaro Djaló,Athletic Club Bilbao,Attack,Left Winger,25,17,658,1,0,2,0,4500000.0,175.0,Guinea-Bissau,right
-Abel Bretones,Club Atlético Osasuna,Defender,Left-Back,24,35,2068,2,0,3,0,4500000.0,188.0,Spain,left
-Gonzalo Montiel,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,28,6,111,0,0,1,0,4500000.0,175.0,Argentina,right
-Vedat Muriqi,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,30,29,2067,7,2,1,2,4500000.0,194.0,Kosovo,left
-Martin Valjent,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,29,31,2765,3,0,4,0,4500000.0,187.0,Slovakia,right
-Willy Kambwala,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,20,19,1114,0,0,1,1,4000000.0,192.0,France,right
-Adrià Pedrosa,Sevilla Fútbol Club S.A.D.,Defender,Left-Back,26,31,2304,1,1,7,0,4000000.0,172.0,Spain,left
-Edu Expósito,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Midfield,Central Midfield,28,19,1045,0,2,3,0,4000000.0,178.0,Spain,right
-José Copete,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,25,25,1523,0,0,6,0,4000000.0,190.0,Spain,left
-Max Aarons,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,24,4,118,0,0,2,0,4000000.0,177.0,England,right
-Umar Sadiq,Real Sociedad de Fútbol S.A.D.,Attack,Centre-Forward,27,23,1049,5,0,5,0,4000000.0,191.0,Nigeria,right
-Lucas Rosa,Real Valladolid CF,Defender,Right-Back,24,21,1890,0,1,6,0,4000000.0,177.0,Brazil,right
-Álvaro Rodríguez,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,20,21,846,2,0,5,0,4000000.0,193.0,Uruguay,left
-Aitor Ruibal,Real Betis Balompié S.A.D.,Attack,Right Winger,28,29,1303,1,3,5,0,3500000.0,176.0,Spain,right
-Luis Milla,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,30,32,2788,0,4,6,0,3500000.0,175.0,Spain,right
-Peque Fernández,Sevilla Fútbol Club S.A.D.,Attack,Second Striker,22,26,1134,1,1,1,0,3500000.0,172.0,Spain,right
-Sergi Darder,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,31,38,2763,2,6,4,0,3500000.0,180.0,Spain,right
-Cyle Larin,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,29,32,1772,7,2,4,0,3500000.0,188.0,Canada,right
-Javi Galán,Club Atlético de Madrid S.A.D.,Defender,Left-Back,30,25,1781,0,3,8,0,3500000.0,172.0,Spain,left
-Jorge Herrando,Club Atlético Osasuna,Defender,Centre-Back,23,18,1364,1,0,3,0,3500000.0,192.0,Spain,left
-Ante Budimir,Club Atlético Osasuna,Attack,Centre-Forward,33,38,2967,21,4,4,0,3000000.0,190.0,Croatia,left
-Isi Palazón,Rayo Vallecano de Madrid S. A. D.,Attack,Second Striker,30,35,2166,4,4,5,0,3000000.0,169.0,Spain,left
-Rodri Sánchez,Real Betis Balompié S.A.D.,Attack,Right Winger,24,3,117,0,0,0,0,3000000.0,175.0,Spain,left
-Sergio Herrera,Club Atlético Osasuna,Goalkeeper,Goalkeeper,31,37,3330,0,0,5,0,3000000.0,192.0,Spain,right
-Siebe Van der Heyden,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,26,2,96,0,0,0,0,3000000.0,185.0,Belgium,left
-Abel Ruiz,Girona Fútbol Club S. A. D.,Attack,Centre-Forward,24,23,1358,4,0,3,0,3000000.0,182.0,Spain,right
-Raúl García,Club Atlético Osasuna,Attack,Centre-Forward,24,32,731,4,0,1,0,3000000.0,192.0,Spain,right
-Pablo Ibáñez,Club Atlético Osasuna,Midfield,Central Midfield,26,28,1289,1,1,4,0,3000000.0,179.0,Spain,right
-Thierry Correia,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,25,11,771,0,0,1,0,3000000.0,176.0,Portugal,right
-David Soria,Getafe Club de Fútbol S. A. D. Team Dubai,Goalkeeper,Goalkeeper,31,37,3330,0,0,2,0,3000000.0,192.0,Spain,right
-Karl Hein,Real Valladolid CF,Goalkeeper,Goalkeeper,22,31,2790,0,0,0,0,3000000.0,193.0,Estonia,right
-Valentin Rosier,CD Leganés,Defender,Right-Back,28,32,2592,1,2,8,0,3000000.0,175.0,France,right
-Juan Cruz,CD Leganés,Attack,Left Winger,24,34,2265,5,4,2,0,3000000.0,180.0,Spain,left
-Jesús Vázquez,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,21,19,917,0,0,3,0,3000000.0,182.0,Spain,left
-Nahuel Tenaglia,Deportivo Alavés S. A. D.,Defender,Right-Back,28,33,2833,2,1,11,0,3000000.0,181.0,Argentina,right
-Mouctar Diakhaby,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,28,13,651,2,0,0,0,2800000.0,192.0,Guinea,right
-Alejandro Catena,Club Atlético Osasuna,Defender,Centre-Back,30,35,3076,1,3,11,0,2800000.0,194.0,Spain,right
-Lucas Torró,Club Atlético Osasuna,Midfield,Defensive Midfield,30,35,2963,3,0,10,0,2800000.0,190.0,Spain,right
-Alfonso Pedraza,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,28,12,455,0,2,0,0,2500000.0,184.0,Spain,left
-Bojan Miovski,Aberdeen Football Club,Attack,Centre-Forward,25,17,876,2,2,0,0,2500000.0,189.0,North Macedonia,left
-Duk,Aberdeen Football Club,Attack,Left Winger,24,10,171,0,0,1,0,2500000.0,182.0,Cape Verde,right
-Pau López,Girona Fútbol Club S. A. D.,Goalkeeper,Goalkeeper,30,1,45,0,0,0,0,2500000.0,189.0,Spain,left
-Saúl Ñíguez,Sevilla Fútbol Club S.A.D.,Midfield,Central Midfield,30,24,1555,1,6,8,1,2500000.0,184.0,Spain,left
-Carlos Martín,Club Atlético de Madrid S.A.D.,Attack,Left Winger,22,25,1290,2,2,3,0,2500000.0,184.0,Spain,right
-Coba da Costa,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Left Winger,22,19,1008,1,1,4,0,2500000.0,182.0,Guinea-Bissau,right
-Jesús Navas,Sevilla Fútbol Club S.A.D.,Midfield,Right Midfield,39,15,416,1,0,0,0,2500000.0,170.0,Spain,right
-Antonio Sánchez,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,27,33,1387,0,0,3,0,2400000.0,179.0,Spain,right
-Manu Morlanes,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,25,23,1340,0,0,6,0,2400000.0,178.0,Spain,right
-Dani Raba,CD Leganés,Attack,Second Striker,29,29,1890,8,5,6,0,2400000.0,185.0,Spain,left
-Bertuğ Yıldırım,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Centre-Forward,22,21,1013,1,0,7,0,2200000.0,191.0,Türkiye,right
-Min-su Kim,Girona Fútbol Club S. A. D.,Attack,Left Winger,18,3,20,0,0,0,0,2000000.0,177.0,"Korea, South",right
-Thomas Lemar,Club Atlético de Madrid S.A.D.,Midfield,Attacking Midfield,29,5,80,0,0,0,0,2000000.0,171.0,France,left
-Chiquinho,Real Club Deportivo Mallorca S.A.D.,Attack,Left Winger,24,8,141,0,0,2,0,2000000.0,179.0,Portugal,right
-Florian Grillitsch,Real Valladolid CF,Midfield,Defensive Midfield,29,13,622,0,0,1,0,2000000.0,187.0,Austria,right
-Cenk Özkacar,Real Valladolid CF,Defender,Centre-Back,24,11,756,0,0,1,0,2000000.0,190.0,Türkiye,left
-Juanmi Latasa,Real Valladolid CF,Attack,Centre-Forward,23,28,1391,3,0,6,1,2000000.0,192.0,Spain,left
-Iker Muñoz,Club Atlético Osasuna,Midfield,Defensive Midfield,22,23,598,0,1,2,0,2000000.0,180.0,Spain,right
-Álex Sola,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,25,18,967,0,1,3,0,2000000.0,178.0,Spain,right
-Eray Cömert,Real Valladolid CF,Defender,Centre-Back,26,25,1783,0,0,6,0,2000000.0,183.0,Switzerland,right
-Miguel de la Fuente,CD Leganés,Attack,Centre-Forward,25,34,1719,1,3,3,0,2000000.0,182.0,Spain,right
-Javi Hernández,CD Leganés,Defender,Left-Back,26,31,2391,2,1,6,0,2000000.0,180.0,Spain,left
-Sébastien Haller,CD Leganés,Attack,Centre-Forward,30,8,405,0,0,0,0,2000000.0,190.0,Cote d'Ivoire,right
-Takuma Asano,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,30,21,1059,2,1,0,0,1800000.0,173.0,Japan,right
-Iago Aspas,Real Club Celta de Vigo S. A. D.,Attack,Centre-Forward,37,30,1744,10,5,6,0,1800000.0,176.0,Spain,left
-Carles Pérez,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,26,26,1340,3,0,2,0,1800000.0,173.0,Spain,left
-Aritz Elustondo,Real Sociedad de Fútbol S.A.D.,Defender,Centre-Back,30,22,1456,0,0,3,1,1800000.0,180.0,Spain,right
-Johan Mojica,Real Club Deportivo Mallorca S.A.D.,Defender,Left-Back,32,36,2753,1,2,5,0,1800000.0,185.0,Colombia,left
-Óscar Rodríguez,CD Leganés,Midfield,Attacking Midfield,26,29,1323,1,4,6,1,1800000.0,174.0,Spain,right
-Rubén García,Club Atlético Osasuna,Attack,Right Winger,31,36,2433,5,5,2,0,1800000.0,172.0,Spain,left
-Moi Gómez,Club Atlético Osasuna,Midfield,Attacking Midfield,30,26,778,0,0,1,0,1800000.0,176.0,Spain,right
-Dakonam Djené,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,33,30,2463,0,0,11,1,1600000.0,178.0,Togo,right
-Nacho Vidal,Club Atlético Osasuna,Defender,Right-Back,29,5,120,0,0,0,0,1600000.0,180.0,Spain,right
-Chimy Ávila,Real Betis Balompié S.A.D.,Attack,Centre-Forward,30,19,670,2,0,5,1,1500000.0,172.0,Argentina,right
-Óscar de Marcos,Athletic Club Bilbao,Defender,Right-Back,35,26,1561,0,4,0,0,1500000.0,182.0,Spain,right
-Portu,Girona Fútbol Club S. A. D.,Attack,Right Winger,32,27,767,1,2,4,0,1500000.0,167.0,Spain,right
-Mateu Morey,Real Club Deportivo Mallorca S.A.D.,Defender,Right-Back,24,16,740,0,0,0,0,1500000.0,173.0,Spain,right
-José Gragera,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Midfield,Central Midfield,24,10,569,0,0,0,0,1500000.0,186.0,Spain,right
-Juan Berrocal,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,25,18,971,0,0,8,0,1500000.0,187.0,Spain,both
-Iker Benito,Club Atlético Osasuna,Attack,Right Winger,22,2,35,0,0,0,0,1500000.0,176.0,Spain,right
-Abde Rebbach,Deportivo Alavés S. A. D.,Attack,Left Winger,26,8,385,0,0,1,0,1500000.0,176.0,Algeria,right
-Manu Bueno,Sevilla Fútbol Club S.A.D.,Midfield,Central Midfield,20,9,134,1,0,0,0,1500000.0,178.0,Spain,left
-Eric Bailly,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,30,12,618,0,0,2,1,1500000.0,187.0,Cote d'Ivoire,right
-Javi Muñoz,UD Las Palmas,Midfield,Central Midfield,29,35,2589,1,3,5,0,1500000.0,177.0,Spain,right
-Peter Federico,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Right Winger,22,17,465,0,0,1,0,1500000.0,180.0,Dominican Republic,left
-Iker Almena,Girona Fútbol Club S. A. D.,Attack,Right Winger,20,2,46,0,1,0,0,1500000.0,177.0,Spain,left
-Juan Bernat,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,31,24,907,0,2,0,0,1500000.0,170.0,Spain,left
-Antonio Raíllo,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,33,36,3209,2,0,7,1,1500000.0,187.0,Spain,right
-Kike Barja,Club Atlético Osasuna,Attack,Right Winger,27,15,307,0,1,3,0,1500000.0,179.0,Spain,right
-Cédric Bakambu,Real Betis Balompié S.A.D.,Attack,Centre-Forward,33,25,696,2,2,3,0,1400000.0,182.0,DR Congo,right
-Enzo Loiodice,UD Las Palmas,Midfield,Central Midfield,24,17,677,0,0,3,0,1200000.0,177.0,France,left
-Randy Nteka,Rayo Vallecano de Madrid S. A. D.,Midfield,Attacking Midfield,27,24,1137,3,0,6,0,1200000.0,189.0,Angola,left
-Juanmi,Real Betis Balompié S.A.D.,Attack,Left Winger,31,24,935,0,0,4,0,1200000.0,172.0,Spain,right
-Juan Cruz,Club Atlético Osasuna,Defender,Left-Back,32,25,1497,0,0,4,0,1200000.0,182.0,Spain,left
-Marvin Park,UD Las Palmas,Defender,Right-Back,24,23,1029,0,0,4,0,1200000.0,177.0,Spain,right
-Diego Rico,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,31,32,2730,0,3,9,1,1200000.0,183.0,Spain,left
-Luis Pérez,Real Valladolid CF,Defender,Right-Back,29,30,2558,0,0,2,0,1200000.0,173.0,Spain,right
-César Azpilicueta,Club Atlético de Madrid S.A.D.,Defender,Centre-Back,35,14,877,1,0,0,0,1200000.0,178.0,Spain,right
-Pere Milla,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Attack,Left Winger,32,20,443,3,0,3,0,1200000.0,180.0,Spain,left
-Adnan Januzaj,UD Las Palmas,Attack,Right Winger,29,18,592,2,1,5,0,1200000.0,186.0,Belgium,left
-Dimitri Foulquier,Valencia Club de Fútbol S. A. D.,Defender,Right-Back,31,32,2297,0,1,6,0,1200000.0,183.0,Guadeloupe,right
-Ramón Martínez,Sevilla Fútbol Club S.A.D.,Defender,Centre-Back,22,5,258,1,0,0,0,1000000.0,185.0,Spain,right
-Marc Domènech,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,18,10,298,0,0,0,0,1000000.0,182.0,Spain,left
-Kirian Rodríguez,UD Las Palmas,Midfield,Attacking Midfield,28,21,1770,0,3,2,0,1000000.0,178.0,Spain,right
-Roberto López,CD Leganés,Midfield,Attacking Midfield,24,13,389,0,1,0,0,1000000.0,179.0,Spain,left
-Juan Soriano,CD Leganés,Goalkeeper,Goalkeeper,27,6,540,0,0,1,0,1000000.0,185.0,Spain,right
-Álex Muñoz,UD Las Palmas,Defender,Left-Back,30,21,1420,3,0,3,0,1000000.0,187.0,Spain,left
-Adrián Pica,Deportivo Alavés S. A. D.,Defender,Centre-Back,22,9,496,0,0,1,0,1000000.0,190.0,Spain,right
-Adrián Embarba,Rayo Vallecano de Madrid S. A. D.,Attack,Right Winger,32,35,1607,1,1,4,0,1000000.0,173.0,Spain,right
-Valery Fernández,Real Club Deportivo Mallorca S.A.D.,Attack,Right Winger,25,18,295,2,0,1,0,1000000.0,182.0,Spain,right
-Carlos Protesoni,Deportivo Alavés S. A. D.,Midfield,Defensive Midfield,26,17,424,1,1,1,0,1000000.0,185.0,Uruguay,right
-Alfonso Espino,Rayo Vallecano de Madrid S. A. D.,Defender,Left-Back,32,16,833,0,1,4,0,1000000.0,172.0,Uruguay,left
-Ørjan Nyland,Sevilla Fútbol Club S.A.D.,Goalkeeper,Goalkeeper,34,30,2674,0,0,2,0,900000.0,192.0,Norway,right
-Abdón Prats,Real Club Deportivo Mallorca S.A.D.,Attack,Centre-Forward,32,24,438,2,0,4,0,900000.0,181.0,Spain,left
-José Manuel Arnáiz,Club Atlético Osasuna,Midfield,Attacking Midfield,29,15,121,0,0,0,0,900000.0,173.0,Spain,right
-Jon Magunazelaia,Real Sociedad de Fútbol S.A.D.,Midfield,Attacking Midfield,23,2,6,0,0,0,0,900000.0,180.0,Spain,right
-Gabriel Misehouy,Girona Fútbol Club S. A. D.,Midfield,Attacking Midfield,19,9,250,1,0,0,0,900000.0,173.0,Netherlands,right
-Maximiliano Caufriez,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,27,1,90,0,0,0,0,900000.0,189.0,Belgium,right
-Yellu Santiago,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,20,19,364,0,0,4,0,900000.0,192.0,Spain,right
-Omar Mascarell,Real Club Deportivo Mallorca S.A.D.,Midfield,Defensive Midfield,31,32,1990,1,0,5,1,800000.0,181.0,Equatorial Guinea,right
-Javi Martínez,Club Atlético Osasuna,Midfield,Attacking Midfield,25,1,5,0,0,0,0,800000.0,181.0,Spain,right
-Raúl Albiol,Villarreal Club de Fútbol S.A.D.,Defender,Centre-Back,39,15,1189,0,0,4,0,800000.0,190.0,Spain,right
-John Patrick,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Central Midfield,21,4,45,0,0,1,0,800000.0,192.0,Ireland,right
-Javi Llabrés,Real Club Deportivo Mallorca S.A.D.,Attack,Left Winger,22,1,58,0,0,0,0,800000.0,174.0,Spain,both
-Domingos Duarte,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,29,22,1861,1,0,5,1,800000.0,192.0,Portugal,right
-Arkaitz Mariezkurrena,Real Sociedad de Fútbol S.A.D.,Attack,Left Winger,19,9,236,2,0,1,0,800000.0,181.0,Spain,left
-José Campaña,UD Las Palmas,Midfield,Central Midfield,31,25,1192,0,3,4,0,750000.0,179.0,Spain,right
-Sergio González,CD Leganés,Defender,Centre-Back,32,36,2961,2,0,2,1,700000.0,189.0,Spain,right
-Aitor Fernández,Club Atlético Osasuna,Goalkeeper,Goalkeeper,33,1,90,0,0,0,0,600000.0,182.0,Spain,right
-Aritz Arambarri,CD Leganés,Defender,Centre-Back,26,2,178,0,0,0,0,600000.0,186.0,Spain,right
-Nabil Aberdin,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Centre-Back,22,6,263,0,0,1,0,600000.0,192.0,Morocco,right
-André Ferreira,Real Valladolid CF,Goalkeeper,Goalkeeper,28,6,540,0,0,0,0,600000.0,193.0,Portugal,right
-Unai García,Club Atlético Osasuna,Defender,Centre-Back,32,3,65,0,0,0,0,600000.0,186.0,Spain,right
-Rubén Peña,Club Atlético Osasuna,Defender,Right-Back,33,25,764,0,0,1,0,600000.0,170.0,Spain,right
-Daniel Luna,Real Club Deportivo Mallorca S.A.D.,Midfield,Attacking Midfield,21,2,18,0,0,0,0,600000.0,178.0,Colombia,left
-Unai Marrero,Real Sociedad de Fútbol S.A.D.,Goalkeeper,Goalkeeper,23,2,180,0,0,0,0,600000.0,189.0,Spain,right
-Borna Barisic,CD Leganés,Defender,Left-Back,32,1,10,0,0,0,0,600000.0,186.0,Croatia,left
-David López,Real Club Deportivo Mallorca S.A.D.,Defender,Centre-Back,21,2,170,0,0,0,0,600000.0,195.0,Spain,right
-Iker Córdoba,Valencia Club de Fútbol S. A. D.,Defender,Centre-Back,19,2,13,0,0,0,0,500000.0,190.0,Spain,left
-Arnau Solà,Villarreal Club de Fútbol S.A.D.,Defender,Left-Back,21,1,12,0,0,0,0,500000.0,179.0,Spain,left
-Jan Salas,Real Club Deportivo Mallorca S.A.D.,Midfield,Central Midfield,19,4,39,0,0,0,0,500000.0,182.0,Spain,right
-Tamás Nikitscher,Real Valladolid CF,Midfield,Defensive Midfield,25,13,855,0,0,2,0,500000.0,193.0,Hungary,right
-Fabio González,UD Las Palmas,Midfield,Central Midfield,27,2,52,0,0,0,0,450000.0,176.0,Spain,right
-Dani Díaz,Real Sociedad de Fútbol S.A.D.,Attack,Right Winger,18,1,9,0,0,0,0,400000.0,167.0,Spain,left
-Vladyslav Krapyvtsov,Girona Fútbol Club S. A. D.,Goalkeeper,Goalkeeper,19,2,180,0,0,0,0,400000.0,188.0,Ukraine,right
-Vicente Guaita,Real Club Celta de Vigo S. A. D.,Goalkeeper,Goalkeeper,37,34,3060,0,0,0,0,400000.0,190.0,Spain,right
-Darío Benavides,Sevilla Fútbol Club S.A.D.,Defender,Right-Back,21,1,4,0,0,1,0,400000.0,178.0,Spain,right
-Ismael Bekhoucha,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,20,5,65,0,0,2,0,300000.0,176.0,Morocco,right
-Diego Hormigo,Sevilla Fútbol Club S.A.D.,Defender,Left-Back,21,1,38,0,0,0,0,300000.0,182.0,Spain,left
-Etienne Eto'o,Rayo Vallecano de Madrid S. A. D.,Attack,Centre-Forward,22,2,38,0,0,0,0,300000.0,191.0,Cameroon,right
-Carlos Guirao,CD Leganés,Midfield,Defensive Midfield,21,2,112,0,0,0,0,300000.0,184.0,Spain,right
-Abdoulaye Keita,Getafe Club de Fútbol S. A. D. Team Dubai,Attack,Left Winger,22,3,94,0,0,0,0,200000.0,186.0,Spain,
-Alberto Risco,Getafe Club de Fútbol S. A. D. Team Dubai,Midfield,Attacking Midfield,19,5,64,0,0,0,0,200000.0,,Spain,
-Aboubacar Bassinga,UD Las Palmas,Midfield,Central Midfield,19,1,3,0,0,0,0,200000.0,,Cote d'Ivoire,left
-Mario Maroto,Real Valladolid CF,Midfield,Central Midfield,21,2,63,0,1,0,0,200000.0,176.0,Spain,left
-Allan Nyom,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Right-Back,36,20,884,1,2,3,0,200000.0,189.0,Cameroon,right
-Isra Domínguez,Sevilla Fútbol Club S.A.D.,Attack,Left Winger,21,1,17,0,0,0,0,200000.0,175.0,Spain,right
-Adrián Rodríguez,Deportivo Alavés S. A. D.,Goalkeeper,Goalkeeper,24,2,121,0,0,1,0,200000.0,195.0,Argentina,right
-Arnau Rafús,Real Valladolid CF,Goalkeeper,Goalkeeper,21,1,90,0,0,0,0,200000.0,190.0,Spain,
-Ro Abajas,Valencia Club de Fútbol S. A. D.,Defender,Left-Back,21,1,66,0,0,1,0,200000.0,186.0,Spain,left
-David Argüelles,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,22,1,6,0,0,0,0,150000.0,175.0,Spain,left
-Gorka Rivera,Getafe Club de Fútbol S. A. D. Team Dubai,Defender,Left-Back,20,1,19,0,0,0,0,100000.0,,Spain,left
-Dani Rodríguez,Real Club Deportivo Mallorca S.A.D.,Midfield,Attacking Midfield,36,37,2175,4,7,5,0,100000.0,178.0,Spain,right
-Papa Ba,Girona Fútbol Club S. A. D.,Attack,Right Winger,20,1,47,0,0,0,0,50000.0,180.0,Senegal,left
-Sergio Viera,UD Las Palmas,Midfield,Attacking Midfield,19,2,96,0,0,1,0,25000.0,,Spain,
-Arturo Rodríguez,UD Las Palmas,Attack,Right Winger,18,1,20,0,0,0,0,25000.0,,Spain,left
-Josito González,UD Las Palmas,Midfield,Attacking Midfield,18,1,10,0,0,0,0,25000.0,,Venezuela,
+player_id,player_name,team,position,sub_position,lineup_position,age,squad_selections,games_played,minutes_played,goals,assists,yellow_cards,red_cards,market_value_eur,height_cm,nationality,preferred_foot,highest_market_value_in_eur,contract_expiration_date
+371998,Vinicius Junior,Real Madrid,Attack,Left Winger,Left Winger,24,13,0,0,0,0,0,0,180000000,176.0,Brazil,right,180000000.0,2027-06-30 00:00:00
+342229,Kylian Mbappé,Real Madrid,Attack,Centre-Forward,Centre-Forward,26,14,0,0,0,0,0,0,180000000,178.0,France,right,200000000.0,2029-06-30 00:00:00
+581678,Jude Bellingham,Real Madrid,Midfield,Attacking Midfield,Attacking Midfield,22,15,31,2493,9,9,5,1,160000000,186.0,England,right,180000000.0,2029-06-30 00:00:00
+937958,Lamine Yamal,FC Barcelona,Attack,Right Winger,Right Winger,17,17,0,0,0,0,0,0,120000000,180.0,Spain,left,120000000.0,2026-06-30 00:00:00
+369081,Federico Valverde,Real Madrid,Midfield,Central Midfield,Central Midfield,26,16,36,3034,6,4,4,0,120000000,182.0,Uruguay,right,130000000.0,2029-06-30 00:00:00
+412363,Rodrygo,Real Madrid,Attack,Right Winger,Right Winger,24,10,0,0,0,0,0,0,110000000,174.0,Brazil,right,110000000.0,2028-06-30 00:00:00
+576024,Julián Alvarez,Atletico Madrid,Attack,Centre-Forward,Centre-Forward,25,21,37,2519,17,4,5,0,100000000,170.0,Argentina,right,100000000.0,2030-06-30 00:00:00
+413112,Aurélien Tchouaméni,Real Madrid,Midfield,Defensive Midfield,Centre-Back,25,14,0,0,0,0,0,0,100000000,188.0,France,right,100000000.0,2028-06-30 00:00:00
+683840,Pedri,FC Barcelona,Midfield,Central Midfield,Central Midfield,22,19,0,0,0,0,0,0,80000000,174.0,Spain,right,100000000.0,2026-06-30 00:00:00
+326330,Frenkie de Jong,FC Barcelona,Midfield,Central Midfield,Central Midfield,28,15,0,0,0,0,0,0,70000000,181.0,Netherlands,right,90000000.0,2026-06-30 00:00:00
+480267,Ronald Araujo,FC Barcelona,Defender,Centre-Back,Centre-Back,26,9,0,0,0,0,0,0,70000000,192.0,Uruguay,right,70000000.0,2026-06-30 00:00:00
+775605,Pablo Barrios,Atletico Madrid,Midfield,Central Midfield,Central Midfield,22,16,31,2337,1,4,4,1,60000000,181.0,Spain,right,60000000.0,2030-06-30 00:00:00
+636688,Alejandro Balde,FC Barcelona,Defender,Left-Back,Left-Back,21,19,32,2293,0,4,2,0,60000000,177.0,Spain,left,60000000.0,2028-06-30 00:00:00
+401530,Éder Militão,Real Madrid,Defender,Centre-Back,Centre-Back,27,5,0,0,0,0,0,0,60000000,186.0,Brazil,right,70000000.0,2028-06-30 00:00:00
+709187,Nico Williams,Athletic Bilbao,Attack,Left Winger,Left Winger,22,15,29,1998,5,5,1,0,60000000,181.0,Spain,right,70000000.0,2035-06-30 00:00:00
+293385,Dani Olmo,FC Barcelona,Midfield,Attacking Midfield,Attacking Midfield,27,15,0,0,0,0,0,0,60000000,179.0,Spain,right,60000000.0,2030-06-30 00:00:00
+411295,Raphinha,FC Barcelona,Attack,Right Winger,Left Winger,28,19,0,0,0,0,0,0,50000000,176.0,Brazil,left,60000000.0,2027-06-30 00:00:00
+423440,Martín Zubimendi,Real Sociedad,Midfield,Defensive Midfield,Defensive Midfield,26,16,0,0,0,0,0,0,50000000,181.0,Spain,right,50000000.0,2027-06-30 00:00:00
+640428,Eduardo Camavinga,Real Madrid,Midfield,Central Midfield,Central Midfield,22,8,19,1098,1,2,2,0,50000000,182.0,France,left,100000000.0,2029-06-30 00:00:00
+411975,Jules Koundé,FC Barcelona,Defender,Right-Back,Right-Back,26,19,0,0,0,0,0,0,45000000,180.0,France,right,60000000.0,2027-06-30 00:00:00
+861410,Arda Güler,Real Madrid,Attack,Right Winger,Attacking Midfield,20,16,0,0,0,0,0,0,45000000,175.0,Türkiye,left,45000000.0,2029-06-30 00:00:00
+1390649,Yan Diomande,Leganes,Attack,Left Winger,Left Winger,18,4,10,542,2,1,1,0,45000000,180.0,Cote d'Ivoire,right,45000000.0,2030-06-30 00:00:00
+571020,Oihan Sancet,Athletic Bilbao,Midfield,Attacking Midfield,Attacking Midfield,25,14,29,1626,15,1,2,0,40000000,188.0,Spain,right,60000000.0,2032-06-30 00:00:00
+351809,Robin Le Normand,Atletico Madrid,Defender,Centre-Back,Centre-Back,28,14,0,0,0,0,0,0,40000000,187.0,Spain,right,40000000.0,2029-06-30 00:00:00
+196948,Andreas Christensen,FC Barcelona,Defender,Centre-Back,Centre-Back,29,4,0,0,0,0,0,0,40000000,187.0,Denmark,right,40000000.0,2026-06-30 00:00:00
+314678,Brahim Díaz,Real Madrid,Midfield,Attacking Midfield,Right Winger,25,12,0,0,0,0,0,0,40000000,170.0,Morocco,both,40000000.0,2027-06-30 00:00:00
+309110,Brais Méndez,Real Sociedad,Midfield,Attacking Midfield,Attacking Midfield,28,15,0,0,0,0,0,0,40000000,184.0,Spain,left,40000000.0,2028-06-30 00:00:00
+646740,Gavi,FC Barcelona,Midfield,Central Midfield,Central Midfield,20,15,26,1083,1,1,4,0,40000000,173.0,Spain,right,90000000.0,2030-06-30 00:00:00
+742201,Giuliano Simeone,Atletico Madrid,Attack,Right Winger,Right Winger,22,21,33,1941,2,6,4,0,40000000,173.0,Argentina,right,40000000.0,2030-06-30 00:00:00
+548111,Álex Baena,Villarreal,Midfield,Attacking Midfield,Left Winger,23,16,0,0,0,0,0,0,40000000,174.0,Spain,right,40000000.0,2028-06-30 00:00:00
+488362,Conor Gallagher,Atletico Madrid,Midfield,Central Midfield,Central Midfield,25,21,32,1633,3,3,2,0,35000000,182.0,England,right,50000000.0,2031-06-30 00:00:00
+646750,Cristhian Mosquera,Valencia,Defender,Centre-Back,Centre-Back,21,21,37,3320,1,0,6,0,35000000,191.0,Spain,right,35000000.0,2030-06-30 00:00:00
+943837,Vitor Roque,Real Betis,Attack,Centre-Forward,Centre-Forward,20,13,22,1237,4,2,4,0,35000000,174.0,Brazil,right,40000000.0,2029-12-31 00:00:00
+568157,Yéremy Pino,Villarreal,Attack,Right Winger,Right Winger,22,14,0,0,0,0,0,0,30000000,172.0,Spain,right,40000000.0,2027-06-30 00:00:00
+561613,Joan García,Espanyol,Goalkeeper,Goalkeeper,Goalkeeper,24,20,38,3420,0,0,2,0,30000000,194.0,Spain,right,30000000.0,2031-06-30 00:00:00
+733576,Alberto Moleiro,Las Palmas,Attack,Left Winger,Left Winger,21,19,35,2728,6,1,5,0,30000000,171.0,Spain,right,30000000.0,2030-06-30 00:00:00
+405398,Takefusa Kubo,Real Sociedad,Attack,Right Winger,Right Winger,24,16,36,2381,5,0,5,0,30000000,173.0,Japan,left,60000000.0,2029-06-30 00:00:00
+262396,Unai Simón,Athletic Bilbao,Goalkeeper,Goalkeeper,Goalkeeper,28,10,0,0,0,0,0,0,30000000,190.0,Spain,right,30000000.0,2029-06-30 00:00:00
+398184,Ferran Torres,FC Barcelona,Attack,Left Winger,Centre-Forward,25,14,0,0,0,0,0,0,30000000,184.0,Spain,right,50000000.0,2027-06-30 00:00:00
+636703,Fermín López,FC Barcelona,Midfield,Central Midfield,Attacking Midfield,22,17,0,0,0,0,0,0,30000000,174.0,Spain,right,30000000.0,2027-06-30 00:00:00
+962110,Pau Cubarsí,FC Barcelona,Defender,Centre-Back,Centre-Back,18,20,0,0,0,0,0,0,30000000,184.0,Spain,right,30000000.0,2027-06-30 00:00:00
+1190411,Jesús Rodríguez,Real Betis,Attack,Left Winger,Left Winger,19,7,21,1120,2,1,0,0,30000000,185.0,Spain,right,30000000.0,2030-06-30 00:00:00
+602105,Antony,Real Betis,Attack,Right Winger,Right Winger,25,5,17,1365,5,2,2,1,30000000,172.0,Brazil,left,75000000.0,2030-06-30 00:00:00
+108390,Thibaut Courtois,Real Madrid,Goalkeeper,Goalkeeper,Goalkeeper,33,14,0,0,0,0,0,0,28000000,200.0,Belgium,left,75000000.0,2026-06-30 00:00:00
+505653,Fábio Silva,Las Palmas,Attack,Centre-Forward,Centre-Forward,22,11,0,0,0,0,0,0,28000000,185.0,Portugal,right,28000000.0,2030-06-30 00:00:00
+730581,Loïc Badé,Sevilla,Defender,Centre-Back,Centre-Back,25,14,32,2687,1,1,7,1,28000000,191.0,France,right,30000000.0,2030-06-30 00:00:00
+502676,Giorgi Mamardashvili,Valencia,Goalkeeper,Goalkeeper,Goalkeeper,24,18,34,3060,0,0,2,0,28000000,197.0,Georgia,left,45000000.0,2031-06-30 00:00:00
+74857,Marc-André ter Stegen,FC Barcelona,Goalkeeper,Goalkeeper,Goalkeeper,33,4,0,0,0,0,0,0,28000000,187.0,Germany,right,90000000.0,2028-06-30 00:00:00
+351478,Mikel Oyarzabal,Real Sociedad,Attack,Centre-Forward,Centre-Forward,28,16,35,2263,9,3,4,1,25000000,181.0,Spain,left,70000000.0,2028-06-30 00:00:00
+86202,Antonio Rüdiger,Real Madrid,Defender,Centre-Back,Centre-Back,32,10,0,0,0,0,0,0,25000000,190.0,Germany,right,50000000.0,2026-06-30 00:00:00
+689505,Johnny Cardoso,Real Betis,Midfield,Defensive Midfield,Defensive Midfield,23,13,0,0,0,0,0,0,25000000,186.0,United States,right,25000000.0,2029-06-30 00:00:00
+466810,Ansu Fati,FC Barcelona,Attack,Left Winger,Left Winger,22,13,0,0,0,0,0,0,25000000,178.0,Spain,right,80000000.0,2027-06-30 00:00:00
+255508,Iñaki Williams,Athletic Bilbao,Attack,Right Winger,Right Winger,31,17,0,0,0,0,0,0,25000000,186.0,Ghana,right,50000000.0,2028-06-30 00:00:00
+524000,Dani Vivian,Athletic Bilbao,Defender,Centre-Back,Centre-Back,25,17,0,0,0,0,0,0,25000000,184.0,Spain,right,25000000.0,2032-06-30 00:00:00
+404839,Andriy Lunin,Real Madrid,Goalkeeper,Goalkeeper,Goalkeeper,26,15,0,0,0,0,0,0,25000000,191.0,Ukraine,right,25000000.0,2025-06-30 00:00:00
+591916,Aitor Paredes,Athletic Bilbao,Defender,Centre-Back,Centre-Back,25,17,0,0,0,0,0,0,22000000,185.0,Spain,right,22000000.0,2029-06-30 00:00:00
+291417,Ferland Mendy,Real Madrid,Defender,Left-Back,Left-Back,30,10,0,0,0,0,0,0,22000000,180.0,France,left,50000000.0,2025-06-30 00:00:00
+345911,Ladislav Krejci,Girona,Defender,Centre-Back,Centre-Back,26,11,28,2439,2,1,9,0,22000000,191.0,Czech Republic,left,22000000.0,2026-06-30 00:00:00
+361914,Nayef Aguerd,Real Sociedad,Defender,Centre-Back,Centre-Back,29,14,21,1763,0,0,4,0,22000000,190.0,Morocco,left,38000000.0,2030-06-30 00:00:00
+328480,Pepelu,Valencia,Midfield,Defensive Midfield,Defensive Midfield,26,20,0,0,0,0,0,0,22000000,186.0,Spain,right,22000000.0,2028-06-30 00:00:00
+282411,Marcos Llorente,Atletico Madrid,Defender,Right-Back,Right-Back,30,16,33,2513,2,4,0,1,22000000,184.0,Spain,right,80000000.0,2027-06-30 00:00:00
+250845,José María Giménez,Atletico Madrid,Defender,Centre-Back,Centre-Back,30,21,0,0,0,0,0,0,22000000,185.0,Uruguay,right,70000000.0,2028-06-30 00:00:00
+59016,David Alaba,Real Madrid,Defender,Centre-Back,Left-Back,33,1,0,0,0,0,0,0,20000000,180.0,Austria,left,65000000.0,2026-06-30 00:00:00
+724520,Abde Ezzalzouli,Real Betis,Attack,Left Winger,Left Winger,23,16,32,1995,2,3,2,0,20000000,177.0,Morocco,right,20000000.0,2029-06-30 00:00:00
+834764,Javi Guerra,Valencia,Midfield,Central Midfield,Central Midfield,22,21,0,0,0,0,0,0,20000000,187.0,Spain,right,20000000.0,2027-06-30 00:00:00
+541555,Enzo Boyomo,Osasuna,Defender,Centre-Back,Centre-Back,23,22,37,3258,2,0,5,0,20000000,184.0,Cameroon,right,20000000.0,2029-06-30 00:00:00
+616369,Ander Barrenetxea,Real Sociedad,Attack,Left Winger,Left Winger,23,14,0,0,0,0,0,0,20000000,175.0,Spain,right,20000000.0,2030-06-30 00:00:00
+238407,Alexander Sørloth,Atletico Madrid,Attack,Centre-Forward,Centre-Forward,29,21,35,1561,20,2,4,0,20000000,195.0,Norway,left,25000000.0,2028-06-30 00:00:00
+694928,Samuel Lino,Atletico Madrid,Attack,Left Winger,Left Winger,25,21,31,1560,3,4,3,0,20000000,177.0,Brazil,right,30000000.0,2029-12-31 00:00:00
+303259,Dodi Lukébakio,Sevilla,Attack,Right Winger,Right Winger,27,18,38,3103,11,2,3,1,20000000,187.0,Belgium,left,25000000.0,2030-06-30 00:00:00
+466794,Eric García,FC Barcelona,Defender,Centre-Back,Defensive Midfield,24,14,0,0,0,0,0,0,20000000,182.0,Spain,right,20000000.0,2026-06-30 00:00:00
+527966,Andrei Rațiu,Rayo Vallecano,Defender,Right-Back,Right-Back,27,20,0,0,0,0,0,0,18000000,183.0,Romania,right,18000000.0,2030-06-30 00:00:00
+555143,Arsen Zakharyan,Real Sociedad,Midfield,Attacking Midfield,Attacking Midfield,22,3,0,0,0,0,0,0,18000000,183.0,Russia,right,18000000.0,2029-06-30 00:00:00
+295330,Kelechi Iheanacho,Sevilla,Attack,Centre-Forward,Centre-Forward,28,7,0,0,0,0,0,0,18000000,185.0,Nigeria,left,20000000.0,2024-06-30 00:00:00
+687609,Isaac Romero,Sevilla,Attack,Centre-Forward,Centre-Forward,25,17,0,0,0,0,0,0,18000000,184.0,Spain,left,18000000.0,2028-06-30 00:00:00
+340205,Gorka Guruzeta,Athletic Bilbao,Attack,Centre-Forward,Centre-Forward,28,17,0,0,0,0,0,0,18000000,188.0,Spain,right,18000000.0,2028-06-30 00:00:00
+484988,Logan Costa,Villarreal,Defender,Centre-Back,Centre-Back,24,16,32,2586,2,1,3,0,18000000,190.0,Cape Verde,right,18000000.0,2030-06-30 00:00:00
+459463,Cucho Hernández,Real Betis,Attack,Centre-Forward,Centre-Forward,26,5,15,1150,5,1,0,0,18000000,176.0,Colombia,right,18000000.0,2030-06-30 00:00:00
+525299,Miguel Gutiérrez,Girona,Defender,Left-Back,Left-Back,23,11,0,0,0,0,0,0,17000000,180.0,Spain,left,25000000.0,2030-06-30 00:00:00
+121483,Jan Oblak,Atletico Madrid,Goalkeeper,Goalkeeper,Goalkeeper,32,21,36,3240,0,0,0,0,17000000,188.0,Slovenia,right,100000000.0,2028-06-30 00:00:00
+573775,Hugo Duro,Valencia,Attack,Centre-Forward,Centre-Forward,25,21,0,0,0,0,0,0,16000000,177.0,Spain,left,16000000.0,2028-06-30 00:00:00
+348795,Giovani Lo Celso,Real Betis,Midfield,Central Midfield,Attacking Midfield,29,11,0,0,0,0,0,0,16000000,177.0,Argentina,left,50000000.0,2025-06-30 00:00:00
+895334,Yarek Gasiorowski,Valencia,Defender,Centre-Back,Centre-Back,20,22,15,946,0,0,1,0,16000000,191.0,Spain,left,16000000.0,2030-06-30 00:00:00
+38253,Robert Lewandowski,FC Barcelona,Attack,Centre-Forward,Centre-Forward,36,20,0,0,0,0,0,0,15000000,185.0,Poland,right,90000000.0,2026-06-30 00:00:00
+676042,Juanlu Sánchez,Sevilla,Defender,Right-Back,Right-Back,21,18,32,1724,4,4,6,0,15000000,186.0,Spain,right,15000000.0,2029-06-30 00:00:00
+424042,Nahuel Molina,Atletico Madrid,Defender,Right-Back,Right-Back,27,20,30,1581,0,3,1,0,15000000,175.0,Argentina,right,50000000.0,2027-06-30 00:00:00
+822331,Omar El Hilali,Espanyol,Defender,Right-Back,Right-Back,21,18,36,3159,0,2,11,0,15000000,183.0,Morocco,right,15000000.0,2027-06-30 00:00:00
+366930,Sergio Gómez,Real Sociedad,Defender,Left-Back,Left Winger,24,16,37,2745,2,5,4,0,15000000,171.0,Spain,left,20000000.0,2030-06-30 00:00:00
+480763,Juan Foyth,Villarreal,Defender,Centre-Back,Centre-Back,27,6,19,1517,1,0,4,0,15000000,187.0,Argentina,right,25000000.0,2029-06-30 00:00:00
+625047,Beñat Prados,Athletic Bilbao,Midfield,Central Midfield,Central Midfield,24,16,0,0,0,0,0,0,15000000,180.0,Spain,right,15000000.0,2031-06-30 00:00:00
+341264,Fran García,Real Madrid,Defender,Left-Back,Left-Back,25,16,31,2174,0,2,0,0,15000000,169.0,Spain,left,18000000.0,2027-06-30 00:00:00
+255901,Rodrigo De Paul,Atletico Madrid,Midfield,Central Midfield,Central Midfield,31,20,34,2112,3,5,7,0,15000000,180.0,Argentina,right,40000000.0,2029-12-31 00:00:00
+1124005,Christantus Uche,Getafe,Attack,Centre-Forward,Centre-Forward,22,15,32,2415,4,6,7,1,15000000,190.0,Nigeria,both,15000000.0,2026-06-30 00:00:00
+671915,Enzo Barrenechea,Valencia,Midfield,Defensive Midfield,Defensive Midfield,24,21,0,0,0,0,0,0,15000000,186.0,Argentina,right,15000000.0,2026-06-30 00:00:00
+617060,Mika Mármol,Las Palmas,Defender,Centre-Back,Left-Back,24,16,0,0,0,0,0,0,15000000,181.0,Spain,left,15000000.0,2026-06-30 00:00:00
+657430,Samú Costa,Mallorca,Midfield,Defensive Midfield,Defensive Midfield,24,17,32,2655,0,2,10,0,15000000,185.0,Portugal,left,15000000.0,2028-06-30 00:00:00
+709969,Ilias Akhomach,Villarreal,Attack,Right Winger,Right Winger,21,9,0,0,0,0,0,0,15000000,175.0,Morocco,left,15000000.0,2026-06-30 00:00:00
+381967,Albert Sambi Lokonga,Sevilla,Midfield,Central Midfield,Central Midfield,25,9,0,0,0,0,0,0,15000000,183.0,Belgium,right,16000000.0,2025-06-30 00:00:00
+264372,Viktor Tsygankov,Girona,Attack,Right Winger,Right Winger,27,9,27,1921,2,5,1,0,15000000,178.0,Ukraine,left,30000000.0,2027-06-30 00:00:00
+1076815,Javi Rodríguez,Celta Vigo,Defender,Centre-Back,Centre-Back,22,17,0,0,0,0,0,0,15000000,178.0,Spain,right,15000000.0,2028-06-30 00:00:00
+617081,Diego López,Valencia,Attack,Right Winger,Right Winger,23,22,0,0,0,0,0,0,15000000,172.0,Spain,right,15000000.0,2029-06-30 00:00:00
+707274,César Tárrega,Valencia,Defender,Centre-Back,Centre-Back,23,22,34,3027,2,1,7,0,15000000,194.0,Spain,right,15000000.0,2030-06-30 00:00:00
+948279,Chema Andrés,Real Madrid,Midfield,Defensive Midfield,Defensive Midfield,20,2,2,10,0,0,0,0,15000000,190.0,Spain,right,15000000.0,2030-06-30 00:00:00
+212862,Álex Remiro,Real Sociedad,Goalkeeper,Goalkeeper,Goalkeeper,30,16,36,3240,0,0,0,0,14000000,191.0,Spain,right,25000000.0,2027-06-30 00:00:00
+357885,Pablo Fornals,Real Betis,Midfield,Attacking Midfield,Central Midfield,29,14,0,0,0,0,0,0,14000000,178.0,Spain,right,30000000.0,2029-06-30 00:00:00
+849410,Valentín Barco,Sevilla,Defender,Left-Back,Central Midfield,20,7,0,0,0,0,0,0,13000000,170.0,Argentina,left,13000000.0,2025-06-30 00:00:00
+355861,Arnaut Danjuma,Girona,Attack,Left Winger,Left Winger,28,11,0,0,0,0,0,0,13000000,178.0,Netherlands,right,50000000.0,2026-06-30 00:00:00
+857818,Yáser Asprilla,Girona,Attack,Right Winger,Right Winger,21,10,27,1402,3,1,2,0,12000000,176.0,Colombia,left,18000000.0,2026-06-30 00:00:00
+1061282,Assane Diao,Real Betis,Attack,Right Winger,Left Winger,19,13,0,0,0,0,0,0,12000000,185.0,Spain,right,15000000.0,2027-06-30 00:00:00
+660438,Orri Óskarsson,Real Sociedad,Attack,Centre-Forward,Centre-Forward,20,11,23,937,3,0,1,0,12000000,186.0,Iceland,right,20000000.0,2030-06-30 00:00:00
+537382,Bryan Gil,Girona,Attack,Left Winger,Left Winger,24,11,25,1734,3,3,4,0,12000000,175.0,Spain,left,30000000.0,2030-06-30 00:00:00
+338425,Álex Berenguer,Athletic Bilbao,Attack,Left Winger,Left Winger,29,18,0,0,0,0,0,0,12000000,175.0,Spain,right,15000000.0,2027-06-30 00:00:00
+735568,Natan,Real Betis,Defender,Centre-Back,Centre-Back,24,16,0,0,0,0,0,0,12000000,188.0,Brazil,left,13000000.0,2025-06-30 00:00:00
+138927,Daniel Carvajal,Real Madrid,Defender,Right-Back,Right-Back,33,3,0,0,0,0,0,0,12000000,173.0,Spain,right,60000000.0,2025-06-30 00:00:00
+353032,Omar Alderete,Getafe,Defender,Centre-Back,Centre-Back,28,16,33,2888,1,0,8,0,12000000,188.0,Paraguay,left,12000000.0,2029-06-30 00:00:00
+711625,José Ángel Carmona,Sevilla,Defender,Right-Back,Right-Back,23,16,35,2954,0,0,11,0,12000000,184.0,Spain,right,12000000.0,2028-06-30 00:00:00
+125781,Antoine Griezmann,Atletico Madrid,Attack,Second Striker,Second Striker,34,21,38,2482,8,7,2,0,11000000,176.0,France,left,150000000.0,2027-06-30 00:00:00
+495621,Antonio Blanco,Alaves,Midfield,Defensive Midfield,Defensive Midfield,24,22,0,0,0,0,0,0,10000000,176.0,Spain,right,10000000.0,2027-06-30 00:00:00
+203496,Nabil Fekir,Real Betis,Midfield,Attacking Midfield,Attacking Midfield,31,1,0,0,0,0,0,0,10000000,173.0,France,left,70000000.0,2026-06-30 00:00:00
+408471,Javi Puado,Espanyol,Attack,Left Winger,Left Winger,27,18,0,0,0,0,0,0,10000000,177.0,Spain,right,10000000.0,2030-06-30 00:00:00
+678406,Sergi Cardona,Villarreal,Defender,Left-Back,Left-Back,25,17,35,2955,1,7,11,0,10000000,186.0,Spain,both,10000000.0,2027-06-30 00:00:00
+1018938,Jon Martín,Real Sociedad,Defender,Centre-Back,Centre-Back,19,16,13,900,0,1,2,0,10000000,187.0,Spain,right,10000000.0,2031-06-30 00:00:00
+182904,Clément Lenglet,Atletico Madrid,Defender,Centre-Back,Centre-Back,30,20,0,0,0,0,0,0,10000000,186.0,France,left,60000000.0,2025-06-30 00:00:00
+596122,Pep Chavarría,Rayo Vallecano,Defender,Left-Back,Left-Back,27,21,0,0,0,0,0,0,10000000,174.0,Spain,left,10000000.0,2030-06-30 00:00:00
+488626,Jesús Areso,Osasuna,Defender,Right-Back,Right-Back,26,23,36,3089,0,3,9,0,10000000,182.0,Spain,right,12000000.0,2031-06-30 00:00:00
+961087,Pablo García,Real Betis,Attack,Right Winger,Right Winger,19,1,3,36,0,0,0,0,10000000,175.0,Spain,left,10000000.0,2029-06-30 00:00:00
+713644,Bryan Zaragoza,Osasuna,Attack,Left Winger,Left Winger,23,18,27,1852,1,6,4,0,10000000,164.0,Spain,right,12000000.0,2026-06-30 00:00:00
+188888,Sheraldo Becker,Real Sociedad,Attack,Centre-Forward,Left Winger,30,13,0,0,0,0,0,0,10000000,180.0,Suriname,right,17000000.0,2026-06-30 00:00:00
+826224,Arnau Martínez,Girona,Defender,Right-Back,Right-Back,22,14,0,0,0,0,0,0,10000000,182.0,Spain,right,15000000.0,2027-06-30 00:00:00
+290249,Mauro Arambarri,Getafe,Midfield,Central Midfield,Central Midfield,29,16,34,2575,9,0,9,0,10000000,175.0,Uruguay,right,25000000.0,2028-06-30 00:00:00
+937955,Héctor Fort,FC Barcelona,Defender,Right-Back,Right-Back,18,18,0,0,0,0,0,0,10000000,185.0,Spain,right,10000000.0,2026-06-30 00:00:00
+953901,Santiago Mouriño,Alaves,Defender,Right-Back,Centre-Back,23,19,24,1812,0,1,7,0,10000000,186.0,Uruguay,right,10000000.0,2030-06-30 00:00:00
+502722,Luka Sucic,Real Sociedad,Midfield,Central Midfield,Central Midfield,22,13,0,0,0,0,0,0,10000000,185.0,Croatia,left,20000000.0,2029-06-30 00:00:00
+177467,Gerard Moreno,Villarreal,Attack,Centre-Forward,Centre-Forward,33,7,0,0,0,0,0,0,10000000,180.0,Spain,left,40000000.0,2027-06-30 00:00:00
+607034,Akor Adams,Sevilla,Attack,Centre-Forward,Centre-Forward,25,1,0,0,0,0,0,0,10000000,190.0,Nigeria,right,12000000.0,2027-06-30 00:00:00
+634131,Aimar Oroz,Osasuna,Midfield,Attacking Midfield,Attacking Midfield,23,23,37,2983,5,4,7,0,9000000,177.0,Spain,right,15000000.0,2029-06-30 00:00:00
+212723,Djibril Sow,Sevilla,Midfield,Central Midfield,Central Midfield,28,14,0,0,0,0,0,0,9000000,184.0,Switzerland,right,22000000.0,2028-06-30 00:00:00
+375382,André Almeida,Valencia,Midfield,Attacking Midfield,Attacking Midfield,25,21,0,0,0,0,0,0,9000000,176.0,Portugal,right,20000000.0,2029-06-30 00:00:00
+292818,Jonathan Bamba,Celta Vigo,Attack,Left Winger,Left Winger,29,10,0,0,0,0,0,0,9000000,175.0,Cote d'Ivoire,right,25000000.0,2026-06-30 00:00:00
+378293,Yangel Herrera,Girona,Midfield,Central Midfield,Central Midfield,27,10,29,2265,4,3,10,1,9000000,184.0,Venezuela,right,25000000.0,2030-06-30 00:00:00
+892221,Hugo Sotelo,Celta Vigo,Midfield,Central Midfield,Central Midfield,21,17,24,1256,0,0,5,0,9000000,180.0,Spain,right,12000000.0,2028-06-30 00:00:00
+255906,Scott McKenna,Las Palmas,Defender,Centre-Back,Centre-Back,28,15,0,0,0,0,0,0,9000000,189.0,Scotland,left,10000000.0,2027-06-30 00:00:00
+266807,Ángel Correa,Atletico Madrid,Midfield,Attacking Midfield,Centre-Forward,30,19,31,784,4,1,3,1,9000000,171.0,Argentina,right,45000000.0,2030-06-30 00:00:00
+355628,Igor Zubeldia,Real Sociedad,Defender,Centre-Back,Centre-Back,28,12,0,0,0,0,0,0,9000000,181.0,Spain,right,30000000.0,2029-06-30 00:00:00
+888493,Alejo Veliz,Espanyol,Attack,Centre-Forward,Centre-Forward,21,20,0,0,0,0,0,0,9000000,186.0,Argentina,right,11000000.0,2025-06-30 00:00:00
+336869,Marc Roca,Real Betis,Midfield,Defensive Midfield,Defensive Midfield,28,5,0,0,0,0,0,0,9000000,184.0,Spain,left,30000000.0,2029-06-30 00:00:00
+345886,Rubén Vargas,Sevilla,Attack,Left Winger,Left Winger,26,7,0,0,0,0,0,0,9000000,179.0,Switzerland,right,13000000.0,2025-06-30 00:00:00
+343052,Nicolas Pépé,Villarreal,Attack,Right Winger,Right Winger,30,12,0,0,0,0,0,0,8500000,183.0,Cote d'Ivoire,left,75000000.0,2026-06-30 00:00:00
+517842,Aihen Muñoz,Real Sociedad,Defender,Left-Back,Left-Back,27,16,0,0,0,0,0,0,8000000,175.0,Spain,left,8000000.0,2027-06-30 00:00:00
+461617,Rodrigo Riquelme,Atletico Madrid,Attack,Left Winger,Left Winger,25,20,16,507,0,1,0,0,8000000,174.0,Spain,right,25000000.0,2030-06-30 00:00:00
+234811,Rui Silva,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,31,12,0,0,0,0,0,0,8000000,191.0,Portugal,left,15000000.0,2026-06-30 00:00:00
+255488,Yeray Álvarez,Athletic Bilbao,Defender,Centre-Back,Centre-Back,30,12,0,0,0,0,0,0,8000000,182.0,Spain,right,30000000.0,2026-06-30 00:00:00
+622988,Fran Pérez,Valencia,Attack,Right Winger,Right Winger,22,20,0,0,0,0,0,0,8000000,176.0,Spain,right,8000000.0,2026-06-30 00:00:00
+634431,Beñat Turrientes,Real Sociedad,Midfield,Central Midfield,Central Midfield,23,12,21,940,0,0,4,0,8000000,181.0,Spain,right,20000000.0,2030-06-30 00:00:00
+85288,Isco,Real Betis,Midfield,Attacking Midfield,Attacking Midfield,33,7,0,0,0,0,0,0,8000000,176.0,Spain,right,90000000.0,2027-06-30 00:00:00
+316884,Dominik Greif,Mallorca,Goalkeeper,Goalkeeper,Goalkeeper,28,20,31,2790,0,0,1,0,8000000,197.0,Slovakia,right,8000000.0,2029-06-30 00:00:00
+618809,Manu Sánchez,Alaves,Defender,Left-Back,Left-Back,24,20,0,0,0,0,0,0,8000000,171.0,Spain,left,10000000.0,2025-06-30 00:00:00
+283170,Iñaki Peña,FC Barcelona,Goalkeeper,Goalkeeper,Goalkeeper,26,20,0,0,0,0,0,0,8000000,184.0,Spain,right,8000000.0,2026-06-30 00:00:00
+638793,Tajon Buchanan,Villarreal,Midfield,Right Midfield,Right Winger,26,4,0,0,0,0,0,0,8000000,183.0,Canada,right,12000000.0,2028-06-30 00:00:00
+331505,Óscar Mingueza,Celta Vigo,Defender,Right-Back,Right Midfield,26,17,0,0,0,0,0,0,8000000,184.0,Spain,right,15000000.0,2026-06-30 00:00:00
+559979,Abdel Abqar,Alaves,Defender,Centre-Back,Centre-Back,26,18,0,0,0,0,0,0,7500000,188.0,Morocco,right,7500000.0,2025-06-30 00:00:00
+298976,Borja Mayoral,Getafe,Attack,Centre-Forward,Centre-Forward,28,10,23,1089,5,1,0,0,7500000,182.0,Spain,right,15000000.0,2027-06-30 00:00:00
+246291,Diego Llorente,Real Betis,Defender,Centre-Back,Centre-Back,31,15,0,0,0,0,0,0,7000000,186.0,Spain,right,25000000.0,2028-06-30 00:00:00
+552425,Jon Moncayola,Osasuna,Midfield,Central Midfield,Central Midfield,27,21,32,2113,0,0,8,0,7000000,182.0,Spain,right,12000000.0,2031-06-30 00:00:00
+74229,Koke,Atletico Madrid,Midfield,Central Midfield,Central Midfield,33,18,32,1926,1,1,4,0,7000000,176.0,Spain,right,70000000.0,2026-06-30 00:00:00
+338285,Unai Núñez,Athletic Bilbao,Defender,Centre-Back,Centre-Back,28,17,0,0,0,0,0,0,7000000,186.0,Spain,right,20000000.0,2025-06-30 00:00:00
+938146,Adam Aznou,Real Valladolid,Defender,Left-Back,Left-Back,19,6,13,874,0,0,3,0,7000000,178.0,Morocco,left,7000000.0,2029-06-30 00:00:00
+864799,Stefan Bajcetic,Las Palmas,Midfield,Defensive Midfield,Defensive Midfield,20,6,14,975,1,0,4,0,7000000,185.0,Spain,right,13000000.0,2027-06-30 00:00:00
+521407,Walid Cheddira,Espanyol,Attack,Centre-Forward,Centre-Forward,27,18,0,0,0,0,0,0,6000000,187.0,Morocco,right,8000000.0,2025-06-30 00:00:00
+423444,Fran Beltrán,Celta Vigo,Midfield,Central Midfield,Central Midfield,26,18,0,0,0,0,0,0,6000000,165.0,Spain,right,18000000.0,2026-06-30 00:00:00
+766583,Kike Salas,Sevilla,Defender,Centre-Back,Centre-Back,23,18,31,2237,3,2,6,0,6000000,188.0,Spain,left,10000000.0,2029-06-30 00:00:00
+88103,James Rodríguez,Rayo Vallecano,Midfield,Attacking Midfield,Attacking Midfield,33,8,0,0,0,0,0,0,6000000,181.0,,left,80000000.0,
+563137,Robert Navarro,Mallorca,Attack,Right Winger,Right Winger,23,15,23,1286,1,0,3,0,6000000,178.0,Spain,right,6000000.0,2030-06-30 00:00:00
+485963,Pape Gueye,Villarreal,Midfield,Defensive Midfield,Central Midfield,26,15,0,0,0,0,0,0,6000000,189.0,Senegal,left,12000000.0,2028-06-30 00:00:00
+500067,Chidera Ejuke,Sevilla,Attack,Left Winger,Left Winger,27,15,0,0,0,0,0,0,6000000,176.0,Nigeria,right,9000000.0,2027-06-30 00:00:00
+258987,Carl Starfelt,Celta Vigo,Defender,Centre-Back,Centre-Back,30,14,0,0,0,0,0,0,6000000,187.0,Sweden,right,6500000.0,2027-06-30 00:00:00
+569384,Lucien Agoumé,Sevilla,Midfield,Defensive Midfield,Defensive Midfield,23,17,0,0,0,0,0,0,6000000,185.0,France,right,7000000.0,2028-06-30 00:00:00
+712107,Luiz Júnior,Villarreal,Goalkeeper,Goalkeeper,Goalkeeper,24,17,0,0,0,0,0,0,6000000,192.0,Brazil,left,6000000.0,2030-06-30 00:00:00
+298197,Antonio Sivera,Alaves,Goalkeeper,Goalkeeper,Goalkeeper,28,21,31,2722,0,0,5,1,6000000,185.0,Spain,right,6000000.0,2027-06-30 00:00:00
+380598,Santi Comesaña,Villarreal,Midfield,Central Midfield,Central Midfield,28,17,0,0,0,0,0,0,6000000,188.0,Spain,both,7500000.0,2027-06-30 00:00:00
+523318,Anastasios Douvikas,Celta Vigo,Attack,Centre-Forward,Centre-Forward,25,11,0,0,0,0,0,0,6000000,186.0,Greece,right,12000000.0,2028-06-30 00:00:00
+166677,Brian Oliván,Espanyol,Defender,Left-Back,Left-Back,31,16,0,0,0,0,0,0,6000000,175.0,Spain,left,6000000.0,2025-06-30 00:00:00
+246968,Ayoze Pérez,Villarreal,Attack,Centre-Forward,Centre-Forward,31,12,30,1976,19,2,4,0,6000000,178.0,Spain,right,30000000.0,2028-06-30 00:00:00
+341278,Iván Martín,Girona,Midfield,Attacking Midfield,Central Midfield,26,12,32,2043,1,1,1,0,6000000,178.0,Spain,left,15000000.0,2028-06-30 00:00:00
+297070,Hamari Traoré,Real Sociedad,Defender,Right-Back,Right-Back,33,3,0,0,0,0,0,0,6000000,175.0,Mali,right,10000000.0,2025-06-30 00:00:00
+319745,Dani Ceballos,Real Madrid,Midfield,Central Midfield,Central Midfield,28,13,0,0,0,0,0,0,6000000,179.0,Spain,right,45000000.0,2027-06-30 00:00:00
+44058,Wojciech Szczęsny,FC Barcelona,Goalkeeper,Goalkeeper,Goalkeeper,35,15,0,0,0,0,0,0,6000000,196.0,Poland,right,40000000.0,
+834752,Unai Gómez,Athletic Bilbao,Midfield,Attacking Midfield,Attacking Midfield,22,16,0,0,0,0,0,0,6000000,183.0,Spain,left,6000000.0,2028-06-30 00:00:00
+562742,Leo Román,Mallorca,Goalkeeper,Goalkeeper,Goalkeeper,24,20,7,630,0,0,0,0,5000000,189.0,Spain,right,5000000.0,2030-06-30 00:00:00
+277137,Renato Tapia,Leganes,Midfield,Defensive Midfield,Defensive Midfield,29,20,0,0,0,0,0,0,5000000,185.0,Peru,right,20000000.0,2026-06-30 00:00:00
+568158,Javi López,Real Sociedad,Defender,Left-Back,Left-Back,23,15,29,1935,0,0,4,0,5000000,183.0,Spain,left,7500000.0,2026-06-30 00:00:00
+289255,Andoni Gorosabel,Athletic Bilbao,Defender,Right-Back,Right-Back,28,18,0,0,0,0,0,0,5000000,174.0,Spain,right,10000000.0,2028-06-30 00:00:00
+548188,Germán Valera,Valencia,Attack,Left Winger,Left Winger,23,11,8,142,0,0,0,0,5000000,170.0,Spain,left,5000000.0,2027-06-30 00:00:00
+625014,Julen Agirrezabala,Athletic Bilbao,Goalkeeper,Goalkeeper,Goalkeeper,24,18,0,0,0,0,0,0,5000000,187.0,Spain,left,5000000.0,2027-06-30 00:00:00
+1061336,Pau Navarro,Villarreal,Defender,Right-Back,Right-Back,20,17,17,917,0,0,1,0,5000000,185.0,Spain,right,5000000.0,2030-06-30 00:00:00
+764859,Williot Swedberg,Celta Vigo,Midfield,Attacking Midfield,Left Winger,21,16,0,0,0,0,0,0,5000000,187.0,Sweden,right,5000000.0,2027-06-30 00:00:00
+221322,José Gayà,Valencia,Defender,Left-Back,Left-Back,30,13,23,1810,0,1,7,0,5000000,172.0,Spain,left,50000000.0,2027-06-30 00:00:00
+661145,Jon Aramburu,Real Sociedad,Defender,Right-Back,Right-Back,22,16,0,0,0,0,0,0,5000000,176.0,Venezuela,right,5000000.0,2027-06-30 00:00:00
+610335,Iván Jaime,Valencia,Midfield,Attacking Midfield,Attacking Midfield,24,6,0,0,0,0,0,0,5000000,180.0,Spain,right,10000000.0,2026-06-30 00:00:00
+580560,Jon Pacheco,Real Sociedad,Defender,Centre-Back,Centre-Back,24,12,14,851,0,0,3,0,5000000,184.0,Spain,left,15000000.0,2026-06-30 00:00:00
+278359,Borja Iglesias,Celta Vigo,Attack,Centre-Forward,Centre-Forward,32,18,0,0,0,0,0,0,5000000,187.0,Spain,right,28000000.0,2025-06-30 00:00:00
+275218,Augusto Batalla,Rayo Vallecano,Goalkeeper,Goalkeeper,Goalkeeper,29,19,0,0,0,0,0,0,5000000,186.0,Argentina,right,6000000.0,2025-06-30 00:00:00
+158863,Iñigo Martínez,FC Barcelona,Defender,Centre-Back,Centre-Back,34,19,0,0,0,0,0,0,5000000,182.0,Spain,left,32000000.0,2025-06-30 00:00:00
+251876,Pablo Maffeo,Mallorca,Defender,Right-Back,Right-Back,27,18,30,2375,0,2,7,0,5000000,172.0,Argentina,right,10000000.0,2027-06-30 00:00:00
+318523,Romain Perraud,Real Betis,Defender,Left-Back,Left-Back,27,18,0,0,0,0,0,0,5000000,173.0,France,left,12000000.0,2029-06-30 00:00:00
+390688,Juan Iglesias,Getafe,Defender,Right-Back,Right-Back,26,18,36,2870,0,1,4,0,5000000,187.0,Spain,right,5000000.0,2026-06-30 00:00:00
+337333,Alex Král,Espanyol,Midfield,Defensive Midfield,Central Midfield,27,20,0,0,0,0,0,0,5000000,186.0,Czech Republic,right,10000000.0,2025-06-30 00:00:00
+741289,Youssef Enríquez,Real Madrid,Defender,Left-Back,Left-Back,19,5,0,0,0,0,0,0,5000000,170.0,Morocco,left,5000000.0,2029-06-30 00:00:00
+465967,Ander Guevara,Alaves,Midfield,Central Midfield,Central Midfield,27,22,0,0,0,0,0,0,5000000,180.0,Spain,right,7500000.0,2027-06-30 00:00:00
+625651,Urko González de Zárate,Espanyol,Midfield,Defensive Midfield,Defensive Midfield,24,14,18,1427,0,2,2,0,5000000,189.0,Spain,right,5000000.0,2030-06-30 00:00:00
+743387,Stanis Idumbo,Sevilla,Midfield,Attacking Midfield,Attacking Midfield,20,17,14,278,1,1,0,0,5000000,171.0,Belgium,right,5000000.0,2030-06-30 00:00:00
+302371,Toni Martínez,Alaves,Attack,Centre-Forward,Centre-Forward,28,21,0,0,0,0,0,0,5000000,187.0,Spain,right,7000000.0,2028-06-30 00:00:00
+242359,Juan Musso,Atletico Madrid,Goalkeeper,Goalkeeper,Goalkeeper,31,21,0,0,0,0,0,0,5000000,191.0,Argentina,right,20000000.0,2025-06-30 00:00:00
+240692,Reinildo Mandava,Atletico Madrid,Defender,Left-Back,Left-Back,31,21,19,935,0,0,4,0,5000000,180.0,Mozambique,left,25000000.0,2027-06-30 00:00:00
+769063,Luka Romero,Alaves,Attack,Right Winger,Right Winger,20,13,0,0,0,0,0,0,5000000,169.0,Argentina,left,5000000.0,2025-06-30 00:00:00
+895326,Joel Roca,Girona,Attack,Left Winger,Left Winger,20,1,0,0,0,0,0,0,5000000,176.0,Spain,right,5000000.0,2029-06-30 00:00:00
+256267,Vedat Muriqi,Mallorca,Attack,Centre-Forward,Centre-Forward,31,15,29,2067,7,2,1,2,4500000,194.0,Kosovo,left,17000000.0,2029-06-30 00:00:00
+371371,Marash Kumbulla,Espanyol,Defender,Centre-Back,Centre-Back,25,19,0,0,0,0,0,0,4500000,191.0,Albania,right,27000000.0,2025-06-30 00:00:00
+671649,Álvaro Djaló,Athletic Bilbao,Attack,Left Winger,Left Winger,25,15,17,658,1,0,2,0,4500000,175.0,Guinea-Bissau,right,15000000.0,2026-06-30 00:00:00
+277384,Martin Valjent,Mallorca,Defender,Centre-Back,Centre-Back,29,19,31,2765,3,0,4,0,4500000,187.0,Slovakia,right,6000000.0,2029-06-30 00:00:00
+402733,Gonzalo Montiel,Sevilla,Defender,Right-Back,Right-Back,28,7,6,111,0,0,1,0,4500000,175.0,Argentina,right,17000000.0,2028-12-31 00:00:00
+658115,Abel Bretones,Osasuna,Defender,Left-Back,Left-Back,24,24,35,2068,2,0,3,0,4500000,188.0,Spain,left,4500000.0,2029-06-30 00:00:00
+289257,Jon Guridi,Alaves,Midfield,Central Midfield,Attacking Midfield,30,21,0,0,0,0,0,0,4000000,179.0,Spain,left,4000000.0,2026-06-30 00:00:00
+540536,Carlos Vicente,Alaves,Attack,Right Winger,Right Winger,26,22,0,0,0,0,0,0,4000000,179.0,Spain,right,4000000.0,2027-06-30 00:00:00
+517753,Óscar Valentín,Rayo Vallecano,Midfield,Central Midfield,Central Midfield,30,22,0,0,0,0,0,0,4000000,177.0,Spain,right,5000000.0,2027-06-30 00:00:00
+362842,Arthur Melo,Girona,Midfield,Central Midfield,Defensive Midfield,28,5,0,0,0,0,0,0,4000000,172.0,Brazil,right,70000000.0,2026-06-30 00:00:00
+455181,Jorge de Frutos,Rayo Vallecano,Attack,Right Winger,Right Winger,28,21,0,0,0,0,0,0,4000000,173.0,Spain,right,15000000.0,2028-06-30 00:00:00
+471690,Max Aarons,Valencia,Defender,Right-Back,Right-Back,25,9,4,118,0,0,2,0,4000000,177.0,England,right,22000000.0,2026-06-30 00:00:00
+468309,Lucas Rosa,Real Valladolid,Defender,Right-Back,Left-Back,25,9,21,1890,0,1,6,0,4000000,177.0,Brazil,right,4000000.0,2029-06-30 00:00:00
+191217,Héctor Bellerín,Real Betis,Defender,Right-Back,Right-Back,30,9,0,0,0,0,0,0,4000000,178.0,Spain,right,40000000.0,2028-06-30 00:00:00
+501418,Adrià Pedrosa,Sevilla,Defender,Left-Back,Left-Back,27,17,31,2304,1,1,7,0,4000000,172.0,Spain,left,10000000.0,2026-06-30 00:00:00
+337715,Umar Sadiq,Real Sociedad,Attack,Centre-Forward,Centre-Forward,28,21,23,1049,5,0,5,0,4000000,191.0,Nigeria,right,18000000.0,2028-06-30 00:00:00
+780630,Willy Kambwala,Villarreal,Defender,Centre-Back,Centre-Back,20,11,19,1114,0,0,1,1,4000000,192.0,France,right,5000000.0,2029-06-30 00:00:00
+926763,Chuki,Real Valladolid,Midfield,Attacking Midfield,Attacking Midfield,21,12,0,0,0,0,0,0,4000000,176.0,Spain,left,4000000.0,2026-06-30 00:00:00
+520840,José Copete,Mallorca,Defender,Centre-Back,Centre-Back,25,17,25,1523,0,0,6,0,4000000,190.0,Spain,left,4000000.0,2029-06-30 00:00:00
+27992,Luka Modrić,Real Madrid,Midfield,Central Midfield,Central Midfield,39,16,0,0,0,0,0,0,4000000,172.0,Croatia,right,55000000.0,2026-06-30 00:00:00
+783396,Ramón Terrats,Villarreal,Midfield,Defensive Midfield,Central Midfield,24,19,0,0,0,0,0,0,4000000,181.0,Spain,left,4000000.0,2026-06-30 00:00:00
+506248,Edu Expósito,Espanyol,Midfield,Central Midfield,Central Midfield,28,11,19,1045,0,2,3,0,4000000,178.0,Spain,right,6000000.0,2027-06-30 00:00:00
+111961,Suso,Sevilla,Attack,Right Winger,Attacking Midfield,31,15,0,0,0,0,0,0,4000000,177.0,Spain,left,50000000.0,2025-06-30 00:00:00
+948275,Álvaro Rodríguez,Getafe,Attack,Centre-Forward,Centre-Forward,20,15,21,846,2,0,5,0,4000000,193.0,Uruguay,left,6000000.0,2029-06-30 00:00:00
+300168,Mikel Vesga,Athletic Bilbao,Midfield,Defensive Midfield,Defensive Midfield,32,16,0,0,0,0,0,0,4000000,191.0,Spain,left,6000000.0,2027-06-30 00:00:00
+358250,Joseph Aidoo,Celta Vigo,Defender,Centre-Back,Centre-Back,29,12,0,0,0,0,0,0,4000000,181.0,Ghana,right,8000000.0,2026-06-30 00:00:00
+872184,Tadeo Allende,Celta Vigo,Attack,Right Winger,Right Winger,26,4,0,0,0,0,0,0,4000000,183.0,Argentina,right,4500000.0,2028-06-30 00:00:00
+555500,Jorge Herrando,Osasuna,Defender,Centre-Back,Centre-Back,24,24,18,1364,1,0,3,0,3500000,192.0,Spain,left,6000000.0,2030-06-30 00:00:00
+86784,Ricardo Rodríguez,Real Betis,Defender,Left-Back,Left-Back,32,16,0,0,0,0,0,0,3500000,182.0,Switzerland,left,28000000.0,2026-06-30 00:00:00
+378139,Aitor Ruibal,Real Betis,Attack,Right Winger,Right Winger,29,16,29,1303,1,3,5,0,3500000,176.0,Spain,right,5000000.0,2028-06-30 00:00:00
+281989,Luis Milla,Getafe,Midfield,Central Midfield,Central Midfield,30,16,32,2788,0,4,6,0,3500000,175.0,Spain,right,6000000.0,2027-06-30 00:00:00
+670717,Dário Essugo,Las Palmas,Midfield,Defensive Midfield,Defensive Midfield,20,16,0,0,0,0,0,0,3500000,178.0,Portugal,right,3500000.0,2025-06-30 00:00:00
+263727,Joan Jordán,Alaves,Midfield,Central Midfield,Central Midfield,30,19,0,0,0,0,0,0,3500000,185.0,Spain,right,30000000.0,2025-06-30 00:00:00
+343463,Cyle Larin,Mallorca,Attack,Centre-Forward,Centre-Forward,30,20,32,1772,7,2,4,0,3500000,188.0,Canada,right,11500000.0,2026-06-30 00:00:00
+494236,Andy Pelmard,Las Palmas,Defender,Centre-Back,Centre-Back,25,5,0,0,0,0,0,0,3500000,180.0,France,right,5000000.0,2025-06-30 00:00:00
+142021,Sergi Darder,Mallorca,Midfield,Central Midfield,Left Winger,31,20,38,2763,2,6,4,0,3500000,180.0,Spain,right,16000000.0,2028-06-30 00:00:00
+639733,Peque Fernández,Sevilla,Attack,Second Striker,Second Striker,22,17,26,1134,1,1,1,0,3500000,172.0,Spain,right,5000000.0,2028-06-30 00:00:00
+448628,Javi Galán,Atletico Madrid,Defender,Left-Back,Left-Back,30,21,25,1781,0,3,8,0,3500000,172.0,Spain,left,12000000.0,2026-06-30 00:00:00
+491616,Jackson Porozo,Leganes,Defender,Centre-Back,Centre-Back,24,10,0,0,0,0,0,0,3300000,192.0,Ecuador,right,3500000.0,2025-06-30 00:00:00
+400131,Siebe Van der Heyden,Mallorca,Defender,Centre-Back,Centre-Back,27,7,2,96,0,0,0,0,3000000,185.0,Belgium,left,4000000.0,2028-06-30 00:00:00
+449496,Álvaro Aguado,Espanyol,Midfield,Central Midfield,Central Midfield,29,20,0,0,0,0,0,0,3000000,175.0,Spain,right,3000000.0,
+363057,Pedro Díaz,Rayo Vallecano,Midfield,Central Midfield,Central Midfield,27,22,0,0,0,0,0,0,3000000,180.0,Spain,right,3000000.0,2028-06-30 00:00:00
+631002,Raúl García,Osasuna,Attack,Centre-Forward,Centre-Forward,24,22,32,731,4,0,1,0,3000000,192.0,Spain,right,4000000.0,2028-06-30 00:00:00
+248738,Sergio Herrera,Osasuna,Goalkeeper,Goalkeeper,Goalkeeper,32,24,37,3330,0,0,5,0,3000000,192.0,Spain,right,8000000.0,2028-06-30 00:00:00
+315762,Luca de la Torre,Celta Vigo,Midfield,Central Midfield,Central Midfield,27,2,0,0,0,0,0,0,3000000,177.0,United States,right,3500000.0,2026-06-30 00:00:00
+935281,David Jiménez,Real Madrid,Defender,Right-Back,Right-Back,21,2,0,0,0,0,0,0,3000000,170.0,Spain,right,3000000.0,2027-06-30 00:00:00
+630995,Rodri Sánchez,Real Betis,Attack,Right Winger,Right Winger,25,2,3,117,0,0,0,0,3000000,175.0,Spain,left,8000000.0,2027-06-30 00:00:00
+441170,Valentin Rosier,Leganes,Defender,Right-Back,Right-Back,28,20,32,2592,1,2,8,0,3000000,175.0,France,right,8000000.0,2028-06-30 00:00:00
+785353,Pablo Ibáñez,Osasuna,Midfield,Central Midfield,Central Midfield,26,24,28,1289,1,1,4,0,3000000,179.0,Spain,right,3000000.0,2030-06-30 00:00:00
+533568,Nahuel Tenaglia,Alaves,Defender,Right-Back,Right-Back,29,19,33,2833,2,1,11,0,3000000,181.0,Argentina,right,5200000.0,2029-06-30 00:00:00
+720038,Pablo Torre,FC Barcelona,Midfield,Attacking Midfield,Attacking Midfield,22,19,0,0,0,0,0,0,3000000,173.0,Spain,right,3000000.0,2026-06-30 00:00:00
+284854,Carles Aleñá,Alaves,Midfield,Central Midfield,Central Midfield,27,13,0,0,0,0,0,0,3000000,180.0,Spain,left,30000000.0,2026-06-30 00:00:00
+255501,Iñigo Lekue,Athletic Bilbao,Defender,Right-Back,Right-Back,32,18,0,0,0,0,0,0,3000000,180.0,Spain,right,7500000.0,2025-06-30 00:00:00
+226012,David Soria,Getafe,Goalkeeper,Goalkeeper,Goalkeeper,32,18,37,3330,0,0,2,0,3000000,192.0,Spain,right,18000000.0,2026-06-30 00:00:00
+623024,Jesús Vázquez,Valencia,Defender,Left-Back,Left-Back,22,20,19,917,0,0,3,0,3000000,182.0,Spain,left,5000000.0,2028-06-30 00:00:00
+505674,Sergio Camello,Rayo Vallecano,Attack,Centre-Forward,Centre-Forward,24,20,0,0,0,0,0,0,3000000,182.0,Spain,right,10000000.0,2027-06-30 00:00:00
+367466,Thierry Correia,Valencia,Defender,Right-Back,Right-Back,26,5,11,771,0,0,1,0,3000000,176.0,Portugal,right,14000000.0,2026-06-30 00:00:00
+257062,Álvaro García,Rayo Vallecano,Attack,Left Winger,Left Winger,32,20,0,0,0,0,0,0,3000000,167.0,Spain,both,6000000.0,2026-06-30 00:00:00
+617074,Ilaix Moriba,Celta Vigo,Midfield,Central Midfield,Central Midfield,22,18,0,0,0,0,0,0,3000000,185.0,Guinea,right,25000000.0,2025-06-30 00:00:00
+636093,Carlos Domínguez,Celta Vigo,Defender,Centre-Back,Centre-Back,24,18,0,0,0,0,0,0,3000000,187.0,Spain,left,3000000.0,2026-06-30 00:00:00
+100131,William Carvalho,Real Betis,Midfield,Defensive Midfield,Defensive Midfield,33,6,0,0,0,0,0,0,3000000,187.0,Portugal,right,30000000.0,2026-06-30 00:00:00
+834491,Alejandro Rego,Athletic Bilbao,Midfield,Central Midfield,Central Midfield,22,1,0,0,0,0,0,0,3000000,192.0,Spain,right,3000000.0,2026-06-30 00:00:00
+493513,Karl Hein,Real Valladolid,Goalkeeper,Goalkeeper,Goalkeeper,23,15,31,2790,0,0,0,0,3000000,193.0,Estonia,right,3000000.0,2026-06-30 00:00:00
+340376,Abel Ruiz,Girona,Attack,Centre-Forward,Centre-Forward,25,11,23,1358,4,0,3,0,3000000,182.0,Spain,right,14000000.0,2029-06-30 00:00:00
+362086,Isi Palazón,Rayo Vallecano,Attack,Second Striker,Second Striker,30,21,35,2166,4,4,5,0,3000000,169.0,Spain,left,12000000.0,2028-06-30 00:00:00
+127108,Florian Lejeune,Rayo Vallecano,Defender,Centre-Back,Centre-Back,34,22,0,0,0,0,0,0,3000000,190.0,France,right,8000000.0,2027-06-30 00:00:00
+585700,Juan Cruz,Leganes,Attack,Left Winger,Left Winger,25,22,34,2265,5,4,2,0,3000000,180.0,Spain,left,5000000.0,2029-06-30 00:00:00
+1050120,Guille Fernández,FC Barcelona,Midfield,Central Midfield,Central Midfield,17,3,0,0,0,0,0,0,3000000,181.0,Spain,right,3000000.0,2027-06-30 00:00:00
+46413,Ante Budimir,Osasuna,Attack,Centre-Forward,Centre-Forward,33,24,38,2967,21,4,4,0,3000000,190.0,Croatia,left,15000000.0,2027-06-30 00:00:00
+449796,Alejandro Catena,Osasuna,Defender,Centre-Back,Centre-Back,30,22,35,3076,1,3,11,0,2800000,194.0,Spain,right,8000000.0,2028-06-30 00:00:00
+346289,Mouctar Diakhaby,Valencia,Defender,Centre-Back,Centre-Back,28,10,13,651,2,0,0,0,2800000,192.0,Guinea,right,30000000.0,2027-06-30 00:00:00
+213670,Lucas Torró,Osasuna,Midfield,Defensive Midfield,Defensive Midfield,30,23,35,2963,3,0,10,0,2800000,190.0,Spain,right,8000000.0,2027-06-30 00:00:00
+618813,Carlos Martín,Alaves,Attack,Left Winger,Left Winger,23,21,25,1290,2,2,3,0,2500000,184.0,Spain,right,4000000.0,2026-06-30 00:00:00
+535959,Duk,Leganes,Attack,Left Winger,Left Winger,25,9,10,171,0,0,1,0,2500000,182.0,Cape Verde,right,2500000.0,2027-06-30 00:00:00
+340853,Javi Sánchez,Real Valladolid,Defender,Centre-Back,Centre-Back,28,12,0,0,0,0,0,0,2500000,189.0,Spain,right,3000000.0,2026-06-30 00:00:00
+742521,Jhon Solís,Girona,Midfield,Central Midfield,Central Midfield,20,12,0,0,0,0,0,0,2500000,186.0,Colombia,right,4000000.0,2026-06-30 00:00:00
+102423,Leandro Cabrera,Espanyol,Defender,Centre-Back,Centre-Back,34,16,0,0,0,0,0,0,2500000,190.0,Uruguay,left,10000000.0,2024-06-30 00:00:00
+476219,Bojan Miovski,Girona,Attack,Centre-Forward,Centre-Forward,26,10,17,876,2,2,0,0,2500000,189.0,North Macedonia,left,4000000.0,2029-06-30 00:00:00
+129444,David López,Girona,Defender,Centre-Back,Centre-Back,35,15,0,0,0,0,0,0,2500000,185.0,Spain,right,15000000.0,2026-06-30 00:00:00
+357884,Fernando Calero,Espanyol,Defender,Centre-Back,Centre-Back,29,15,0,0,0,0,0,0,2500000,184.0,Spain,right,10000000.0,2024-06-30 00:00:00
+251845,Sergi Canós,Valencia,Attack,Right Winger,Left Winger,28,21,0,0,0,0,0,0,2500000,177.0,Spain,right,14000000.0,2027-06-30 00:00:00
+172015,Fernando Pacheco,Espanyol,Goalkeeper,Goalkeeper,Goalkeeper,33,13,0,0,0,0,0,0,2500000,187.0,Spain,left,18000000.0,2026-06-30 00:00:00
+126751,Iñigo Ruiz de Galarreta,Athletic Bilbao,Midfield,Central Midfield,Central Midfield,31,14,0,0,0,0,0,0,2500000,175.0,Spain,right,5000000.0,2027-06-30 00:00:00
+15956,Jesús Navas,Sevilla,Midfield,Right Midfield,Right Midfield,39,7,15,416,1,0,0,0,2500000,170.0,Spain,right,30000000.0,
+453704,Álvaro Fernández,Sevilla,Goalkeeper,Goalkeeper,Goalkeeper,27,18,0,0,0,0,0,0,2500000,186.0,Spain,right,4000000.0,2024-06-30 00:00:00
+192009,Unai López,Rayo Vallecano,Midfield,Central Midfield,Central Midfield,29,19,0,0,0,0,0,0,2500000,170.0,Spain,right,12000000.0,2026-06-30 00:00:00
+636695,Marc Casadó,FC Barcelona,Midfield,Defensive Midfield,Defensive Midfield,21,17,0,0,0,0,0,0,2500000,172.0,Spain,right,2500000.0,2028-06-30 00:00:00
+59561,Dani Parejo,Villarreal,Midfield,Central Midfield,Central Midfield,36,17,0,0,0,0,0,0,2500000,182.0,Spain,right,35000000.0,2026-06-30 00:00:00
+221316,Lucas Vázquez,Real Madrid,Defender,Right-Back,Right-Back,34,13,0,0,0,0,0,0,2500000,173.0,Spain,right,25000000.0,2027-06-30 00:00:00
+469669,Yvan Neyou,Leganes,Midfield,Defensive Midfield,Defensive Midfield,28,17,0,0,0,0,0,0,2500000,180.0,Cameroon,right,5000000.0,2026-06-30 00:00:00
+298477,Oli McBurnie,Las Palmas,Attack,Centre-Forward,Centre-Forward,29,19,0,0,0,0,0,0,2500000,188.0,Scotland,right,15000000.0,2028-06-30 00:00:00
+286415,Pau López,Girona,Goalkeeper,Goalkeeper,Goalkeeper,30,7,1,45,0,0,0,0,2500000,189.0,Spain,left,24000000.0,2028-06-30 00:00:00
+148928,Saúl Ñíguez,Sevilla,Midfield,Central Midfield,Central Midfield,30,10,24,1555,1,6,8,1,2500000,184.0,Spain,left,90000000.0,2028-12-31 00:00:00
+135492,Youssouf Sabaly,Real Betis,Defender,Right-Back,Right-Back,32,13,0,0,0,0,0,0,2500000,173.0,Senegal,right,10000000.0,2026-06-30 00:00:00
+1033005,Coba da Costa,Getafe,Attack,Left Winger,Left Winger,22,13,19,1008,1,1,4,0,2500000,182.0,Guinea-Bissau,right,3000000.0,2026-06-30 00:00:00
+361254,Rafa Mir,Valencia,Attack,Centre-Forward,Centre-Forward,28,12,0,0,0,0,0,0,2500000,191.0,Spain,right,16000000.0,2025-06-30 00:00:00
+624942,Raúl Moro,Real Valladolid,Attack,Left Winger,Left Winger,22,12,0,0,0,0,0,0,2500000,169.0,Spain,right,3000000.0,2025-06-30 00:00:00
+466801,Sergi Altimira,Real Betis,Midfield,Central Midfield,Central Midfield,23,18,0,0,0,0,0,0,2500000,188.0,Spain,right,3000000.0,2028-06-30 00:00:00
+223725,Munir El Haddadi,Leganes,Attack,Right Winger,Attacking Midfield,29,16,0,0,0,0,0,0,2500000,177.0,Morocco,left,12000000.0,2026-06-30 00:00:00
+356197,Alfonso Pedraza,Villarreal,Defender,Left-Back,Left-Back,29,3,12,455,0,2,0,0,2500000,184.0,Spain,left,22000000.0,2026-06-30 00:00:00
+251897,Asier Villalibre,Alaves,Attack,Centre-Forward,Centre-Forward,27,22,0,0,0,0,0,0,2500000,182.0,Spain,left,4500000.0,2028-06-30 00:00:00
+439022,Marcão,Sevilla,Defender,Centre-Back,Centre-Back,29,17,0,0,0,0,0,0,2500000,185.0,Brazil,left,15000000.0,2028-06-30 00:00:00
+451801,Abdul Mumin,Rayo Vallecano,Defender,Centre-Back,Centre-Back,27,17,0,0,0,0,0,0,2500000,188.0,Ghana,right,3000000.0,2026-06-30 00:00:00
+342226,Irvin Cardona,Espanyol,Attack,Centre-Forward,Centre-Forward,27,11,0,0,0,0,0,0,2500000,185.0,France,right,8000000.0,2025-06-30 00:00:00
+74294,Nemanja Gudelj,Sevilla,Midfield,Defensive Midfield,Defensive Midfield,33,16,0,0,0,0,0,0,2500000,187.0,Serbia,right,7000000.0,2026-06-30 00:00:00
+513031,Antonio Sánchez,Mallorca,Midfield,Central Midfield,Central Midfield,28,19,33,1387,0,0,3,0,2400000,179.0,Spain,right,2500000.0,2027-06-30 00:00:00
+335225,Manu Morlanes,Mallorca,Midfield,Central Midfield,Central Midfield,26,15,23,1340,0,0,6,0,2400000,178.0,Spain,right,5000000.0,2028-06-30 00:00:00
+413262,Dani Raba,Leganes,Attack,Second Striker,Right Winger,29,19,29,1890,8,5,6,0,2400000,185.0,Spain,left,5000000.0,2027-06-30 00:00:00
+527698,Kike Pérez,Real Valladolid,Midfield,Central Midfield,Central Midfield,28,9,0,0,0,0,0,0,2200000,184.0,Spain,left,4500000.0,2027-06-30 00:00:00
+672803,Bertuğ Yıldırım,Getafe,Attack,Centre-Forward,Centre-Forward,22,17,21,1013,1,0,7,0,2200000,191.0,Türkiye,right,5000000.0,2029-06-30 00:00:00
+694509,Moussa Diarra,Alaves,Defender,Centre-Back,Centre-Back,24,20,0,0,0,0,0,0,2000000,185.0,Mali,left,2000000.0,2028-06-30 00:00:00
+615350,Cenk Özkacar,Real Valladolid,Defender,Centre-Back,Centre-Back,24,11,11,756,0,0,1,0,2000000,190.0,Türkiye,left,5000000.0,2026-06-30 00:00:00
+99343,Ander Herrera,Athletic Bilbao,Midfield,Central Midfield,Central Midfield,35,9,0,0,0,0,0,0,2000000,182.0,Spain,right,30000000.0,2025-06-30 00:00:00
+181375,Sébastien Haller,Leganes,Attack,Centre-Forward,Centre-Forward,31,8,8,405,0,0,0,0,2000000,190.0,Cote d'Ivoire,right,45000000.0,2026-06-30 00:00:00
+339079,Jiri Letacek,Getafe,Goalkeeper,Goalkeeper,Goalkeeper,26,18,0,0,0,0,0,0,2000000,196.0,Czech Republic,right,2000000.0,2028-06-30 00:00:00
+290273,Álvaro Tejero,Espanyol,Defender,Right-Back,Right-Back,28,19,0,0,0,0,0,0,2000000,174.0,Spain,both,3000000.0,2024-06-30 00:00:00
+112515,Marcos Alonso,Celta Vigo,Defender,Left-Back,Centre-Back,34,16,0,0,0,0,0,0,2000000,188.0,Spain,left,45000000.0,2025-06-30 00:00:00
+495629,Hugo Guillamón,Valencia,Midfield,Defensive Midfield,Defensive Midfield,25,22,0,0,0,0,0,0,2000000,178.0,Spain,right,25000000.0,2027-06-30 00:00:00
+422466,Javi Hernández,Leganes,Defender,Left-Back,Left-Back,27,21,31,2391,2,1,6,0,2000000,180.0,Spain,left,3000000.0,2026-06-30 00:00:00
+412045,Pol Lozano,Espanyol,Midfield,Central Midfield,Central Midfield,25,16,0,0,0,0,0,0,2000000,176.0,Spain,right,2000000.0,2024-06-30 00:00:00
+695454,Chiquinho,Mallorca,Attack,Left Winger,Left Winger,25,17,8,141,0,0,2,0,2000000,179.0,Portugal,right,3000000.0,2028-06-30 00:00:00
+195736,Florian Grillitsch,Real Valladolid,Midfield,Defensive Midfield,Defensive Midfield,29,6,13,622,0,0,1,0,2000000,187.0,Austria,right,25000000.0,2027-06-30 00:00:00
+92947,Sergi Gómez,Espanyol,Defender,Centre-Back,Centre-Back,33,19,0,0,0,0,0,0,2000000,185.0,Spain,right,10000000.0,2024-06-30 00:00:00
+710677,Iker Muñoz,Osasuna,Midfield,Defensive Midfield,Defensive Midfield,22,19,23,598,0,1,2,0,2000000,180.0,Spain,right,5000000.0,2027-06-30 00:00:00
+298583,Eray Cömert,Real Valladolid,Defender,Centre-Back,Centre-Back,27,13,25,1783,0,0,6,0,2000000,183.0,Switzerland,right,4000000.0,2026-06-30 00:00:00
+195488,Paulo Gazzaniga,Girona,Goalkeeper,Goalkeeper,Goalkeeper,33,15,0,0,0,0,0,0,2000000,195.0,Argentina,right,4000000.0,2027-06-30 00:00:00
+278837,Luis Rioja,Valencia,Attack,Left Winger,Left Winger,31,22,0,0,0,0,0,0,2000000,176.0,Spain,left,4000000.0,2027-06-30 00:00:00
+1108203,Min-su Kim,Girona,Attack,Left Winger,Left Winger,19,2,3,20,0,0,0,0,2000000,177.0,"Korea, South",right,2000000.0,2026-06-30 00:00:00
+480883,Miguel de la Fuente,Leganes,Attack,Centre-Forward,Centre-Forward,25,21,34,1719,1,3,3,0,2000000,182.0,Spain,right,2500000.0,2026-06-30 00:00:00
+623521,Juanmi Latasa,Real Valladolid,Attack,Centre-Forward,Centre-Forward,24,15,28,1391,3,0,6,1,2000000,192.0,Spain,left,3000000.0,2029-06-30 00:00:00
+466807,Adrià Altimira,Leganes,Defender,Right-Back,Right-Back,24,20,0,0,0,0,0,0,2000000,170.0,Spain,right,2000000.0,2025-06-30 00:00:00
+434990,Álex Sola,Getafe,Attack,Right Winger,Right Winger,26,17,18,967,0,1,3,0,2000000,178.0,Spain,right,4000000.0,2026-06-30 00:00:00
+288255,Donny van de Beek,Girona,Midfield,Central Midfield,Central Midfield,28,13,0,0,0,0,0,0,2000000,184.0,Netherlands,right,55000000.0,2028-06-30 00:00:00
+205562,Thomas Lemar,Atletico Madrid,Midfield,Attacking Midfield,Attacking Midfield,29,14,5,80,0,0,0,0,2000000,171.0,France,left,70000000.0,2026-06-30 00:00:00
+525578,Pathé Ciss,Rayo Vallecano,Midfield,Central Midfield,Central Midfield,31,20,0,0,0,0,0,0,2000000,186.0,Senegal,right,4000000.0,2027-06-30 00:00:00
+165467,Stole Dimitrievski,Valencia,Goalkeeper,Goalkeeper,Goalkeeper,31,22,0,0,0,0,0,0,2000000,188.0,North Macedonia,right,4000000.0,2026-06-30 00:00:00
+175449,Moi Gómez,Osasuna,Midfield,Attacking Midfield,Attacking Midfield,31,22,26,778,0,0,1,0,1800000,176.0,Spain,right,10000000.0,2027-06-30 00:00:00
+397676,Dani Cárdenas,Rayo Vallecano,Goalkeeper,Goalkeeper,Goalkeeper,28,22,0,0,0,0,0,0,1800000,186.0,Spain,right,2000000.0,2027-06-30 00:00:00
+262939,Johan Mojica,Mallorca,Defender,Left-Back,Left-Back,32,20,36,2753,1,2,5,0,1800000,185.0,Colombia,left,5000000.0,2027-06-30 00:00:00
+213260,Rubén García,Osasuna,Attack,Right Winger,Right Winger,31,23,36,2433,5,5,2,0,1800000,172.0,Spain,left,10000000.0,2027-06-30 00:00:00
+282810,Carles Pérez,Getafe,Attack,Right Winger,Right Winger,27,18,26,1340,3,0,2,0,1800000,173.0,Spain,left,10000000.0,2026-06-30 00:00:00
+162029,Javier Manquillo,Celta Vigo,Defender,Right-Back,Right-Back,31,9,0,0,0,0,0,0,1800000,178.0,Spain,right,6000000.0,2025-06-30 00:00:00
+245744,Takuma Asano,Mallorca,Attack,Right Winger,Right Winger,30,11,21,1059,2,1,0,0,1800000,173.0,Japan,right,4000000.0,2026-06-30 00:00:00
+72047,Iago Aspas,Celta Vigo,Attack,Centre-Forward,Centre-Forward,37,17,30,1744,10,5,6,0,1800000,176.0,Spain,left,25000000.0,2026-06-30 00:00:00
+61812,Yuri Berchiche,Athletic Bilbao,Defender,Left-Back,Left-Back,35,17,0,0,0,0,0,0,1800000,181.0,Spain,left,20000000.0,2025-06-30 00:00:00
+284884,Óscar Rodríguez,Leganes,Midfield,Attacking Midfield,Attacking Midfield,27,21,29,1323,1,4,6,1,1800000,174.0,Spain,right,15000000.0,
+229804,Aritz Elustondo,Real Sociedad,Defender,Centre-Back,Centre-Back,31,11,22,1456,0,0,3,1,1800000,180.0,Spain,right,20000000.0,2026-06-30 00:00:00
+221150,Dakonam Djené,Getafe,Defender,Centre-Back,Centre-Back,33,15,30,2463,0,0,11,1,1600000,178.0,Togo,right,30000000.0,2026-06-30 00:00:00
+216870,Nacho Vidal,Osasuna,Defender,Right-Back,Right-Back,30,12,5,120,0,0,0,0,1600000,180.0,Spain,right,5000000.0,2027-06-30 00:00:00
+1061656,Iker Almena,Girona,Attack,Right Winger,Right Winger,21,1,2,46,0,1,0,0,1500000,177.0,Spain,left,1500000.0,2026-06-30 00:00:00
+143559,Matija Nastasic,Leganes,Defender,Centre-Back,Centre-Back,32,18,0,0,0,0,0,0,1500000,188.0,Serbia,left,22000000.0,
+278296,Antonio Raíllo,Mallorca,Defender,Centre-Back,Centre-Back,33,19,36,3209,2,0,7,1,1500000,187.0,Spain,right,4000000.0,2027-06-30 00:00:00
+557147,José Gragera,Espanyol,Midfield,Central Midfield,Central Midfield,25,9,10,569,0,0,0,0,1500000,186.0,Spain,right,3000000.0,2026-06-30 00:00:00
+658269,Víctor Meseguer,Real Valladolid,Midfield,Central Midfield,Central Midfield,26,9,0,0,0,0,0,0,1500000,184.0,Spain,right,3000000.0,2029-06-30 00:00:00
+96718,Óscar de Marcos,Athletic Bilbao,Defender,Right-Back,Right-Back,36,18,26,1561,0,4,0,0,1500000,182.0,Spain,right,10000000.0,
+710004,Peter Federico,Getafe,Attack,Right Winger,Right Winger,22,18,17,465,0,0,1,0,1500000,180.0,Dominican Republic,left,3000000.0,2026-06-30 00:00:00
+852727,Diego García,Leganes,Attack,Centre-Forward,Centre-Forward,25,20,0,0,0,0,0,0,1500000,188.0,Spain,right,2000000.0,2028-06-30 00:00:00
+709372,Carlos Romero,Espanyol,Defender,Left-Back,Left-Back,23,20,0,0,0,0,0,0,1500000,,Spain,left,2000000.0,2025-06-30 00:00:00
+99353,Portu,Girona,Attack,Right Winger,Right Winger,33,12,27,767,1,2,4,0,1500000,167.0,Spain,right,20000000.0,2027-06-30 00:00:00
+339820,Amath Ndiaye,Real Valladolid,Attack,Right Winger,Right Winger,28,13,0,0,0,0,0,0,1500000,173.0,Senegal,right,5000000.0,2027-06-30 00:00:00
+320271,Toni Lato,Mallorca,Defender,Left-Back,Left-Back,27,14,0,0,0,0,0,0,1500000,171.0,Spain,left,8000000.0,2027-06-30 00:00:00
+366948,Jailson,Celta Vigo,Midfield,Defensive Midfield,Defensive Midfield,29,9,0,0,0,0,0,0,1500000,187.0,Brazil,right,5500000.0,2025-06-30 00:00:00
+377219,Selim Amallah,Real Valladolid,Midfield,Attacking Midfield,Attacking Midfield,28,12,0,0,0,0,0,0,1500000,185.0,Morocco,right,7000000.0,
+126719,Juan Bernat,Villarreal,Defender,Left-Back,Left-Back,32,20,24,907,0,2,0,0,1500000,170.0,Spain,left,20000000.0,2026-06-30 00:00:00
+286384,Eric Bailly,Villarreal,Defender,Centre-Back,Centre-Back,31,12,12,618,0,0,2,1,1500000,187.0,Cote d'Ivoire,right,35000000.0,2027-06-30 00:00:00
+545647,Sergio Carreira,Celta Vigo,Defender,Right-Back,Right-Back,24,14,0,0,0,0,0,0,1500000,170.0,Spain,both,1500000.0,2025-06-30 00:00:00
+388513,Mateu Morey,Mallorca,Defender,Right-Back,Right-Back,25,19,16,740,0,0,0,0,1500000,173.0,Spain,right,7000000.0,2027-06-30 00:00:00
+165007,Denis Suárez,Villarreal,Midfield,Attacking Midfield,Attacking Midfield,31,13,0,0,0,0,0,0,1500000,176.0,Spain,right,18000000.0,2026-06-30 00:00:00
+508639,Naci Ünüvar,Espanyol,Attack,Left Winger,Left Winger,22,9,0,0,0,0,0,0,1500000,168.0,Türkiye,right,6000000.0,2026-06-30 00:00:00
+461843,Juan Berrocal,Getafe,Defender,Centre-Back,Centre-Back,26,15,18,971,0,0,8,0,1500000,187.0,Spain,both,2200000.0,2026-06-30 00:00:00
+907813,Pablo Marín,Real Sociedad,Midfield,Attacking Midfield,Attacking Midfield,22,13,0,0,0,0,0,0,1500000,178.0,Spain,right,1500000.0,2027-06-30 00:00:00
+718034,Abde Rebbach,Alaves,Attack,Left Winger,Left Winger,26,13,8,385,0,0,1,0,1500000,176.0,Algeria,right,1500000.0,2028-06-30 00:00:00
+199369,Sandro Ramírez,Las Palmas,Attack,Centre-Forward,Right Winger,29,16,0,0,0,0,0,0,1500000,174.0,Spain,right,10000000.0,2026-06-30 00:00:00
+298575,Kike Barja,Osasuna,Attack,Right Winger,Right Winger,28,17,15,307,0,1,3,0,1500000,179.0,Spain,right,4000000.0,2026-06-30 00:00:00
+341110,Franco Cervi,Celta Vigo,Attack,Left Winger,Left Winger,31,15,0,0,0,0,0,0,1500000,166.0,Argentina,left,18000000.0,2026-06-30 00:00:00
+282421,Javi Muñoz,Las Palmas,Midfield,Central Midfield,Central Midfield,30,18,35,2589,1,3,5,0,1500000,177.0,Spain,right,3000000.0,2028-06-30 00:00:00
+511021,Manu Fuster,Las Palmas,Attack,Right Winger,Right Winger,27,19,0,0,0,0,0,0,1500000,169.0,Spain,right,2400000.0,2028-06-30 00:00:00
+707572,Pau Víctor,FC Barcelona,Attack,Centre-Forward,Centre-Forward,23,20,0,0,0,0,0,0,1500000,184.0,Spain,right,1500000.0,2029-06-30 00:00:00
+892929,Hugo Álvarez,Celta Vigo,Attack,Left Winger,Left Midfield,22,15,0,0,0,0,0,0,1500000,176.0,Spain,right,1500000.0,2025-06-30 00:00:00
+167721,Chimy Ávila,Real Betis,Attack,Centre-Forward,Centre-Forward,31,14,19,670,2,0,5,1,1500000,172.0,Argentina,right,15000000.0,2027-06-30 00:00:00
+766723,Manu Bueno,Sevilla,Midfield,Central Midfield,Central Midfield,20,11,9,134,1,0,0,0,1500000,178.0,Spain,left,1500000.0,2027-06-30 00:00:00
+710679,Iker Benito,Osasuna,Attack,Right Winger,Right Winger,22,11,2,35,0,0,0,0,1500000,176.0,Spain,right,1500000.0,2027-06-30 00:00:00
+268670,Gerard Gumbau,Rayo Vallecano,Midfield,Defensive Midfield,Defensive Midfield,30,21,0,0,0,0,0,0,1400000,188.0,Spain,left,3500000.0,2026-06-30 00:00:00
+538996,Tanguy Nianzou,Sevilla,Defender,Centre-Back,Centre-Back,23,3,0,0,0,0,0,0,1400000,191.0,France,right,12000000.0,2027-06-30 00:00:00
+443222,Marc Cardona,Las Palmas,Attack,Centre-Forward,Centre-Forward,29,16,0,0,0,0,0,0,1400000,182.0,Spain,right,1500000.0,2026-06-30 00:00:00
+127048,Cédric Bakambu,Real Betis,Attack,Centre-Forward,Centre-Forward,34,16,25,696,2,2,3,0,1400000,182.0,DR Congo,right,25000000.0,2026-06-30 00:00:00
+76467,Kiko Femenía,Villarreal,Defender,Right-Back,Right-Back,34,15,0,0,0,0,0,0,1400000,174.0,Spain,right,6000000.0,2025-06-30 00:00:00
+668183,Nico Serrano,Athletic Bilbao,Attack,Left Winger,Left Winger,22,12,0,0,0,0,0,0,1400000,176.0,Spain,left,2500000.0,2026-06-30 00:00:00
+35047,Axel Witsel,Atletico Madrid,Midfield,Defensive Midfield,Defensive Midfield,36,21,0,0,0,0,0,0,1400000,186.0,Belgium,right,40000000.0,2026-06-30 00:00:00
+12282,Daley Blind,Girona,Defender,Centre-Back,Centre-Back,35,15,0,0,0,0,0,0,1400000,180.0,Netherlands,left,25000000.0,2026-06-30 00:00:00
+146227,Jasper Cillessen,Las Palmas,Goalkeeper,Goalkeeper,Goalkeeper,36,15,0,0,0,0,0,0,1300000,187.0,Netherlands,right,20000000.0,2026-06-30 00:00:00
+225593,Pere Milla,Espanyol,Attack,Left Winger,Left Winger,32,19,20,443,3,0,3,0,1200000,180.0,Spain,left,3000000.0,2027-06-30 00:00:00
+170472,Dimitri Foulquier,Valencia,Defender,Right-Back,Right-Back,32,17,32,2297,0,1,6,0,1200000,183.0,Guadeloupe,right,4000000.0,2027-06-30 00:00:00
+603940,Marvin Park,Las Palmas,Defender,Right-Back,Right-Back,24,11,23,1029,0,0,4,0,1200000,177.0,Spain,right,2000000.0,2028-06-30 00:00:00
+625660,Jon Ander Olasagasti,Real Sociedad,Midfield,Central Midfield,Central Midfield,24,16,0,0,0,0,0,0,1200000,176.0,Spain,left,2000000.0,2025-06-30 00:00:00
+422460,Dani Gómez,Valencia,Attack,Centre-Forward,Centre-Forward,26,13,0,0,0,0,0,0,1200000,178.0,Spain,right,2500000.0,2025-06-30 00:00:00
+166683,Mamadou Sylla,Real Valladolid,Attack,Centre-Forward,Centre-Forward,31,15,0,0,0,0,0,0,1200000,180.0,Senegal,right,3000000.0,
+358115,Luis Pérez,Real Valladolid,Defender,Right-Back,Right-Back,30,13,30,2558,0,0,2,0,1200000,173.0,Spain,right,2000000.0,2027-06-30 00:00:00
+581781,Enzo Loiodice,Las Palmas,Midfield,Central Midfield,Central Midfield,24,17,17,677,0,0,3,0,1200000,177.0,France,left,5500000.0,2026-06-30 00:00:00
+534379,Pejiño,Las Palmas,Attack,Left Winger,Right Winger,28,6,0,0,0,0,0,0,1200000,178.0,Spain,left,1800000.0,2026-06-30 00:00:00
+560483,Randy Nteka,Rayo Vallecano,Midfield,Attacking Midfield,Attacking Midfield,27,19,24,1137,3,0,6,0,1200000,189.0,Angola,left,4000000.0,2028-06-30 00:00:00
+510396,Alex Suárez,Las Palmas,Defender,Centre-Back,Centre-Back,32,17,0,0,0,0,0,0,1200000,180.0,Spain,right,1200000.0,2026-06-30 00:00:00
+249513,Diego Rico,Getafe,Defender,Left-Back,Left-Back,32,16,32,2730,0,3,9,1,1200000,183.0,Spain,left,10000000.0,2026-06-30 00:00:00
+126737,Juanmi,Real Betis,Attack,Left Winger,Left Winger,32,19,24,935,0,0,4,0,1200000,172.0,Spain,right,15000000.0,2027-06-30 00:00:00
+297194,Iván Villar,Celta Vigo,Goalkeeper,Goalkeeper,Goalkeeper,27,18,0,0,0,0,0,0,1200000,186.0,Spain,right,2500000.0,2027-06-30 00:00:00
+177847,Adnan Januzaj,Las Palmas,Attack,Right Winger,Right Winger,30,11,18,592,2,1,5,0,1200000,186.0,Belgium,left,15000000.0,2026-06-30 00:00:00
+57500,César Azpilicueta,Atletico Madrid,Defender,Centre-Back,Centre-Back,35,15,14,877,1,0,0,0,1200000,178.0,Spain,right,40000000.0,2026-06-30 00:00:00
+388125,Stanko Juric,Real Valladolid,Midfield,Defensive Midfield,Defensive Midfield,28,13,0,0,0,0,0,0,1200000,188.0,Croatia,right,2200000.0,2027-06-30 00:00:00
+169497,Juan Cruz,Osasuna,Defender,Left-Back,Left-Back,32,24,25,1497,0,0,4,0,1200000,182.0,Spain,left,2500000.0,2026-06-30 00:00:00
+85295,Iván Balliu,Rayo Vallecano,Defender,Right-Back,Right-Back,33,22,0,0,0,0,0,0,1200000,172.0,Albania,right,4000000.0,2027-06-30 00:00:00
+204072,Henrique Silva,Real Valladolid,Defender,Left-Back,Left-Back,31,3,0,0,0,0,0,0,1000000,173.0,Brazil,left,1500000.0,
+935230,Gonzalo García,Real Madrid,Attack,Right Winger,Centre-Forward,21,3,0,0,0,0,0,0,1000000,182.0,Spain,,1000000.0,2027-06-30 00:00:00
+1305792,Álvaro García Pascual,Sevilla,Attack,Centre-Forward,Centre-Forward,22,4,0,0,0,0,0,0,1000000,190.0,Spain,right,1000000.0,2028-06-30 00:00:00
+569866,Roberto López,Leganes,Midfield,Attacking Midfield,Attacking Midfield,25,22,13,389,0,1,0,0,1000000,179.0,Spain,left,8000000.0,2027-06-30 00:00:00
+30321,Óscar Trejo,Rayo Vallecano,Midfield,Attacking Midfield,Attacking Midfield,37,22,0,0,0,0,0,0,1000000,180.0,Argentina,right,4000000.0,2025-06-30 00:00:00
+668276,Hugo Novoa,Alaves,Defender,Right-Back,Right-Back,22,12,0,0,0,0,0,0,1000000,182.0,Spain,right,5000000.0,2026-06-30 00:00:00
+882710,Ramón Martínez,Sevilla,Defender,Centre-Back,Centre-Back,22,12,5,258,1,0,0,0,1000000,185.0,Spain,right,1000000.0,2029-06-30 00:00:00
+340339,Jorge Sáenz,Leganes,Defender,Centre-Back,Centre-Back,28,20,0,0,0,0,0,0,1000000,188.0,Spain,right,3000000.0,2023-06-30 00:00:00
+709955,Ander Astralaga,FC Barcelona,Goalkeeper,Goalkeeper,Goalkeeper,21,9,0,0,0,0,0,0,1000000,190.0,Spain,right,1000000.0,2026-06-30 00:00:00
+99922,Marc Bartra,Real Betis,Defender,Centre-Back,Centre-Back,34,15,0,0,0,0,0,0,1000000,184.0,Spain,right,22000000.0,2025-06-30 00:00:00
+282700,Enric Franquesa,Leganes,Defender,Left-Back,Left-Back,28,9,0,0,0,0,0,0,1000000,174.0,Spain,left,1000000.0,2023-06-30 00:00:00
+251896,Jesús Vallejo,Real Madrid,Defender,Centre-Back,Centre-Back,28,15,0,0,0,0,0,0,1000000,184.0,Spain,right,15000000.0,2025-06-30 00:00:00
+331496,Valery Fernández,Mallorca,Attack,Right Winger,Right Winger,25,16,18,295,2,0,1,0,1000000,182.0,Spain,right,5000000.0,2028-06-30 00:00:00
+631693,Jesús Owono,Alaves,Goalkeeper,Goalkeeper,Goalkeeper,24,18,0,0,0,0,0,0,1000000,181.0,Equatorial Guinea,both,1000000.0,2026-06-30 00:00:00
+895458,Adrián Pica,Alaves,Defender,Centre-Back,Centre-Back,23,21,9,496,0,0,1,0,1000000,190.0,Spain,right,1500000.0,2026-06-30 00:00:00
+941883,Martín Tejón,Valencia,Midfield,Attacking Midfield,Attacking Midfield,21,6,0,0,0,0,0,0,1000000,165.0,Spain,right,1000000.0,2027-06-30 00:00:00
+891923,Dawda Camara,Girona,Attack,Centre-Forward,Centre-Forward,22,2,0,0,0,0,0,0,1000000,188.0,Mauritania,right,1000000.0,2026-06-30 00:00:00
+431190,Carlos Protesoni,Alaves,Midfield,Defensive Midfield,Defensive Midfield,27,16,17,424,1,1,1,0,1000000,185.0,Uruguay,right,2000000.0,2026-06-30 00:00:00
+1146029,Juanma Herzog,Las Palmas,Defender,Centre-Back,Centre-Back,21,19,0,0,0,0,0,0,1000000,186.0,Spain,right,1000000.0,2025-06-30 00:00:00
+243760,Álex Muñoz,Las Palmas,Defender,Left-Back,Left-Back,30,19,21,1420,3,0,3,0,1000000,187.0,Spain,left,1200000.0,2028-06-30 00:00:00
+271455,Mihailo Ristic,Celta Vigo,Defender,Left-Back,Left-Back,29,13,0,0,0,0,0,0,1000000,180.0,Serbia,left,3500000.0,2026-06-30 00:00:00
+566574,Kirian Rodríguez,Las Palmas,Midfield,Attacking Midfield,Central Midfield,29,11,21,1770,0,3,2,0,1000000,178.0,Spain,right,12000000.0,2028-06-30 00:00:00
+1034853,Nobel Mendy,Real Betis,Defender,Centre-Back,Centre-Back,20,8,0,0,0,0,0,0,1000000,187.0,Senegal,left,1000000.0,2027-06-30 00:00:00
+311044,Alfonso Espino,Rayo Vallecano,Defender,Left-Back,Left-Back,33,16,16,833,0,1,4,0,1000000,172.0,Uruguay,left,6000000.0,2026-06-30 00:00:00
+1296876,Marc Domènech,Mallorca,Attack,Centre-Forward,Centre-Forward,18,11,10,298,0,0,0,0,1000000,182.0,Spain,left,1000000.0,2026-06-30 00:00:00
+1038512,Asier Osambela,Osasuna,Midfield,Central Midfield,Central Midfield,20,2,0,0,0,0,0,0,1000000,186.0,Spain,right,1000000.0,2029-06-30 00:00:00
+93936,Kike García,Alaves,Attack,Centre-Forward,Centre-Forward,35,21,0,0,0,0,0,0,1000000,186.0,Spain,right,3000000.0,2025-06-30 00:00:00
+251892,Juan Soriano,Leganes,Goalkeeper,Goalkeeper,Goalkeeper,27,22,6,540,0,0,1,0,1000000,185.0,Spain,right,2500000.0,2027-06-30 00:00:00
+288318,Adrián Embarba,Rayo Vallecano,Attack,Right Winger,Right Winger,33,22,35,1607,1,1,4,0,1000000,173.0,Spain,right,8000000.0,2028-06-30 00:00:00
+177452,Abdón Prats,Mallorca,Attack,Centre-Forward,Centre-Forward,32,17,24,438,2,0,4,0,900000,181.0,Spain,left,2000000.0,2028-06-30 00:00:00
+73517,Ørjan Nyland,Sevilla,Goalkeeper,Goalkeeper,Goalkeeper,34,16,30,2674,0,0,2,0,900000,192.0,Norway,right,3000000.0,2026-06-30 00:00:00
+227961,Jaime Mata,Las Palmas,Attack,Centre-Forward,Centre-Forward,36,18,0,0,0,0,0,0,900000,186.0,Spain,right,10000000.0,2025-06-30 00:00:00
+59323,Cristhian Stuani,Girona,Attack,Centre-Forward,Centre-Forward,38,15,0,0,0,0,0,0,900000,184.0,Uruguay,right,10000000.0,2026-06-30 00:00:00
+94308,Marko Dmitrovic,Leganes,Goalkeeper,Goalkeeper,Goalkeeper,33,22,0,0,0,0,0,0,900000,189.0,Serbia,left,12000000.0,2025-06-30 00:00:00
+625655,Jon Magunazelaia,Real Sociedad,Midfield,Attacking Midfield,Attacking Midfield,23,11,2,6,0,0,0,0,900000,180.0,Spain,right,1000000.0,2028-06-30 00:00:00
+392881,Antonio Candela,Real Valladolid,Defender,Right-Back,Right-Back,25,6,0,0,0,0,0,0,900000,185.0,Italy,right,2300000.0,2026-06-30 00:00:00
+646698,Gabriel Misehouy,Girona,Midfield,Attacking Midfield,Attacking Midfield,19,10,9,250,1,0,0,0,900000,173.0,Netherlands,right,1000000.0,2026-06-30 00:00:00
+941869,Yellu Santiago,Getafe,Midfield,Central Midfield,Central Midfield,21,16,19,364,0,0,4,0,900000,192.0,Spain,right,1000000.0,2026-06-30 00:00:00
+364603,José Manuel Arnáiz,Osasuna,Midfield,Attacking Midfield,Attacking Midfield,30,20,15,121,0,0,0,0,900000,173.0,Spain,right,10000000.0,2027-06-30 00:00:00
+369267,Maximiliano Caufriez,Valencia,Defender,Centre-Back,Centre-Back,28,8,1,90,0,0,0,0,900000,189.0,Belgium,right,3000000.0,2026-06-30 00:00:00
+471474,Javi Martínez,Osasuna,Midfield,Attacking Midfield,Attacking Midfield,25,9,1,5,0,0,0,0,800000,181.0,Spain,right,2500000.0,2027-06-30 00:00:00
+256429,Sergi Guardiola,Rayo Vallecano,Attack,Centre-Forward,Centre-Forward,34,19,0,0,0,0,0,0,800000,185.0,Spain,left,7500000.0,
+257376,Domingos Duarte,Getafe,Defender,Centre-Back,Centre-Back,30,17,22,1861,1,0,5,1,800000,192.0,Portugal,right,12000000.0,2026-06-30 00:00:00
+481084,Marcos André,Real Valladolid,Attack,Centre-Forward,Centre-Forward,28,14,0,0,0,0,0,0,800000,185.0,Brazil,right,8500000.0,2029-06-30 00:00:00
+280730,Álvaro Odriozola,Real Sociedad,Defender,Right-Back,Right-Back,29,8,0,0,0,0,0,0,800000,176.0,Spain,right,30000000.0,2029-06-30 00:00:00
+15452,Raúl Albiol,Villarreal,Defender,Centre-Back,Centre-Back,39,15,15,1189,0,0,4,0,800000,190.0,Spain,right,18000000.0,2026-06-30 00:00:00
+938729,Mikel Jauregizar,Athletic Bilbao,Midfield,Central Midfield,Central Midfield,21,16,0,0,0,0,0,0,800000,177.0,Spain,right,800000.0,2027-06-30 00:00:00
+142031,Omar Mascarell,Mallorca,Midfield,Defensive Midfield,Defensive Midfield,32,20,32,1990,1,0,5,1,800000,181.0,Equatorial Guinea,right,14000000.0,2026-06-30 00:00:00
+327126,Anuar,Real Valladolid,Attack,Right Winger,Right Winger,30,13,0,0,0,0,0,0,800000,173.0,Morocco,right,1500000.0,2027-06-30 00:00:00
+611075,Iván Gil,Las Palmas,Midfield,Attacking Midfield,Attacking Midfield,25,7,0,0,0,0,0,0,800000,168.0,Spain,right,1000000.0,2027-06-30 00:00:00
+706138,Javi Llabrés,Mallorca,Attack,Left Winger,Left Winger,22,7,1,58,0,0,0,0,800000,174.0,Spain,both,800000.0,2026-06-30 00:00:00
+841121,John Patrick,Getafe,Midfield,Central Midfield,Central Midfield,21,6,4,45,0,0,1,0,800000,192.0,Ireland,right,1200000.0,2029-06-30 00:00:00
+962145,Arkaitz Mariezkurrena,Real Sociedad,Attack,Left Winger,Left Winger,20,2,9,236,2,0,1,0,800000,181.0,Spain,left,800000.0,2029-06-30 00:00:00
+82503,Aridane Hernández,Rayo Vallecano,Defender,Centre-Back,Centre-Back,36,21,0,0,0,0,0,0,800000,188.0,Spain,right,4000000.0,2025-06-30 00:00:00
+715683,Naim García,Leganes,Attack,Right Winger,Right Winger,23,3,0,0,0,0,0,0,800000,180.0,Spain,left,800000.0,2027-06-30 00:00:00
+1201530,Alex Marchal,Real Sociedad,Attack,Left Winger,Left Winger,17,1,0,0,0,0,0,0,800000,180.0,Spain,right,800000.0,2027-06-30 00:00:00
+120095,José Campaña,Las Palmas,Midfield,Central Midfield,Central Midfield,32,16,25,1192,0,3,4,0,750000,179.0,Spain,right,25000000.0,2026-06-30 00:00:00
+668177,Javi Serrano,Atletico Madrid,Midfield,Central Midfield,Central Midfield,22,3,0,0,0,0,0,0,700000,178.0,Spain,right,700000.0,2026-06-30 00:00:00
+308989,Sergio González,Leganes,Defender,Centre-Back,Centre-Back,33,21,36,2961,2,0,2,1,700000,189.0,Spain,right,1800000.0,
+66100,Oriol Romeu,Girona,Midfield,Defensive Midfield,Defensive Midfield,33,14,0,0,0,0,0,0,700000,183.0,Spain,right,12000000.0,2026-06-30 00:00:00
+343273,Joni Montiel,Rayo Vallecano,Midfield,Attacking Midfield,Attacking Midfield,26,2,0,0,0,0,0,0,700000,173.0,Spain,left,2000000.0,2027-06-30 00:00:00
+281404,Kenedy,Real Valladolid,Attack,Left Winger,Left Winger,29,5,0,0,0,0,0,0,700000,185.0,Brazil,left,12000000.0,2026-06-30 00:00:00
+857830,Daniel Luna,Mallorca,Midfield,Attacking Midfield,Attacking Midfield,22,12,2,18,0,0,0,0,600000,178.0,Colombia,left,1000000.0,2026-06-30 00:00:00
+628498,Jofre Carreras,Espanyol,Attack,Right Winger,Right Winger,24,19,0,0,0,0,0,0,600000,175.0,Spain,right,600000.0,2023-06-30 00:00:00
+610238,Pedro Ortiz,Sevilla,Midfield,Central Midfield,Central Midfield,24,6,0,0,0,0,0,0,600000,184.0,Spain,left,600000.0,2026-06-30 00:00:00
+434602,Aritz Arambarri,Leganes,Defender,Centre-Back,Centre-Back,27,2,2,178,0,0,0,0,600000,186.0,Spain,right,600000.0,2027-06-30 00:00:00
+945500,Rayane Belaid,Atletico Madrid,Midfield,Attacking Midfield,Attacking Midfield,20,1,0,0,0,0,0,0,600000,175.0,Spain,right,600000.0,2027-06-30 00:00:00
+282672,Benito Ramírez,Las Palmas,Attack,Left Winger,Left Winger,29,16,0,0,0,0,0,0,600000,179.0,Spain,left,700000.0,2025-06-30 00:00:00
+607780,Miguel Ángel Morro,Rayo Vallecano,Goalkeeper,Goalkeeper,Goalkeeper,24,1,0,0,0,0,0,0,600000,195.0,Spain,left,600000.0,2025-06-30 00:00:00
+118997,Aitor Fernández,Osasuna,Goalkeeper,Goalkeeper,Goalkeeper,34,24,1,90,0,0,0,0,600000,182.0,Spain,right,10000000.0,2027-06-30 00:00:00
+238868,Rubén Peña,Osasuna,Defender,Right-Back,Right-Back,33,24,25,764,0,0,1,0,600000,170.0,Spain,right,10000000.0,2027-06-30 00:00:00
+947431,David López,Mallorca,Defender,Centre-Back,Centre-Back,22,7,2,170,0,0,0,0,600000,195.0,Spain,right,600000.0,2027-06-30 00:00:00
+71271,Adrián,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,38,18,0,0,0,0,0,0,600000,190.0,Spain,right,9000000.0,2026-06-30 00:00:00
+908621,Nabil Aberdin,Getafe,Defender,Centre-Back,Centre-Back,22,7,6,263,0,0,1,0,600000,192.0,Morocco,right,800000.0,2026-06-30 00:00:00
+625657,Unai Marrero,Real Sociedad,Goalkeeper,Goalkeeper,Goalkeeper,23,16,2,180,0,0,0,0,600000,189.0,Spain,right,600000.0,2027-06-30 00:00:00
+290346,André Ferreira,Real Valladolid,Goalkeeper,Goalkeeper,Goalkeeper,29,15,6,540,0,0,0,0,600000,193.0,Portugal,right,900000.0,2028-06-30 00:00:00
+197122,Unai García,Osasuna,Defender,Centre-Back,Centre-Back,33,24,3,65,0,0,0,0,600000,186.0,Spain,right,2500000.0,2026-06-30 00:00:00
+39125,Borna Barisic,Leganes,Defender,Left-Back,Left-Back,32,1,1,10,0,0,0,0,600000,186.0,Croatia,left,6500000.0,2026-06-30 00:00:00
+857832,David Torres,Real Valladolid,Defender,Centre-Back,Centre-Back,22,14,0,0,0,0,0,0,500000,,Spain,left,500000.0,2024-06-30 00:00:00
+923915,Antal Yaakobishvili,Girona,Defender,Centre-Back,Centre-Back,20,3,0,0,0,0,0,0,500000,193.0,Hungary,both,500000.0,2026-06-30 00:00:00
+636697,Arnau Solà,Villarreal,Defender,Left-Back,Left-Back,22,3,1,12,0,0,0,0,500000,179.0,Spain,left,500000.0,2026-06-30 00:00:00
+886047,Antonio Espigares,Villarreal,Defender,Centre-Back,Centre-Back,20,3,0,0,0,0,0,0,500000,187.0,Spain,right,500000.0,2029-06-30 00:00:00
+614988,Ilias Kostis,Atletico Madrid,Defender,Centre-Back,Centre-Back,22,3,0,0,0,0,0,0,500000,188.0,Greece,left,500000.0,2027-06-30 00:00:00
+1065442,Iñigo Arguibide,Osasuna,Defender,Right-Back,Right-Back,20,1,0,0,0,0,0,0,500000,178.0,Spain,right,500000.0,2027-06-30 00:00:00
+1063574,Jan Salas,Mallorca,Midfield,Central Midfield,Central Midfield,19,5,4,39,0,0,0,0,500000,182.0,Spain,right,500000.0,2028-06-30 00:00:00
+668313,Aitor Fraga,Real Sociedad,Goalkeeper,Goalkeeper,Goalkeeper,22,3,0,0,0,0,0,0,500000,194.0,Spain,right,500000.0,2029-06-30 00:00:00
+341713,Diego Conde,Villarreal,Goalkeeper,Goalkeeper,Goalkeeper,26,16,0,0,0,0,0,0,500000,188.0,Spain,,500000.0,2025-06-30 00:00:00
+551182,Fran Vieites,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,26,16,0,0,0,0,0,0,500000,196.0,Spain,left,500000.0,2026-06-30 00:00:00
+1367276,Ibrahim Alani,Real Valladolid,Midfield,Central Midfield,Central Midfield,18,2,0,0,0,0,0,0,500000,175.0,Nigeria,right,500000.0,2027-06-30 00:00:00
+1056971,Aingeru Olabarrieta,Athletic Bilbao,Attack,Right Winger,Right Winger,19,1,0,0,0,0,0,0,500000,182.0,Spain,left,500000.0,2025-06-30 00:00:00
+115333,Juanpe,Girona,Defender,Centre-Back,Centre-Back,34,15,0,0,0,0,0,0,500000,192.0,Spain,right,7500000.0,2027-05-31 00:00:00
+632741,Iker Losada,Real Betis,Attack,Right Winger,Second Striker,23,20,0,0,0,0,0,0,500000,175.0,Spain,right,500000.0,2025-06-30 00:00:00
+221311,Iván Sánchez,Real Valladolid,Attack,Right Winger,Right Winger,32,16,0,0,0,0,0,0,500000,169.0,Spain,left,1200000.0,2027-06-30 00:00:00
+930415,Antonio Gomis,Atletico Madrid,Goalkeeper,Goalkeeper,Goalkeeper,22,16,0,0,0,0,0,0,500000,191.0,Spain,left,500000.0,2027-06-30 00:00:00
+715628,Damián Rodríguez,Celta Vigo,Midfield,Defensive Midfield,Defensive Midfield,22,17,0,0,0,0,0,0,500000,,Spain,left,500000.0,2027-06-30 00:00:00
+834463,Iker Córdoba,Valencia,Defender,Centre-Back,Centre-Back,19,10,2,13,0,0,0,0,500000,190.0,Spain,left,500000.0,2026-06-30 00:00:00
+162038,Raúl de Tomás,Rayo Vallecano,Attack,Centre-Forward,Centre-Forward,30,9,0,0,0,0,0,0,500000,180.0,Spain,right,25000000.0,2026-06-30 00:00:00
+633056,Tamás Nikitscher,Real Valladolid,Midfield,Defensive Midfield,Defensive Midfield,25,7,13,855,0,0,2,0,500000,193.0,Hungary,right,1000000.0,2029-06-30 00:00:00
+711394,Javier Martón,Athletic Bilbao,Attack,Centre-Forward,Centre-Forward,26,7,0,0,0,0,0,0,500000,181.0,Spain,right,500000.0,2026-06-30 00:00:00
+1054909,Pablo Busto,Real Betis,Defender,Right-Back,Right-Back,19,1,0,0,0,0,0,0,500000,180.0,Spain,right,500000.0,2025-06-30 00:00:00
+531062,Fabio González,Las Palmas,Midfield,Central Midfield,Central Midfield,28,9,2,52,0,0,0,0,450000,176.0,Spain,right,600000.0,2026-06-30 00:00:00
+211251,Darwin Machís,Real Valladolid,Attack,Left Winger,Left Winger,32,12,0,0,0,0,0,0,450000,171.0,Venezuela,right,10000000.0,2027-12-31 00:00:00
+227805,Jaume Doménech,Valencia,Goalkeeper,Goalkeeper,Goalkeeper,34,16,0,0,0,0,0,0,400000,185.0,Spain,right,7500000.0,
+629511,Pablo Ramón,Espanyol,Defender,Centre-Back,Centre-Back,24,3,0,0,0,0,0,0,400000,185.0,Spain,right,400000.0,2023-06-30 00:00:00
+64399,Vicente Guaita,Celta Vigo,Goalkeeper,Goalkeeper,Goalkeeper,38,17,34,3060,0,0,0,0,400000,190.0,Spain,right,10000000.0,
+95641,Darko Brasanac,Leganes,Midfield,Central Midfield,Central Midfield,33,19,0,0,0,0,0,0,400000,178.0,Serbia,right,4000000.0,2026-06-30 00:00:00
+215099,Daley Sinkgraven,Las Palmas,Defender,Left-Back,Left-Back,29,3,0,0,0,0,0,0,400000,179.0,Netherlands,left,9000000.0,2026-06-30 00:00:00
+945709,Dani Requena,Villarreal,Midfield,Central Midfield,Central Midfield,21,1,0,0,0,0,0,0,400000,186.0,Spain,right,400000.0,2026-06-30 00:00:00
+337066,Toni Villa,Girona,Attack,Left Winger,Left Winger,30,1,0,0,0,0,0,0,400000,172.0,Spain,right,6000000.0,2026-06-30 00:00:00
+1169436,Vladyslav Krapyvtsov,Girona,Goalkeeper,Goalkeeper,Goalkeeper,20,6,2,180,0,0,0,0,400000,188.0,Ukraine,right,400000.0,2029-06-30 00:00:00
+668212,Rubén Iranzo,Valencia,Defender,Right-Back,Right-Back,22,7,0,0,0,0,0,0,300000,182.0,Spain,right,300000.0,2027-06-30 00:00:00
+935342,Alberto Collado,Sevilla,Midfield,Central Midfield,Central Midfield,20,1,0,0,0,0,0,0,300000,,Spain,right,300000.0,2027-06-30 00:00:00
+941080,Jon García,Osasuna,Midfield,Central Midfield,Central Midfield,22,1,0,0,0,0,0,0,300000,182.0,Spain,right,300000.0,2026-06-30 00:00:00
+1061660,Selvi Clua,Girona,Midfield,Defensive Midfield,Defensive Midfield,20,7,0,0,0,0,0,0,300000,189.0,Spain,left,300000.0,2026-06-30 00:00:00
+1038950,Etta Eyong,Villarreal,Attack,Centre-Forward,Centre-Forward,21,3,0,0,0,0,0,0,300000,181.0,Cameroon,right,300000.0,2027-06-30 00:00:00
+766552,Alberto Flores,Sevilla,Goalkeeper,Goalkeeper,Goalkeeper,21,10,0,0,0,0,0,0,300000,187.0,Spain,left,300000.0,2027-06-30 00:00:00
+948273,Mario Martín,Real Valladolid,Midfield,Defensive Midfield,Defensive Midfield,21,15,0,0,0,0,0,0,300000,177.0,Spain,right,300000.0,2025-06-30 00:00:00
+707359,Etienne Eto'o,Rayo Vallecano,Attack,Centre-Forward,Centre-Forward,22,5,2,38,0,0,0,0,300000,191.0,Cameroon,right,300000.0,2026-06-30 00:00:00
+628487,Ángel Fortuño,Espanyol,Goalkeeper,Goalkeeper,Goalkeeper,23,20,0,0,0,0,0,0,300000,183.0,Spain,right,400000.0,2024-06-30 00:00:00
+1164331,Ismael Bekhoucha,Getafe,Defender,Right-Back,Right-Back,20,4,5,65,0,0,2,0,300000,176.0,Morocco,right,300000.0,2028-06-30 00:00:00
+1054429,Carlos Guirao,Real Betis,Midfield,Defensive Midfield,Central Midfield,22,4,2,112,0,0,0,0,300000,184.0,Spain,right,300000.0,2029-06-30 00:00:00
+964190,Luken Beitia,Real Sociedad,Defender,Centre-Back,Centre-Back,21,2,0,0,0,0,0,0,300000,191.0,Spain,right,300000.0,2029-06-30 00:00:00
+1064871,Joaquín Panichelli,Alaves,Attack,Centre-Forward,Centre-Forward,22,1,0,0,0,0,0,0,300000,187.0,Argentina,right,300000.0,2025-06-30 00:00:00
+541621,Marc Vidal,Celta Vigo,Goalkeeper,Goalkeeper,Goalkeeper,25,2,0,0,0,0,0,0,300000,185.0,Spain,right,300000.0,2028-06-30 00:00:00
+1055860,Iñaki Rupérez,Real Sociedad,Defender,Right-Back,Right-Back,22,1,0,0,0,0,0,0,300000,177.0,Spain,right,300000.0,2029-06-30 00:00:00
+709971,Xavi Moreno,Real Valladolid,Attack,Right Winger,Right Winger,20,1,0,0,0,0,0,0,300000,175.0,Spain,left,300000.0,2026-06-30 00:00:00
+237499,Aleksandar Sedlar,Alaves,Defender,Centre-Back,Centre-Back,33,19,0,0,0,0,0,0,275000,180.0,Serbia,right,900000.0,2026-06-30 00:00:00
+357628,Alfon González,Celta Vigo,Attack,Left Winger,Left Winger,26,18,0,0,0,0,0,0,250000,172.0,Spain,,300000.0,2023-06-30 00:00:00
+646735,Aitor Gismera,Atletico Madrid,Midfield,Central Midfield,Central Midfield,21,1,0,0,0,0,0,0,250000,182.0,Spain,right,250000.0,2027-06-30 00:00:00
+226261,César de la Hoz,Real Valladolid,Midfield,Defensive Midfield,Defensive Midfield,33,3,0,0,0,0,0,0,250000,179.0,Spain,right,1200000.0,
+905997,Pablo Durán,Celta Vigo,Attack,Centre-Forward,Centre-Forward,24,18,0,0,0,0,0,0,250000,176.0,Spain,right,250000.0,2027-06-30 00:00:00
+1123335,Hamza Bellari,Valencia,Attack,Right Winger,Right Winger,22,2,0,0,0,0,0,0,200000,,Morocco,left,200000.0,2026-06-30 00:00:00
+949116,Ro Abajas,Valencia,Defender,Left-Back,Left-Back,22,4,1,66,0,0,1,0,200000,186.0,Spain,left,200000.0,2028-06-30 00:00:00
+246204,Salvi Sánchez,Espanyol,Attack,Right Winger,Right Winger,34,7,0,0,0,0,0,0,200000,170.0,Spain,right,2800000.0,2026-06-30 00:00:00
+834483,Álex Padilla,Athletic Bilbao,Goalkeeper,Goalkeeper,Goalkeeper,21,8,0,0,0,0,0,0,200000,190.0,Mexico,right,200000.0,2027-06-30 00:00:00
+1064391,Egoitz Muñoz,Alaves,Defender,Right-Back,Right-Back,21,1,0,0,0,0,0,0,200000,,Spain,right,200000.0,2027-06-30 00:00:00
+939374,Yoel Lago,Celta Vigo,Defender,Centre-Back,Centre-Back,21,7,0,0,0,0,0,0,200000,,Spain,,200000.0,2027-06-30 00:00:00
+120705,Juan Carlos,Girona,Goalkeeper,Goalkeeper,Goalkeeper,37,13,0,0,0,0,0,0,200000,187.0,Spain,,1000000.0,2025-06-30 00:00:00
+608382,Adrián Rodríguez,Alaves,Goalkeeper,Goalkeeper,Goalkeeper,24,14,2,121,0,0,1,0,200000,195.0,Argentina,right,200000.0,2026-06-30 00:00:00
+1255616,Alberto Risco,Getafe,Midfield,Attacking Midfield,Attacking Midfield,19,3,5,64,0,0,0,0,200000,,Spain,,200000.0,2026-06-30 00:00:00
+1061665,Jastin Garcia,Girona,Attack,Left Winger,Left Winger,21,5,0,0,0,0,0,0,200000,180.0,Portugal,right,200000.0,2026-06-30 00:00:00
+949489,Abdoulaye Keita,Getafe,Attack,Left Winger,Left Winger,22,5,3,94,0,0,0,0,200000,186.0,Spain,,200000.0,2026-06-30 00:00:00
+111508,Allan Nyom,Getafe,Defender,Right-Back,Right-Back,37,14,20,884,1,2,3,0,200000,189.0,Cameroon,right,5000000.0,2026-06-30 00:00:00
+636686,Arnau Rafús,Real Valladolid,Goalkeeper,Goalkeeper,Goalkeeper,22,2,1,90,0,0,0,0,200000,190.0,Spain,,200000.0,2026-06-30 00:00:00
+1230201,Sixtus Ogbuehi,Osasuna,Attack,Centre-Forward,Centre-Forward,22,1,0,0,0,0,0,0,200000,192.0,Nigeria,right,200000.0,2028-06-30 00:00:00
+1032280,Oso,Sevilla,Defender,Left-Back,Left-Back,21,3,0,0,0,0,0,0,200000,183.0,Spain,left,200000.0,2027-06-30 00:00:00
+890817,Dimitrios Stamatakis,Osasuna,Goalkeeper,Goalkeeper,Goalkeeper,22,5,0,0,0,0,0,0,200000,191.0,Greece,both,200000.0,2027-06-30 00:00:00
+916014,Isra Domínguez,Sevilla,Attack,Left Winger,Centre-Forward,22,2,1,17,0,0,0,0,200000,175.0,Spain,right,200000.0,2027-06-30 00:00:00
+710484,Mario Maroto,Real Valladolid,Midfield,Central Midfield,Central Midfield,21,5,2,63,0,1,0,0,200000,176.0,Spain,left,200000.0,2026-06-30 00:00:00
+906025,Ricard Artero,Girona,Midfield,Attacking Midfield,Attacking Midfield,22,2,0,0,0,0,0,0,200000,181.0,Spain,right,200000.0,2027-06-30 00:00:00
+1210422,Aboubacar Bassinga,Las Palmas,Midfield,Central Midfield,Central Midfield,19,1,1,3,0,0,0,0,200000,,Cote d'Ivoire,left,200000.0,2026-06-30 00:00:00
+1158985,Gerónimo Spina,Atletico Madrid,Defender,Centre-Back,Centre-Back,20,1,0,0,0,0,0,0,200000,187.0,Argentina,right,200000.0,2027-06-30 00:00:00
+982848,Raúl Jiménez,Valencia,Goalkeeper,Goalkeeper,Goalkeeper,19,1,0,0,0,0,0,0,200000,188.0,Spain,left,200000.0,2026-06-30 00:00:00
+646741,César Fernández,Celta Vigo,Goalkeeper,Goalkeeper,Goalkeeper,21,1,0,0,0,0,0,0,200000,181.0,Spain,right,200000.0,2025-06-30 00:00:00
+741251,Vicent Abril,Valencia,Goalkeeper,Goalkeeper,Goalkeeper,20,1,0,0,0,0,0,0,200000,187.0,Spain,right,200000.0,2029-06-30 00:00:00
+892217,Eneko Ortiz,Alaves,Defender,Left-Back,Left-Back,22,1,0,0,0,0,0,0,150000,,Spain,,150000.0,2025-06-30 00:00:00
+718581,Lulo Dasilva,Sevilla,Midfield,Central Midfield,Central Midfield,22,2,0,0,0,0,0,0,150000,189.0,Spain,right,150000.0,2026-06-30 00:00:00
+699771,Pedro Alemañ,Valencia,Midfield,Attacking Midfield,Central Midfield,23,1,0,0,0,0,0,0,150000,182.0,Spain,left,150000.0,2025-06-30 00:00:00
+973690,Luca Lohr,Getafe,Defender,Centre-Back,Centre-Back,22,4,0,0,0,0,0,0,150000,193.0,Spain,right,150000.0,2026-06-30 00:00:00
+567504,Guilherme Fernandes,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,24,4,0,0,0,0,0,0,150000,191.0,Portugal,right,200000.0,2026-06-30 00:00:00
+719720,David Argüelles,Getafe,Defender,Left-Back,Left-Back,23,8,1,6,0,0,0,0,150000,175.0,Spain,left,150000.0,2026-06-30 00:00:00
+1065441,Carlos Lumbreras,Osasuna,Attack,Centre-Forward,Centre-Forward,20,1,0,0,0,0,0,0,150000,180.0,Spain,right,150000.0,2027-06-30 00:00:00
+1061260,Iago Parente,Real Valladolid,Defender,Centre-Back,Centre-Back,19,2,0,0,0,0,0,0,150000,180.0,Spain,right,150000.0,2026-06-30 00:00:00
+946269,Alex Almansa,Espanyol,Attack,Left Winger,Left Winger,21,1,0,0,0,0,0,0,150000,186.0,Spain,left,200000.0,2026-06-30 00:00:00
+895333,Koke Iglesias,Real Valladolid,Defender,Right-Back,Right-Back,20,3,0,0,0,0,0,0,150000,,Spain,right,200000.0,2026-06-30 00:00:00
+1063990,Grégoire Swiderski,Alaves,Goalkeeper,Goalkeeper,Goalkeeper,19,2,0,0,0,0,0,0,150000,187.0,Canada,right,150000.0,2027-06-30 00:00:00
+634117,Pablo Valencia,Osasuna,Goalkeeper,Goalkeeper,Goalkeeper,24,9,0,0,0,0,0,0,150000,188.0,Spain,right,200000.0,2026-06-30 00:00:00
+605528,Pol Tristán,Espanyol,Goalkeeper,Goalkeeper,Goalkeeper,23,4,0,0,0,0,0,0,100000,188.0,Spain,both,100000.0,2026-06-30 00:00:00
+1271065,Valentín Pezzolesi,Las Palmas,Defender,Right-Back,Right-Back,18,2,0,0,0,0,0,0,100000,,Argentina,right,100000.0,2027-06-30 00:00:00
+1000136,Gorka Rivera,Getafe,Defender,Left-Back,Left-Back,20,1,1,19,0,0,0,0,100000,,Spain,left,100000.0,2029-06-30 00:00:00
+948278,Jacobo Ramón,Real Madrid,Defender,Centre-Back,Centre-Back,20,10,0,0,0,0,0,0,100000,188.0,Spain,,100000.0,2028-06-30 00:00:00
+711367,Egoitz Arana,Real Sociedad,Goalkeeper,Goalkeeper,Goalkeeper,23,1,0,0,0,0,0,0,100000,197.0,Spain,left,100000.0,2026-06-30 00:00:00
+767255,Matías Árbol,Sevilla,Goalkeeper,Goalkeeper,Goalkeeper,22,7,0,0,0,0,0,0,100000,184.0,Spain,,100000.0,2026-06-30 00:00:00
+938144,Diego Kochen,FC Barcelona,Goalkeeper,Goalkeeper,Goalkeeper,19,10,0,0,0,0,0,0,100000,188.0,United States,right,100000.0,2028-06-30 00:00:00
+27493,Iván Cuéllar,Mallorca,Goalkeeper,Goalkeeper,Goalkeeper,41,15,0,0,0,0,0,0,100000,187.0,Spain,left,2500000.0,2026-06-30 00:00:00
+1225038,Manu González,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,18,3,0,0,0,0,0,0,100000,,Spain,right,100000.0,2028-06-30 00:00:00
+904712,Justin Smith,Espanyol,Midfield,Defensive Midfield,Central Midfield,22,5,0,0,0,0,0,0,100000,190.0,Canada,right,300000.0,2023-06-30 00:00:00
+139435,Dani Rodríguez,Mallorca,Midfield,Attacking Midfield,Attacking Midfield,37,20,37,2175,4,7,5,0,100000,178.0,Spain,right,1500000.0,2026-06-30 00:00:00
+948254,Marco de las Sías,Rayo Vallecano,Defender,Centre-Back,Centre-Back,19,8,0,0,0,0,0,0,100000,,Spain,right,100000.0,2027-06-30 00:00:00
+866541,Joao Urbáez,Leganes,Defender,Centre-Back,Centre-Back,22,1,0,0,0,0,0,0,50000,179.0,Dominican Republic,right,50000.0,2026-06-30 00:00:00
+632913,Pere García,Mallorca,Goalkeeper,Goalkeeper,Goalkeeper,23,1,0,0,0,0,0,0,50000,193.0,Spain,right,50000.0,2026-06-30 00:00:00
+973314,Sergio Mestre,Real Madrid,Goalkeeper,Goalkeeper,Goalkeeper,20,11,0,0,0,0,0,0,50000,193.0,Spain,right,50000.0,2026-06-30 00:00:00
+945767,Hugo Solozábal,Leganes,Midfield,Central Midfield,Central Midfield,22,1,0,0,0,0,0,0,50000,,Spain,,50000.0,2026-06-30 00:00:00
+932349,Diego Méndez,Rayo Vallecano,Midfield,Central Midfield,Central Midfield,21,1,0,0,0,0,0,0,50000,182.0,Spain,right,100000.0,2026-06-30 00:00:00
+1146039,Elías Romero,Las Palmas,Attack,Centre-Forward,Centre-Forward,21,1,0,0,0,0,0,0,50000,,Spain,,50000.0,2026-06-30 00:00:00
+945702,Sebas Wade,Mallorca,Defender,Centre-Back,Centre-Back,22,1,0,0,0,0,0,0,50000,190.0,England,left,50000.0,2028-06-30 00:00:00
+1337084,Papa Ba,Girona,Attack,Right Winger,Right Winger,21,2,1,47,0,0,0,0,50000,180.0,Senegal,left,50000.0,2026-06-30 00:00:00
+1216529,Guillem Trilla,Getafe,Defender,Centre-Back,Centre-Back,22,1,0,0,0,0,0,0,50000,,Spain,,50000.0,2026-06-30 00:00:00
+1129175,Raúl Martínez,Girona,Midfield,Central Midfield,Central Midfield,23,1,0,0,0,0,0,0,25000,,Spain,,25000.0,2026-06-30 00:00:00
+1134878,Diego Martín,Las Palmas,Defender,Left-Back,Left-Back,21,1,0,0,0,0,0,0,25000,,Spain,,25000.0,2026-06-30 00:00:00
+1061277,Germán García,Real Betis,Goalkeeper,Goalkeeper,Goalkeeper,21,1,0,0,0,0,0,0,25000,,Spain,,25000.0,2025-06-30 00:00:00
+618805,Iker Bachiller,Leganes,Defender,Left-Back,Left-Back,22,6,0,0,0,0,0,0,25000,169.0,Spain,left,25000.0,2026-06-30 00:00:00
+1338984,Sergio Viera,Las Palmas,Midfield,Attacking Midfield,Attacking Midfield,20,4,2,96,0,0,1,0,25000,,Spain,,25000.0,2026-06-30 00:00:00
+668210,Ferran Ruiz,Girona,Defender,Right-Back,Right-Back,22,2,0,0,0,0,0,0,25000,172.0,Spain,right,25000.0,2026-06-30 00:00:00
+1179293,Sergio Ruiz,Las Palmas,Attack,Left Winger,Left Winger,19,1,0,0,0,0,0,0,25000,175.0,Spain,right,25000.0,2026-06-30 00:00:00
+1135452,Jorge Benito,Getafe,Goalkeeper,Goalkeeper,Goalkeeper,19,3,0,0,0,0,0,0,25000,,Spain,,25000.0,2027-06-30 00:00:00

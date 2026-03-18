@@ -1,6 +1,6 @@
 # LaLiga Player Performance & Market Value Analytics
 
-A data analytics project exploring the relationship between player performance metrics and market valuations across LaLiga (2024-25 season) using **real Transfermarkt data**. This project applies exploratory data analysis, feature engineering, and machine learning to uncover what truly drives a footballer's market value in Spain's top division.
+A data analytics project exploring the relationship between player performance metrics and market valuations across LaLiga (2024-25 season) using **real Transfermarkt data**. Built from the complete [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) — **622 players across all 20 teams** with full matchday squad rosters, market valuations, and appearance statistics. This project applies exploratory data analysis, feature engineering, and machine learning to uncover what truly drives a footballer's market value in Spain's top division.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
@@ -10,13 +10,13 @@ A data analytics project exploring the relationship between player performance m
 
 ## Key Findings
 
-1. **Age is the strongest individual predictor of market value.** The age + age² features dominate importance rankings. Players in the 24–29 "peak age" window command a clear premium, while the quadratic term captures the rapid depreciation after 30.
+1. **Minutes played is the strongest predictor of market value** (29.4% feature importance). Consistent starters command far higher valuations — regular playing time signals trust from the manager and reliability.
 
-2. **Team prestige is a massive hidden driver.** Adding a squad-level median value proxy boosted model R² from ~0.56 to ~0.70 — confirming that the *shirt a player wears* matters almost as much as what they do on the pitch.
+2. **Team prestige is the second-most important driver** (20.8%). Adding a squad-level median value proxy as a feature demonstrates that the *shirt a player wears* matters almost as much as what they do on the pitch.
 
-3. **Gradient Boosting outperforms Ridge and Random Forest (R² = 0.70 vs 0.69 vs 0.64).** Non-linear interactions — especially between age, team context, and goal output — are critical. GB's sequential error-correction captures nuances that a single linear model or bagged trees miss.
+3. **Gradient Boosting achieves R² = 0.84** — significantly outperforming Random Forest (0.76) and Ridge Regression (0.68). Non-linear interactions between age, team context, and playing time are critical. GB's sequential error-correction captures nuances that simpler models miss.
 
-4. **The model reveals genuinely interesting mispricings.** Players like Eduardo Camavinga (€50M actual, €5.7M predicted) and Gavi (€40M actual, €9.2M predicted) are "undervalued" by the model because they played minimal minutes due to injury — their value reflects potential and reputation, not on-pitch output this season.
+4. **The model reveals genuinely interesting mispricings.** Players like Takefusa Kubo (€30M actual, €13.9M predicted) are "undervalued" by the model — their market value reflects reputation and potential beyond raw on-pitch output this season.
 
 ---
 
@@ -41,7 +41,7 @@ football-analytics-project/
 ├── requirements.txt
 ├── .gitignore
 ├── data/
-│   └── laliga_players_2024_25.csv     # Real Transfermarkt data (254 players)
+│   └── laliga_players_2024_25.csv     # Real Transfermarkt data (622 players, 20 teams)
 ├── images/                             # Auto-generated plot PNGs
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb       # EDA: distributions, correlations, visual analysis
