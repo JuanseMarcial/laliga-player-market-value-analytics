@@ -56,6 +56,24 @@ TEAM_NAME_MAP = {
 }
 
 
+# LaLiga 2024-25 final standings (computed from Transfermarkt match results)
+# Used as a leakage-free team prestige proxy in the predictive model
+LALIGA_2024_STANDINGS = {
+    "FC Barcelona": 88, "Real Madrid": 84, "Atletico Madrid": 76,
+    "Athletic Bilbao": 70, "Villarreal": 70, "Real Betis": 60,
+    "Celta Vigo": 55, "Osasuna": 52, "Rayo Vallecano": 52,
+    "Mallorca": 48, "Valencia": 46, "Real Sociedad": 46,
+    "Alaves": 42, "Espanyol": 42, "Sevilla": 41,
+    "Girona": 41, "Leganes": 40, "Getafe": 39,
+    "Las Palmas": 32, "Real Valladolid": 16,
+}
+
+
+def get_team_points() -> dict:
+    """Return team → points mapping for LaLiga 2024-25."""
+    return LALIGA_2024_STANDINGS.copy()
+
+
 def load_dataset(path: str = DATA_PATH) -> pd.DataFrame:
     """
     Load and clean the LaLiga 2024-25 dataset.

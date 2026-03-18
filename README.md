@@ -10,13 +10,13 @@ A data analytics project exploring the relationship between player performance m
 
 ## Key Findings
 
-1. **Minutes played is the strongest predictor of market value** (29.4% feature importance). Consistent starters command far higher valuations — regular playing time signals trust from the manager and reliability.
+1. **Minutes played is the strongest predictor of market value** (31% feature importance). Consistent starters command far higher valuations — regular playing time signals trust from the manager and reliability.
 
-2. **Team prestige is the second-most important driver** (20.8%). Adding a squad-level median value proxy as a feature demonstrates that the *shirt a player wears* matters almost as much as what they do on the pitch.
+2. **Team prestige is the second-most important driver** (20%), captured via league standings points (not squad market values, which would cause target leakage). The *shirt a player wears* matters almost as much as what they do on the pitch.
 
-3. **Gradient Boosting achieves R² = 0.84** — significantly outperforming Random Forest (0.76) and Ridge Regression (0.68). Non-linear interactions between age, team context, and playing time are critical. GB's sequential error-correction captures nuances that simpler models miss.
+3. **Tuned Gradient Boosting achieves CV R² = 0.65** (test R² = 0.84). Hyperparameters selected via `RandomizedSearchCV` (50 iterations). We report cross-validation as the primary metric — a single test split can be misleadingly optimistic.
 
-4. **The model reveals genuinely interesting mispricings.** Players like Takefusa Kubo (€30M actual, €13.9M predicted) are "undervalued" by the model — their market value reflects reputation and potential beyond raw on-pitch output this season.
+4. **Demographics alone explain ~26% of variance** (baseline model on all 622 players using only age, position, team, height). Match statistics add substantial predictive power, improving CV R² from 0.26 to 0.65.
 
 ---
 
