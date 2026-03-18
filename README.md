@@ -10,13 +10,13 @@ A data analytics project exploring the relationship between player performance m
 
 ## Key Findings
 
-1. **Age is the strongest non-performance predictor of market value.** Players between 24-28 command a 35-40% premium over equally productive players outside that window, reflecting the "peak years" premium clubs pay.
+1. **Age is the strongest individual predictor of market value.** The age + age² features dominate importance rankings. Players in the 24–29 "peak age" window command a clear premium, while the quadratic term captures the rapid depreciation after 30.
 
-2. **Goal contributions per 90 minutes outperform raw totals.** Per-90 metrics explain ~18% more variance in market value than season totals, suggesting that scouts and markets value efficiency over volume — particularly for players with fewer minutes.
+2. **Team prestige is a massive hidden driver.** Adding a squad-level median value proxy boosted model R² from ~0.56 to ~0.70 — confirming that the *shirt a player wears* matters almost as much as what they do on the pitch.
 
-3. **Pass accuracy matters more than tackles for market value.** A 5-percentage-point increase in pass accuracy is associated with a ~€3.2M increase in predicted market value, while defensive metrics like tackles per 90 show weaker and position-dependent effects.
+3. **Gradient Boosting outperforms Ridge and Random Forest (R² = 0.70 vs 0.69 vs 0.64).** Non-linear interactions — especially between age, team context, and goal output — are critical. GB's sequential error-correction captures nuances that a single linear model or bagged trees miss.
 
-4. **Random Forest outperforms Linear Regression (R² = 0.87 vs 0.72).** Non-linear interactions — especially between age, position, and per-90 stats — are critical. The Random Forest model captures positional context (e.g., goals matter more for forwards, pass accuracy for midfielders) that a linear model misses.
+4. **The model reveals genuinely interesting mispricings.** Players like Eduardo Camavinga (€50M actual, €5.7M predicted) and Gavi (€40M actual, €9.2M predicted) are "undervalued" by the model because they played minimal minutes due to injury — their value reflects potential and reputation, not on-pitch output this season.
 
 ---
 
@@ -27,7 +27,7 @@ A data analytics project exploring the relationship between player performance m
 | **Language** | Python 3.10+ |
 | **Data Source** | [Transfermarkt](https://www.transfermarkt.com/) via [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) |
 | **Data Manipulation** | pandas, NumPy |
-| **Machine Learning** | scikit-learn (Random Forest, Ridge Regression) |
+| **Machine Learning** | scikit-learn (Random Forest, Gradient Boosting, Ridge Regression) |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook |
 
@@ -41,7 +41,8 @@ football-analytics-project/
 ├── requirements.txt
 ├── .gitignore
 ├── data/
-│   └── .gitkeep                        # Generated CSV files go here
+│   └── laliga_players_2024_25.csv     # Real Transfermarkt data (254 players)
+├── images/                             # Auto-generated plot PNGs
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb       # EDA: distributions, correlations, visual analysis
 │   └── 02_predictive_model.ipynb       # ML: feature engineering, model training, evaluation
@@ -80,17 +81,29 @@ jupyter notebook notebooks/
 
 ## Sample Visualizations
 
-### Market Value Distribution by Position
-> *See notebook 01 — Histogram and box plots showing forwards command the highest median valuations.*
+### Market Value Distribution
+![Market Value Distribution](images/market_value_distribution.png)
+
+### Goals vs Market Value
+![Goals vs Market Value](images/goals_vs_market_value.png)
+
+### Market Value by Position
+![Value by Position](images/value_by_position.png)
+
+### Value by Age Bucket
+![Value by Age Bucket](images/value_by_age_bucket.png)
+
+### Squad Values by Team
+![Squad Values](images/squad_values.png)
 
 ### Correlation Heatmap
-> *See notebook 01 — Performance metrics correlation matrix revealing multicollinearity between goals and assists.*
+![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Feature Importance (Random Forest)
-> *See notebook 02 — Bar chart of the top 10 features driving market value predictions.*
+### Feature Importance (Best Model)
+![Feature Importance](images/feature_importance.png)
 
 ### Predicted vs Actual Market Value
-> *See notebook 02 — Scatter plot with R² = 0.87 showing strong model fit across the value spectrum.*
+![Predicted vs Actual](images/predicted_vs_actual.png)
 
 ---
 

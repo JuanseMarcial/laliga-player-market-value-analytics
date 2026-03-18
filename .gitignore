@@ -41,3 +41,6 @@ models/
 
 # Logs
 *.log
+
+# Build scripts
+build_and_run.py
